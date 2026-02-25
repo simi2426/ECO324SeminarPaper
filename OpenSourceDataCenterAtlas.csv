@@ -1,0 +1,1480 @@
+id,state,state_abb,state_id,county_id,fips,county,operator,ref,name,sqft,lon,lat,type,population
+2744301,New Jersey,NJ,34,23,34023,Middlesex County,,,Verizon,105786,-74.49652096,40.54425558,building,858770
+9474864,North Carolina,NC,37,27,37027,Caldwell County,Google,,Google Data Center,3407194,-81.54651453,35.8947377,campus,80705
+13924557,Iowa,IA,19,153,19153,Polk County,Microsoft,,Project Alluvion,11169421,-93.71182965,41.51596683,campus,488871
+14593270,North Carolina,NC,37,35,37035,Catawba County,,,Apple - Maiden Data Center,5431080,-81.26180877,35.58877136,campus,159852
+14930068,New Mexico,NM,35,1,35001,Bernalillo County,Sandia National Laboratories,880,HPC,158463,-106.542822,35.04994198,building,674919
+14997588,Virginia,VA,51,87,51087,Henrico County,Meta,,Meta Henrico Data Center,4671056,-77.23645509,37.48276328,campus,331924
+15884451,New Jersey,NJ,34,39,34039,Union County,Barclays,,Barclays Datacenter,94373,-74.28548117,40.64375303,building,571963
+16282459,Maryland,MD,24,3,24003,Anne Arundel County,AiNET,,CyberNAP Glen Burnie,89879,-76.60643112,39.14024171,building,584064
+18518989,Alabama,AL,1,89,01089,Madison County,Meta,,Meta Huntsville Data Center,14435561,-86.6283168,34.84424468,campus,382149
+19390019,North Dakota,ND,38,17,38017,Cass County,,,Dakota Carrier Network,25931,-96.84432644,46.81509687,building,182992
+19787207,Virginia,VA,51,153,51153,Prince William County,Microsoft,1,Microsoft Data Center 1,248706,-77.58237919,38.80241113,building,477224
+19988712,Oregon,OR,41,13,41013,Crook County,Meta,,Meta Prineville Datacenter,17379079,-120.8863823,44.29844323,campus,24300
+19993392,Oregon,OR,41,13,41013,Crook County,Apple,,Apple Prineville Datacenter,15637431,-120.8658833,44.28455821,campus,24300
+25706343,Texas,TX,48,439,48439,Tarrant County,Cyxtera,,Cyxtera Dallas-Fort Worth Data Center,309104,-97.04104164,32.8327179,building,2091953
+28544618,Texas,TX,48,113,48113,Dallas County,Equinix,,Equinix Infomart,239835,-96.81951055,32.80094322,building,2604722
+29827954,Massachusetts,MA,25,17,25017,Middlesex County,,BO1,CoreSite BO1,133960,-71.07975762,42.37670588,building,1623411
+30666790,California,CA,6,37,06037,Los Angeles County,United States Postal Service,,USPO Terminal Annex,99270,-118.2353929,34.05810224,building,10019635
+30827429,Texas,TX,48,113,48113,Dallas County,,,DataBank,43564,-96.79843729,32.77830148,building,2604722
+31250931,Ohio,OH,39,165,39165,Warren County,CyrusOne,CIN3,CyrusOne Cincinnati-Mason CIN3,82813,-84.31158,39.30389581,building,239556
+31800424,California,CA,6,73,06073,San Diego County,,,LightEdge SAN1,83576,-117.1299339,32.82786552,building,3296317
+31803515,California,CA,6,73,06073,San Diego County,EdgeConneX,,EdgeConneX San Diego,39204,-117.169345,32.84230866,building,3296317
+32560290,California,CA,6,67,06067,Sacramento County,NTT,CA2,RagingWire CA2,204702,-121.4919461,38.65039953,building,1571767
+32560292,California,CA,6,67,06067,Sacramento County,NTT,CA1,RagingWire CA1,192302,-121.4891865,38.65043183,building,1571767
+34770750,Georgia,GA,13,121,13121,Fulton County,,,Hewlett-Packard,1294301,-84.26744994,34.08222606,campus,1054286
+35491576,California,CA,6,85,06085,Santa Clara County,Equinix,SV1,Equinix SV1,135022,-121.7833201,37.2415868,building,1932022
+36897140,Ohio,OH,39,61,39061,Hamilton County,,,,13074,-84.41211321,39.29404818,building,826790
+37877544,California,CA,6,85,06085,Santa Clara County,Lumen Technologies,,Lumen Sunnyvale 1,77132,-121.987813,37.37343915,building,1932022
+37947313,California,CA,6,85,06085,Santa Clara County,,,OpenColo,65471,-121.9559373,37.37881629,building,1932022
+37947314,California,CA,6,85,06085,Santa Clara County,Equinix,SV2,Equinix Santa Clara SV2,81106,-121.9549919,37.37843369,building,1932022
+37947315,California,CA,6,85,06085,Santa Clara County,Layer42,,Layer42 Santa Clara,25031,-121.9541511,37.37803995,building,1932022
+38305431,California,CA,6,85,06085,Santa Clara County,Digital Realty,,Digital Realty Silicon Valley SJC34,129242,-121.9736195,37.3723882,building,1932022
+38305568,California,CA,6,85,06085,Santa Clara County,Csquare,,Csquare SFO1,92193,-121.9696974,37.37151905,building,1932022
+38305611,California,CA,6,85,06085,Santa Clara County,Vantage,,,89293,-121.9726929,37.37338591,building,1932022
+39083541,Georgia,GA,13,121,13121,Fulton County,,,Strategic Datasphere,127487,-84.2356967,34.0947974,building,1054286
+39083797,Georgia,GA,13,121,13121,Fulton County,Flexential,,Flexential Atlanta - Alpharetta Data Center,74814,-84.25175215,34.08700522,building,1054286
+39083830,Georgia,GA,13,121,13121,Fulton County,,,Secure Data Center,184012,-84.25087563,34.09370761,building,1054286
+40608200,California,CA,6,85,06085,Santa Clara County,Cologix,SV1,Cologix Santa Clara SV1 Data Center,80686,-121.9617004,37.36533281,building,1932022
+42323063,Missouri,MO,29,510,29510,St. Louis city,,,Netrality Data Centers,23093,-90.19717483,38.62926158,building,302787
+45448535,Minnesota,MN,27,53,27053,Hennepin County,,,,51180,-93.28029157,44.99145768,building,1270283
+45583050,Virginia,VA,51,153,51153,Prince William County,,,,52906,-77.51057748,38.8034146,building,477224
+45776978,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,Amazon IAD11,Amazon IAD11,122474,-77.54111112,38.79050001,building,477224
+45776979,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD24,Amazon IAD24,31388,-77.54000634,38.79035015,building,477224
+45776988,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,Amazon IAD-7,Amazon IAD7,109423,-77.53827709,38.79120375,building,477224
+46128119,Ohio,OH,39,61,39061,Hamilton County,CyrusOne,CIN2,CyrusOne CIN2,29534,-84.51789754,39.10269486,building,826790
+46831933,Virginia,VA,51,153,51153,Prince William County,Digital Realty,,VA 4,263538,-77.59487615,38.77811127,building,477224
+48242814,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD10,Amazon IAD10,112726,-77.43287558,39.02164555,building,413574
+48242816,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD32,Amazon IAD32,35700,-77.43479445,39.02156932,building,413574
+52059176,Oregon,OR,41,67,41067,Washington County,NTT,,NTT RagingWire Data Center,260339,-122.9373929,45.54958399,building,596969
+52094269,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD1-B,Centersquare IAD1-B,79070,-77.41518976,39.0239073,building,413574
+52094270,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD1-A,Centersquare IAD1-A,89830,-77.41320102,39.02332121,building,413574
+52094294,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD1-C,Centersquare IAD1-C,135383,-77.41220366,39.02475555,building,413574
+52227492,Minnesota,MN,27,19,27019,Carver County,Flexential,,Flexential Minneapolis - Chaska,135505,-93.59883127,44.85159287,building,105694
+52958203,Colorado,CO,8,31,08031,Denver County,,,Pearl Plaza Office Building,48787,-104.9793322,39.74523035,building,706799
+54119665,California,CA,6,85,06085,Santa Clara County,Csquare,SFO2,Csquare SFO2,146098,-121.9808694,37.3975792,building,1932022
+54119667,California,CA,6,85,06085,Santa Clara County,Csquare,SFO2,Csquare SFO2,115693,-121.9811117,37.39861833,building,1932022
+54121151,California,CA,6,85,06085,Santa Clara County,Quality Technology Services,,QTS Santa Clara 1,32173,-121.9783097,37.39398378,building,1932022
+54173383,California,CA,6,85,06085,Santa Clara County,CoreSite,SV3,CoreSite SV3,57809,-121.9717094,37.37514209,building,1932022
+54173753,California,CA,6,85,06085,Santa Clara County,CoreSite,SV6,CoreSite SV6,61065,-121.9720838,37.37630188,building,1932022
+54173755,California,CA,6,85,06085,Santa Clara County,CoreSite,SV8,CoreSite SV8,41609,-121.9718401,37.37738266,building,1932022
+54383196,California,CA,6,85,06085,Santa Clara County,CoreSite,SV5,CoreSite SV5,50856,-121.9706898,37.3751961,building,1932022
+54383197,California,CA,6,85,06085,Santa Clara County,CoreSite,SV9,CoreSite SV9,60403,-121.96961,37.37555852,building,1932022
+58708529,California,CA,6,85,06085,Santa Clara County,Quality Technology Services,,QTS Santa Clara 2,36808,-121.9783969,37.39272168,building,1932022
+59294476,Virginia,VA,51,107,51107,Loudoun County,Stack Infrastructure,NVA01A,STACK NVA01A - Northern Virginia,179330,-77.44176407,39.00469915,building,413574
+63619642,Minnesota,MN,27,53,27053,Hennepin County,,,Minnesota Gateway Data Center,87697,-93.25465187,44.97130185,building,1270283
+69827429,New York,NY,36,1,36001,Albany County,,,IBM Building,15355,-73.75274525,42.64935307,building,314679
+71187940,Michigan,MI,26,163,26163,Wayne County,Verizon Wireless,DTRT.PP2,,24933,-83.07698606,42.32626638,building,1789781
+79056848,New Hampshire,NH,33,17,33017,Strafford County,University of New Hampshire,,,30553,-70.95247263,43.14361852,building,130598
+79158387,Virginia,VA,51,59,51059,Fairfax County,Digital Realty,VA3,VA3,96241,-77.32729535,38.94846385,building,1146825
+79159494,Virginia,VA,51,59,51059,Fairfax County,Evocative,IAD1,IAD1,19325,-77.32940997,38.94881628,building,1146825
+79298926,Virginia,VA,51,59,51059,Fairfax County,CoreSite,,CoreSite Reston Campus VA1,138035,-77.3645476,38.95058588,building,1146825
+79818498,Virginia,VA,51,59,51059,Fairfax County,CoreSite,,CoreSite Reston VA3,249707,-77.3723698,38.94846757,building,1146825
+87058670,New Hampshire,NH,33,15,33015,Rockingham County,FirstLight,,,9316,-70.80804278,43.07611926,building,312771
+89784186,Colorado,CO,8,31,08031,Denver County,,,Insurance Exchange Building,19807,-104.9956911,39.74557178,building,706799
+93210344,Maryland,MD,24,31,24031,Montgomery County,Lincoln Rackhouse,,Lincoln Rackhouse Maryland,146301,-76.96432171,39.05856288,building,1057201
+95349317,Ohio,OH,39,165,39165,Warren County,,,CyrusOne Cincinnati-Lebanon,198403,-84.22187534,39.38901874,building,239556
+95782052,New Jersey,NJ,34,17,34017,Hudson County,Equinix,NY7,Equinix NY7 Data Center,68650,-74.03114084,40.79686367,building,713264
+99813512,California,CA,6,85,06085,Santa Clara County,Equinix,SV4,Equinix SV4,122369,-122.0145795,37.41456431,building,1932022
+102129663,Texas,TX,48,29,48029,Bexar County,H5 Data Centers,,H5 Data Centers San Antonio,20898,-98.48690639,29.4293712,building,1990522
+104082694,Iowa,IA,19,153,19153,Polk County,,,Aureon,11253,-93.63100935,41.58799897,building,488871
+116005354,North Carolina,NC,37,35,37035,Catawba County,,,,564402,-81.26252688,35.58801264,building,159852
+122665255,Connecticut,CT,9,120,09120,Greater Bridgeport Planning Region,Digital Realty,HVN10,Digital Realty New York HVN10,134982,-73.14729942,41.24084597,building,#N/A
+124088810,Illinois,IL,17,43,17043,DuPage County,,,Lincoln Rackhouse,70123,-88.21709087,41.7721648,building,934094
+128499684,Illinois,IL,17,31,17031,Cook County,Digital Realty,CH1,Digital Realty CH1,469756,-87.96217216,41.99423743,building,5265398
+131874718,Minnesota,MN,27,123,27123,Ramsey County,H5,,H5 Minneapolis,108201,-93.14746016,44.9722531,building,549377
+131891022,Arizona,AZ,4,13,04013,Maricopa County,,,Iron Mountain Records Storage,145832,-112.0413258,33.42038003,building,4367186
+132746406,California,CA,6,85,06085,Santa Clara County,Equinix,SV8,Equinix SV8,12034,-122.1607817,37.44589522,building,1932022
+138260136,Illinois,IL,17,19,17019,Champaign County,,,NCSA Petascale Computing Facility,45620,-88.2420314,40.09525911,building,206583
+138643160,Ohio,OH,39,23,39023,Clark County,,,LexisNexus Springfield,79937,-83.72376142,39.91278008,building,136032
+149379943,Illinois,IL,17,31,17031,Cook County,Digital Realty,ORD11,Digital Realty ORD11,9092,-87.62995442,41.87429346,building,5265398
+151179323,Arizona,AZ,4,13,04013,Maricopa County,Lumen Technologies,,Lumen,25456,-112.0707857,33.49433566,building,4367186
+152163711,Arizona,AZ,4,13,04013,Maricopa County,,,L3Harris Technologies Inc,14469,-111.671704,33.30535847,building,4367186
+152163722,Arizona,AZ,4,13,04013,Maricopa County,,,AZ Labs,31625,-111.6717003,33.30627198,building,4367186
+152449872,Illinois,IL,17,31,17031,Cook County,Serverfarm,CH1,Serverfarm CH1,56419,-87.64014139,41.87094383,building,5265398
+155739337,Arizona,AZ,4,13,04013,Maricopa County,,,Aligned Energy Data Center,512814,-112.1111682,33.65904093,building,4367186
+156468497,Virginia,VA,51,59,51059,Fairfax County,,,,19578,-77.22583813,38.91370196,building,1146825
+156520409,Illinois,IL,17,31,17031,Cook County,,,Lakeside Technology Center,129156,-87.61835925,41.85365261,building,5265398
+157362579,Arizona,AZ,4,13,04013,Maricopa County,Flexential,,Flexential Phoenix - Deer Valley,110023,-112.0983569,33.68467414,building,4367186
+161126131,California,CA,6,85,06085,Santa Clara County,Equinix,SV5,Equinix SV5,166314,-121.7818393,37.24204047,building,1932022
+166431620,Nebraska,NE,31,55,31055,Douglas County,Union Pacific Railroad,,"Union Pacific Jack Koraleski Technology, Research & Development Center",54386,-96.0503447,41.31800464,building,578771
+168129695,Pennsylvania,PA,42,3,42003,Allegheny County,,,DataBank Pittsburgh PIT2,60007,-80.19011838,40.45136853,building,1246116
+169170979,New Mexico,NM,35,1,35001,Bernalillo County,,,Molina Healthcare,25568,-106.6180344,34.99544592,building,674919
+172739950,Nevada,NV,32,3,32003,Clark County,Switch,,Switch12,378533,-115.2132922,36.06173889,building,2231147
+172739953,Nevada,NV,32,3,32003,Clark County,Switch,,Switch Las Vegas 7,324714,-115.2102455,36.05992515,building,2231147
+174242795,Illinois,IL,17,31,17031,Cook County,EdgeConneX,CHI01,EdgeConneX CHI01,120191,-87.9507687,42.0007752,building,5265398
+178331621,Maryland,MD,24,21,24021,Frederick County,,,,64023,-77.41151851,39.37777631,building,267498
+187574082,New Jersey,NJ,34,23,34023,Middlesex County,,,Verizon Wireline Network Building,32247,-74.44309493,40.49490313,building,858770
+190868312,California,CA,6,67,06067,Sacramento County,NTT,CA3,RagingWire CA3,151366,-121.4987627,38.64423935,building,1571767
+191655977,Iowa,IA,19,155,19155,Pottawattamie County,,,,227733,-95.86382197,41.22148562,building,93571
+192307107,California,CA,6,75,06075,San Francisco County,Digital Realty,,360 Spear Street Data Center,34599,-122.3901367,37.78899166,building,865933
+193611192,New Jersey,NJ,34,17,34017,Hudson County,Equinix,,Equinix New York Secaucus NY5,211455,-74.07230107,40.77860178,building,713264
+193611211,New Jersey,NJ,34,17,34017,Hudson County,Equinix,NY4,Equinix New York Secaucus NY4,317271,-74.06977591,40.77642808,building,713264
+193611216,New Jersey,NJ,34,17,34017,Hudson County,Equinix,Equinix NY3,Equinix NY3,274326,-74.06889005,40.77485223,building,713264
+193611219,New Jersey,NJ,34,17,34017,Hudson County,Equinix,NY2,Equinix New York Secaucus NY2,402960,-74.07591693,40.77741951,building,713264
+193612533,New Jersey,NJ,34,17,34017,Hudson County,Centersquare,,Centersquare NYC3 Data Center,143163,-74.06918218,40.78616439,building,713264
+194049551,California,CA,6,67,06067,Sacramento County,Quality Technology Services,,QTS Sacramento,90196,-121.4862227,38.64634933,building,1571767
+195165330,Missouri,MO,29,165,29165,Platte County,,,,59078,-94.67586457,39.29060065,building,105189
+195165354,Missouri,MO,29,165,29165,Platte County,,,,240121,-94.6734719,39.29565787,building,105189
+195165374,Missouri,MO,29,165,29165,Platte County,,,Black Rock Financial Management,80025,-94.67802527,39.29549175,building,105189
+195169261,Missouri,MO,29,165,29165,Platte County,,,,51140,-94.6847918,39.3024057,building,105189
+195664350,Oklahoma,OK,40,143,40143,Tulsa County,,,Cherokee Data Center,414827,-95.91003133,36.26254606,building,664084
+199252950,Illinois,IL,17,43,17043,DuPage County,CyrusOne,,CyrusOne Chicago Aurora CME,483103,-88.24360276,41.79671071,building,934094
+200989527,Colorado,CO,8,5,08005,Arapahoe County,,,Xfinity/Comcast Data Center,51338,-104.8324348,39.58830728,building,651621
+203432103,Indiana,IN,18,105,18105,Monroe County,Indiana University,,IU Data Center,94298,-86.50070265,39.17441904,building,140189
+204316962,New Jersey,NJ,34,23,34023,Middlesex County,,,IO Datacenter,829908,-74.34731684,40.52090134,building,858770
+204460681,New Jersey,NJ,34,23,34023,Middlesex County,,,DataBank Piscataway EWR2,50646,-74.45820962,40.54921345,building,858770
+204460799,New Jersey,NJ,34,23,34023,Middlesex County,,,Optimum,68126,-74.49202896,40.54682624,building,858770
+204460812,New Jersey,NJ,34,23,34023,Middlesex County,Equinix,,Equinix,62331,-74.49538058,40.54488193,building,858770
+204460835,New Jersey,NJ,34,23,34023,Middlesex County,Barclays,,Barclays Datacenter,352286,-74.45973726,40.54724427,building,858770
+204460903,New Jersey,NJ,34,23,34023,Middlesex County,Digital Realty,EWR12,Digital Realty New York EWR12,302795,-74.45930065,40.5529045,building,858770
+204460950,New Jersey,NJ,34,23,34023,Middlesex County,Digital Realty,EWR11,Digital Realty New York EWR11,96114,-74.45717948,40.55377882,building,858770
+205724881,Washington,WA,53,33,53033,King County,,,Intergate Seattle East Building 2,107319,-122.2905696,47.4950309,building,2240876
+205724885,Washington,WA,53,33,53033,King County,Sabey,,Intergate Seattle East Building 1,97862,-122.2881943,47.49485963,building,2240876
+205823968,California,CA,6,85,06085,Santa Clara County,Equinix,SV15,Equinix SV15,38211,-121.9884063,37.37549515,building,1932022
+205823970,California,CA,6,85,06085,Santa Clara County,Equinix,SV16,Equinix SV16,26347,-121.988688,37.37611802,building,1932022
+205823971,California,CA,6,85,06085,Santa Clara County,Equinix,SV17,Equinix SV17,42360,-121.9885839,37.376529,building,1932022
+205823980,California,CA,6,85,06085,Santa Clara County,Equinix,SV14,Equinix SV14,20213,-121.9885093,37.37496214,building,1932022
+205846843,California,CA,6,85,06085,Santa Clara County,CoreSite,SV4,CoreSite SV4,51928,-121.9706842,37.37626311,building,1932022
+209073635,California,CA,6,85,06085,Santa Clara County,Lumen Technologies,,Lumen Santa Clara,25424,-121.9520819,37.37700481,building,1932022
+209073636,California,CA,6,85,06085,Santa Clara County,Prime,,Prime Santa Clara,30065,-121.9532497,37.37501722,building,1932022
+209073641,California,CA,6,85,06085,Santa Clara County,Digital Realty,SJC10,Digital Realty Silicon Valley SJC10,57051,-121.9533354,37.37582291,building,1932022
+209073645,California,CA,6,85,06085,Santa Clara County,,,Colovore,24161,-121.9531488,37.37672947,building,1932022
+209073647,California,CA,6,85,06085,Santa Clara County,Digital Realty,SJC30,Digital Realty Silicon Valley SJC30,48539,-121.9581053,37.37828897,building,1932022
+209073649,California,CA,6,85,06085,Santa Clara County,Digital Realty,SJC15,Digital Realty Silicon Valley SJC15,24615,-121.9540769,37.37499655,building,1932022
+209073653,California,CA,6,85,06085,Santa Clara County,Digital Realty,SJC16,Digital Realty Silicon Valley SJC16,42504,-121.9559862,37.3749291,building,1932022
+209073657,California,CA,6,85,06085,Santa Clara County,Digital Realty,,Digital Realty Silicon Valley SJC29,40287,-121.9580962,37.3750232,building,1932022
+209073658,California,CA,6,85,06085,Santa Clara County,Csquare,SFO4,Csquare SFO4,27286,-121.955193,37.37577706,building,1932022
+209073659,California,CA,6,85,06085,Santa Clara County,Prime,,Prime SANTA CLARA DATA CENTER,25825,-121.9548807,37.37502631,building,1932022
+209076412,California,CA,6,85,06085,Santa Clara County,Digital Realty,SJC11,Digital Realty Silicon Valley SJC11,44027,-121.948531,37.37634101,building,1932022
+209077298,California,CA,6,85,06085,Santa Clara County,Lumen Technologies,,Lumen,15840,-121.9506821,37.3775848,building,1932022
+209087373,California,CA,6,85,06085,Santa Clara County,Digital Realty,SJC31,Silicon Valley SJC31,146597,-121.9483289,37.3722499,building,1932022
+209105766,California,CA,6,85,06085,Santa Clara County,,,,18864,-121.94991,37.37977911,building,1932022
+209117217,California,CA,6,85,06085,Santa Clara County,,SJC11,Evocative Santa Clara SJC11,51418,-121.961946,37.3895396,building,1932022
+209786637,Illinois,IL,17,31,17031,Cook County,Quality Technology Services,,QTS Chicago,267112,-87.66900815,41.84218653,building,5265398
+210222970,Illinois,IL,17,31,17031,Cook County,Iron Mountain,,Iron Mountain Data & Record Storage,106033,-87.64550983,41.84879669,building,5265398
+210917861,Arizona,AZ,4,13,04013,Maricopa County,,,Data Storage Centers,38109,-112.0343031,33.42169287,building,4367186
+211832626,Massachusetts,MA,25,9,25009,Essex County,TierPoint,,,51354,-71.20859932,42.68570899,building,804598
+214321737,Massachusetts,MA,25,17,25017,Middlesex County,Markley Group,,Markley Data Center,123665,-71.30442371,42.63026199,building,1623411
+215630401,North Carolina,NC,37,119,37119,Mecklenburg County,Flexential,,Flexential Charlotte - South,33741,-80.93687158,35.13543065,building,1100984
+220518160,Arizona,AZ,4,13,04013,Maricopa County,Digital Realty,,Digital Realty Data Center,67568,-111.8992268,33.34464821,building,4367186
+221201212,Washington,WA,53,33,53033,King County,Comcast,,,8025,-122.3173172,47.69332367,building,2240876
+221897579,Virginia,VA,51,59,51059,Fairfax County,,,Equinix DC97,43991,-77.37742308,38.96157142,building,1146825
+222672860,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD55,Amazon IAD-55,228140,-77.64876376,38.81506151,building,477224
+223783259,Washington,WA,53,33,53033,King County,,,CTI Biopharma,20600,-122.356693,47.61778781,building,2240876
+223928497,Washington,WA,53,33,53033,King County,Digital Realty,SEA10,Westin Building,13117,-122.3388642,47.61435538,building,2240876
+224100721,Virginia,VA,51,153,51153,Prince William County,,,COPT Data Center,127955,-77.53184529,38.74728121,building,477224
+224139416,California,CA,6,85,06085,Santa Clara County,,,Dell 350 Holger Way,45282,-121.9430846,37.41840704,building,1932022
+224174031,California,CA,6,85,06085,Santa Clara County,SV Colo,,SV Colo,57709,-121.9587993,37.36431022,building,1932022
+224998784,California,CA,6,85,06085,Santa Clara County,Microsoft,,Microsoft,166655,-121.9464364,37.36206621,building,1932022
+225745958,Virginia,VA,51,61,51061,Fauquier County,,,OVH US East Vint Hill,85783,-77.67445377,38.7474447,building,72416
+231047065,Wyoming,WY,56,21,56021,Laramie County,University Corporation for Atmospheric Research,,NCAR-Wyoming Supercomputing Center,101129,-104.8974868,41.12879049,building,99905
+231664575,Washington,WA,53,33,53033,King County,H5 Data Centers,,The Seattle Times,48589,-122.3364616,47.61898483,building,2240876
+231769626,Oregon,OR,41,65,41065,Wasco County,Google,,Google Data Center The Dalles Oregon,1487396,-121.2013022,45.63204799,campus,26603
+233888384,North Carolina,NC,37,183,37183,Wake County,,,Segra Data Center,46141,-78.66236321,35.72499209,building,1112883
+234722029,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC2,Equinix Ashburn DC2,175215,-77.45900625,39.01647071,building,413574
+234722720,Virginia,VA,51,107,51107,Loudoun County,H5,Ashburn,H5 Data Centers Ashburn,83656,-77.4517199,39.01367499,building,413574
+239032142,South Dakota,SD,46,99,46099,Minnehaha County,,,TierPoint Sioux Falls West Data Center,55963,-96.8091949,43.60697078,building,194884
+239147373,Virginia,VA,51,59,51059,Fairfax County,Lumen Technologies,,Lumen McLean,42056,-77.21161872,38.92002072,building,1146825
+239147724,Virginia,VA,51,59,51059,Fairfax County,DataBank,IAD2,DataBank McLean IAD2,22957,-77.213585,38.91990515,building,1146825
+240724127,Utah,UT,49,35,49035,Salt Lake County,,,eBay,183167,-112.0477249,40.56374933,building,1173331
+243242167,Illinois,IL,17,43,17043,DuPage County,Equinix,,Equinix Chicago Data CH7,47336,-87.97284349,41.81255711,building,934094
+244490839,Arizona,AZ,4,13,04013,Maricopa County,,,PhoenixNAP,79223,-112.0094263,33.41605054,building,4367186
+247427998,New York,NY,36,85,36085,Richmond County,Merrill Lynch,,Merrill Lynch Data Center,63435,-74.17317971,40.60738024,building,493194
+247428943,New York,NY,36,85,36085,Richmond County,Telehouse,,Telehouse Teleport,69999,-74.17488652,40.60698521,building,493194
+250052753,New York,NY,36,61,36061,New York County,,,32 Avenue of the Americas,42396,-74.00463587,40.71999848,building,1669127
+251716328,Virginia,VA,51,59,51059,Fairfax County,Digital Realty,,Digital Realty,72337,-77.47258022,38.9101327,building,1146825
+253682978,Missouri,MO,29,510,29510,St. Louis city,,,TierPoint,24039,-90.19642027,38.62976101,building,302787
+254583328,Nevada,NV,32,3,32003,Clark County,,,Verizon,25884,-115.0779282,36.14473261,building,2231147
+254742608,Texas,TX,48,29,48029,Bexar County,,A,,127563,-98.64069027,29.4466742,building,1990522
+254742609,Texas,TX,48,29,48029,Bexar County,,B,,142712,-98.64112862,29.44792214,building,1990522
+254742610,Texas,TX,48,29,48029,Bexar County,,Connector,,36014,-98.64099342,29.44719901,building,1990522
+254773884,Texas,TX,48,85,48085,Collin County,,,,121665,-96.68156544,33.09599431,building,1039812
+254773897,Texas,TX,48,85,48085,Collin County,Centersquare,DA1,Evoque Allen DA1,114534,-96.68376374,33.09506356,building,1039812
+256728809,Nebraska,NE,31,55,31055,Douglas County,,,,69219,-95.93649511,41.26141937,building,578771
+257581364,Virginia,VA,51,87,51087,Henrico County,Flexential,,Flexential - Richmond,39778,-77.43869517,37.64689021,building,331924
+258343744,Virginia,VA,51,59,51059,Fairfax County,Amazon Web Services,IAD-9,Amazon IAD-9,85855,-77.45344041,38.89965169,building,1146825
+258343748,Virginia,VA,51,59,51059,Fairfax County,,,Amazon IAD22,30140,-77.45510184,38.89790175,building,1146825
+258343749,Virginia,VA,51,59,51059,Fairfax County,Amazon Web Services,IAD-1,Amazon IAD-1,93882,-77.45407519,38.89785914,building,1146825
+258519934,Virginia,VA,51,59,51059,Fairfax County,,,,43330,-77.47224543,38.90924511,building,1146825
+258519959,Virginia,VA,51,59,51059,Fairfax County,,,,32222,-77.47346579,38.90979813,building,1146825
+260996040,Virginia,VA,51,59,51059,Fairfax County,,,,56049,-77.19627276,38.7508166,building,1146825
+269166415,Georgia,GA,13,121,13121,Fulton County,,,Cox Data Center,127858,-84.31955322,34.03620189,building,1054286
+269847438,Georgia,GA,13,121,13121,Fulton County,Quality Technology Services,,QTS Atlanta Data Center 1,719736,-84.42109986,33.77768117,building,1054286
+271893323,California,CA,6,85,06085,Santa Clara County,Csquare,SFO3,Csquare SFO3,71209,-121.9860314,37.3721037,building,1932022
+273895868,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD3,Centersquare IAD3,130748,-77.44424695,38.98092475,building,413574
+273896089,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD2-A,Centersquare IAD2-A,48153,-77.42381652,38.98441813,building,413574
+273896096,Virginia,VA,51,107,51107,Loudoun County,CyrusOne,CyrusOne Northern Virginia Sterling IV,,127744,-77.42564884,38.98488675,building,413574
+273896102,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD2-B,Centersquare IAD2-B,71819,-77.42410521,38.98360375,building,413574
+278560778,Georgia,GA,13,121,13121,Fulton County,Digital Realty,,Digital Realty Data Center,128785,-84.41520253,33.6570323,building,1054286
+279410762,New Jersey,NJ,34,17,34017,Hudson County,Cyxtera,,Cyxtera (Digital Realty Trust) Citibank Data Center,58356,-74.02575834,40.76076493,building,713264
+279410766,New Jersey,NJ,34,17,34017,Hudson County,Digital Realty,EWR10,Digital Realty New Jersey EWR10,126960,-74.02502491,40.76183108,building,713264
+283051469,Washington,WA,53,25,53025,Grant County,,,,151976,-119.8132294,47.24621228,building,97874
+283051470,Washington,WA,53,25,53025,Grant County,,,,133363,-119.8131868,47.24765247,building,97874
+283051471,Washington,WA,53,25,53025,Grant County,,,,135310,-119.815756,47.24616793,building,97874
+283051472,Washington,WA,53,25,53025,Grant County,Sabey Data Centers,,Intergate Quincy Data Center,4318512,-119.8159312,47.24532713,campus,97874
+283051474,Washington,WA,53,25,53025,Grant County,Intuit,,H5 Data Center,2700606,-119.8187531,47.25141149,campus,97874
+283051475,Washington,WA,53,25,53025,Grant County,,,,246778,-119.8196649,47.25257381,building,97874
+283051477,Washington,WA,53,25,53025,Grant County,Yahoo,,Yahoo Data Center,2171290,-119.8277818,47.24698453,campus,97874
+283051478,Washington,WA,53,25,53025,Grant County,,,,151213,-119.8288659,47.24673555,building,97874
+283051481,Washington,WA,53,25,53025,Grant County,,,,35848,-119.8297912,47.24599141,building,97874
+283051482,Washington,WA,53,25,53025,Grant County,,,,35925,-119.8291703,47.2459894,building,97874
+283051483,Washington,WA,53,25,53025,Grant County,,,,33824,-119.8281588,47.24598937,building,97874
+283051484,Washington,WA,53,25,53025,Grant County,,,,33688,-119.8275415,47.2460033,building,97874
+283051485,Washington,WA,53,25,53025,Grant County,,,,19067,-119.8286616,47.24606674,building,97874
+283051487,Washington,WA,53,25,53025,Grant County,,,NTTData Data Center,3068566,-119.8646326,47.24435999,campus,97874
+284044002,Georgia,GA,13,67,13067,Cobb County,datasite,Atlanta,DataSite Atlanta,77660,-84.48161599,33.92551126,building,762500
+288909509,Missouri,MO,29,165,29165,Platte County,,,,30923,-94.68505095,39.29012105,building,105189
+289620443,California,CA,6,75,06075,San Francisco County,Digital Realty,SFO10,Digital Realty San Francisco SFO10,104867,-122.397936,37.7236017,building,865933
+289884123,New York,NY,36,61,36061,New York County,,,33 Thomas Street,30791,-74.00591306,40.71652498,building,1669127
+290101976,Idaho,ID,16,65,16065,Madison County,,,VentureData,18269,-111.7820928,43.82524323,building,50979
+290307022,Arizona,AZ,4,13,04013,Maricopa County,"Cogent Communications, Inc.",,Cogent Data Center,51675,-112.0478999,33.40025523,building,4367186
+290703004,Texas,TX,48,113,48113,Dallas County,CoreSpace,,CoreSpace Dallas,31626,-96.87306493,32.81755909,building,2604722
+292506449,Colorado,CO,8,5,08005,Arapahoe County,,,,108473,-104.8469633,39.59013144,building,651621
+292506452,Colorado,CO,8,5,08005,Arapahoe County,,,zColo by Zayo,62177,-104.8470386,39.59135175,building,651621
+293211683,Washington,WA,53,33,53033,King County,Sabey,,Intergate Seattle East Building 5,200124,-122.2897362,47.49191977,building,2240876
+293211686,Washington,WA,53,33,53033,King County,Sabey,,Intergate Seattle East Building 3,203387,-122.2903016,47.49355624,building,2240876
+293211687,Washington,WA,53,33,53033,King County,Digital Realty,,Intergate Seattle East Building 4,116828,-122.2888583,47.49341087,building,2240876
+296374269,Pennsylvania,PA,42,77,42077,Lehigh County,Flexential,,Flexential Allentown data center,48995,-75.45757328,40.63569532,building,372492
+298126010,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,ACC4,Digital Realty ACC4,294156,-77.46254912,39.01790179,building,413574
+298127059,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC1,Equinix Ashburn DC1,59757,-77.46032654,39.01556033,building,413574
+298127361,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC5,Equinix Ashburn DC5,94665,-77.46124798,39.0159873,building,413574
+298127420,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC11,Equinix Ashburn DC11,132897,-77.45880365,39.01493075,building,413574
+298242260,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC3,Equinix Ashburn DC3,186227,-77.4602871,39.02194799,building,413574
+298242335,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,ACC3,Digital Realty ACC3,151562,-77.4598418,39.01993591,building,413574
+299388896,California,CA,6,85,06085,Santa Clara County,"CoreSite Real Estate 1656 McCarthy, L.P.",SV2,CoreSite SV2,89939,-121.9162412,37.40568311,building,1932022
+299927846,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD76,Amazon IAD76,138071,-77.45050946,38.99378528,building,413574
+299929061,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,Amazon IAD12,Amazon IAD12,149598,-77.44767142,38.98872331,building,413574
+299946152,Virginia,VA,51,107,51107,Loudoun County,QTS Data Centers,QTS Moran (The Vault),,10175,-77.44790209,38.99463732,building,413574
+300162674,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,ACC5,Digital Realty ACC5,298859,-77.46307101,39.02011264,building,413574
+300162675,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,ACC6,Digital Realty ACC6,226152,-77.46358953,39.02106804,building,413574
+300162689,Virginia,VA,51,107,51107,Loudoun County,Lumen Technologies,,Level 3 Ashburn,49022,-77.45759526,39.02217256,building,413574
+300163074,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD4-B,Centersquare IAD4-B,90029,-77.45360972,39.02214034,building,413574
+300163083,Virginia,VA,51,107,51107,Loudoun County,NTT,VA1,NTT Ashburn VA1 Data Center,138507,-77.45486923,39.02276446,building,413574
+300952513,Arizona,AZ,4,13,04013,Maricopa County,Digital Realty,PHX15,Digital Realty Phoenix PHX15,294678,-111.8866262,33.27497379,building,4367186
+300959969,Arizona,AZ,4,13,04013,Maricopa County,H5,Phoenix,H5 Phoenix,50925,-111.8859091,33.27691084,building,4367186
+300959970,Arizona,AZ,4,13,04013,Maricopa County,CyrusOne,PHX1,CyrusOne PHX1,137355,-111.8819115,33.27085533,building,4367186
+300969250,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC13,Equinix DC13,125613,-77.47539287,39.01253746,building,413574
+300969614,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD14,Digital Realty Northern Virginia IAD14,134503,-77.48709346,39.00333638,building,413574
+300969615,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services Building C,116698,-77.48544867,39.00275165,building,413574
+300969616,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD12,Digital Realty Northern Virginia IAD12,180269,-77.48334544,39.00202151,building,413574
+300969617,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,,Digital Realty Building A,133113,-77.48195443,39.00275465,building,413574
+300969619,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD24,Digital Realty Northern Virginia IAD24,114428,-77.48435474,39.00429228,building,413574
+300970759,Virginia,VA,51,107,51107,Loudoun County,Databank,IAD1,Databank Ashburn IAD1,144740,-77.48213788,39.0155488,building,413574
+300970761,Virginia,VA,51,107,51107,Loudoun County,,,Golds Gym Ashburn,54700,-77.48327064,39.01560148,building,413574
+300974499,Arizona,AZ,4,13,04013,Maricopa County,Apple Inc.,,Apple Data Center,1338261,-111.6040562,33.34701916,building,4367186
+317466755,Illinois,IL,17,97,17097,Lake County,VISA,,VISA,55001,-87.95284651,42.21675654,building,714484
+318069356,New Mexico,NM,35,49,35049,Santa Fe County,SONM,,John F. Simms Building,31727,-105.9565752,35.6724439,building,153632
+319857331,Texas,TX,48,29,48029,Bexar County,Lumen Technologies,,Lumen San Antonio 2,12722,-98.50652173,29.43827909,building,1990522
+321385147,Oregon,OR,41,13,41013,Crook County,,,,269642,-120.8872614,44.29588334,building,24300
+325096144,Oregon,OR,41,67,41067,Washington County,,,Adobe Data Center,89232,-122.9318121,45.55018169,building,596969
+328702378,Oregon,OR,41,67,41067,Washington County,,,Stack Infrastructure Portland 2 Data Center,215217,-122.897449,45.54731179,building,596969
+328702750,Oregon,OR,41,67,41067,Washington County,Digital Realty,,Digital Realty PDX10 Data Center,68807,-122.891958,45.54761722,building,596969
+328703598,Oregon,OR,41,67,41067,Washington County,Flexential,,Flexential,41245,-122.8908514,45.5498209,building,596969
+328703599,Oregon,OR,41,67,41067,Washington County,Flexential,,Flexential Portland - Hillsboro 1,44088,-122.8922017,45.55033399,building,596969
+329551673,Kentucky,KY,21,111,21111,Jefferson County,Flexential,,Flexential Louisville - East,34794,-85.50724112,38.27719783,building,780449
+330276516,Kentucky,KY,21,111,21111,Jefferson County,Flexential,,Flexential Louisville - Downtown,36525,-85.73335104,38.24249601,building,780449
+334264478,Pennsylvania,PA,42,101,42101,Philadelphia County,,,Terminal Commerce Building,119659,-75.16083249,39.95980953,building,1596865
+335468616,Washington,WA,53,63,53063,Spokane County,,,TierPoint,14435,-117.0959348,47.67191687,building,531477
+336387583,Maryland,MD,24,510,24510,Baltimore city,,,Baltimore Technology Park,30131,-76.62552663,39.27538391,building,592211
+337126739,Washington,WA,53,33,53033,King County,Sabey,,Intergate Seattle West Building C,19791,-122.2944069,47.49413119,building,2240876
+337126741,Washington,WA,53,33,53033,King County,Sabey,,Intergate Seattle West Building B,19140,-122.2936839,47.49307629,building,2240876
+337126742,Washington,WA,53,33,53033,King County,Sabey,,Intergate Seattle West Building A,38547,-122.2933198,47.49214783,building,2240876
+337127817,Washington,WA,53,25,53025,Grant County,,,Vantage WA11,147430,-119.8144903,47.25016455,building,97874
+337127824,Washington,WA,53,25,53025,Grant County,NTT,,NTT Data Quincy,99760,-119.8657116,47.24358751,building,97874
+337127832,Washington,WA,53,25,53025,Grant County,,,,44365,-119.8593593,47.2388186,building,97874
+337127833,Washington,WA,53,25,53025,Grant County,,,,32106,-119.8593663,47.23826233,building,97874
+342664739,Iowa,IA,19,163,19163,Scott County,,,Geneseo Communications Inc,53983,-90.48240923,41.55026945,building,174170
+343593591,Illinois,IL,17,43,17043,DuPage County,,,,14550,-88.21951394,41.90535459,building,934094
+345650474,New Jersey,NJ,34,23,34023,Middlesex County,,,,61263,-74.45667584,40.55281873,building,858770
+349925359,Indiana,IN,18,59,18059,Hancock County,Verizon Wireless,,,21005,-85.9413296,39.71718415,building,78616
+354590432,New Jersey,NJ,34,17,34017,Hudson County,,,,34462,-74.06435818,40.78473887,building,713264
+355926681,Utah,UT,49,35,49035,Salt Lake County,Flexential,,Flexential Salt Lake City - South Valley,30547,-111.9860469,40.62035188,building,1173331
+358455179,California,CA,6,85,06085,Santa Clara County,Digital Realty,,Digital Realty Silicon Valley SC1,297948,-121.9439113,37.36168659,building,1932022
+358946546,California,CA,6,1,06001,Alameda County,,,QES Computers,941,-121.9037995,37.6994753,building,1673133
+359930465,Washington,WA,53,33,53033,King County,Equinix,SE3,Equinix SE3 Data Center,12575,-122.3397434,47.61442273,building,2240876
+362662493,New Jersey,NJ,34,23,34023,Middlesex County,Quality Technology Services,NJ1,QTS Piscataway Data Center,343444,-74.48400693,40.55696486,building,858770
+363017375,Maryland,MD,24,33,24033,Prince George's County,,,AiNET,43057,-76.92590822,39.05282251,building,957767
+364289073,Texas,TX,48,29,48029,Bexar County,Microsoft,,Microsoft,258191,-98.69072125,29.47821638,building,1990522
+364289074,Texas,TX,48,29,48029,Bexar County,Microsoft,,Microsoft San Antonio,478642,-98.69260809,29.479926,building,1990522
+364289077,Texas,TX,48,29,48029,Bexar County,Microsoft,,Microsoft,194916,-98.69655923,29.48106634,building,1990522
+365941471,Puerto Rico,PR,72,127,72127,San Juan Municipio,Claro,,,23137,-66.05168721,18.44682697,building,344791
+366049843,Pennsylvania,PA,42,91,42091,Montgomery County,Lumen Technologies,,Lumen Norristown,34224,-75.40863781,40.12705827,building,850890
+368724474,Virginia,VA,51,59,51059,Fairfax County,Equinix,DC7,Equinix DC7,79709,-77.22055679,38.90913922,building,1146825
+368724479,Virginia,VA,51,59,51059,Fairfax County,,,Element Critical VA1,20483,-77.2197442,38.9083675,building,1146825
+369452572,Oregon,OR,41,51,41051,Multnomah County,,,Pittock Block,41556,-122.680704,45.52154358,building,810011
+369728508,Oregon,OR,41,67,41067,Washington County,Oregon Health & Science University,,Data Center,25297,-122.8755038,45.52668379,building,596969
+373913881,Texas,TX,48,85,48085,Collin County,,,Cisco Allen,162023,-96.66095239,33.1359802,building,1039812
+373945186,Oregon,OR,41,13,41013,Crook County,,,,231830,-120.8839984,44.29489362,building,24300
+376627431,Washington,WA,53,73,53073,Whatcom County,CSS Communications,,CSSNW Bellingham,4312,-122.4805475,48.75726819,building,224533
+377032058,Illinois,IL,17,31,17031,Cook County,EdgeConneX,CHI02,EdgeConneX CHI02,64358,-87.95256336,42.00149437,building,5265398
+377032061,Illinois,IL,17,31,17031,Cook County,Equinix,CH3,Equinix Chicago CH3,135800,-87.95521312,42.00115871,building,5265398
+377212693,Illinois,IL,17,43,17043,DuPage County,Element Critical,CH2,Element Critical CH2,44358,-87.96717576,41.97422731,building,934094
+377345296,Illinois,IL,17,43,17043,DuPage County,Centersquare,ORD2,Centersquare Elk Grove Village Data Center Campus ORD2,198323,-87.95817201,41.99204042,building,934094
+377545385,Colorado,CO,8,35,08035,Douglas County,Flexential,,Flexential Denver - Englewood,198772,-104.8375534,39.55897087,building,351929
+377585075,Michigan,MI,26,125,26125,Oakland County,EdgeConneX,DET01,EdgeConneX Detroit DET01,40574,-83.26266714,42.44769691,building,1271983
+379195054,Texas,TX,48,453,48453,Travis County,Lumen Technologies,,Lumen Austin 3,5068,-97.72359737,30.26139617,building,1267795
+379199519,Texas,TX,48,453,48453,Travis County,Alpheus,,Alpheus DataCenter,36089,-97.72210231,30.26104323,building,1267795
+379204279,Texas,TX,48,453,48453,Travis County,,AUS11,Digital Realty Austin AUS11,79985,-97.69578064,30.21217551,building,1267795
+379204643,Texas,TX,48,453,48453,Travis County,,,LightEdge Austin II,86445,-97.70704415,30.20067632,building,1267795
+379204766,Texas,TX,48,453,48453,Travis County,,AUS2,CyrusOne Austin Data Center II,77356,-97.69796495,30.20592968,building,1267795
+379205427,Texas,TX,48,453,48453,Travis County,,,Data Foundry Austin 1 Data Center,50461,-97.69607393,30.21550398,building,1267795
+380282154,Virginia,VA,51,107,51107,Loudoun County,,,VISA Data Center,349987,-77.4454155,39.04872822,building,413574
+382785871,Texas,TX,48,453,48453,Travis County,,,LightEdge Austin I,30876,-97.71266757,30.21429715,building,1267795
+383545769,Illinois,IL,17,31,17031,Cook County,Skybox,Chicago I,Skybox Chicago I,174575,-87.97351852,41.9936685,building,5265398
+383728972,California,CA,6,1,06001,Alameda County,Hurricane Electric,fmt1,Hurricane Electric Fremont 1,33640,-121.9310166,37.48986462,building,1673133
+383796776,Ohio,OH,39,43,39043,Erie County,Aligned Data Centers,,,633484,-82.71902751,41.4324305,building,75560
+383888101,Texas,TX,48,453,48453,Travis County,,,Lumen Austin 1,74722,-97.71239984,30.196499,building,1267795
+383888914,Texas,TX,48,453,48453,Travis County,,,Data Foundry - Texas 1,137095,-97.71378844,30.19892608,building,1267795
+384310259,California,CA,6,1,06001,Alameda County,XO,,XO Fremont,65815,-121.9221135,37.47533721,building,1673133
+384310269,California,CA,6,1,06001,Alameda County,Hurricane Electric,fmt2,Hurricane Electric Fremont 2,181268,-121.9203106,37.47182724,building,1673133
+384396017,Texas,TX,48,453,48453,Travis County,,,Element Critical,61978,-97.69617577,30.34280002,building,1267795
+384690290,Illinois,IL,17,43,17043,DuPage County,Element Critical,CH1,Element Critical CH1,92076,-87.96468544,41.97576175,building,934094
+387208881,New Jersey,NJ,34,13,34013,Essex County,Tishman,,165 Halsey / Equinix NY1 / Databank EWR1,89363,-74.17392521,40.73672575,building,852720
+387378765,Georgia,GA,13,135,13135,Gwinnett County,Quality Technology Services,,QTS Suwanee Data Center 1,310488,-84.06107488,34.0353897,building,948505
+387379196,Georgia,GA,13,135,13135,Gwinnett County,Quality Technology Services,,QTS Suwanee Data Center 2,360379,-84.05770349,34.03709881,building,948505
+388148510,Arkansas,AR,5,119,05119,Pulaski County,,,TierPoint Little Rock,31845,-92.44472351,34.7562358,building,397931
+390287635,California,CA,6,85,06085,Santa Clara County,Equinix,SV6,Equinix SV6,21678,-122.0145625,37.39960174,building,1932022
+392324240,Georgia,GA,13,135,13135,Gwinnett County,Flexential,,Flexential Atlanta - Norcross,32309,-84.19856192,33.95476871,building,948505
+396296733,Washington,WA,53,61,53061,Snohomish County,Centersquare,SE1,Centersquare Lynnwood SE1,104460,-122.3016903,47.8418108,building,820024
+397914434,Oregon,OR,41,13,41013,Crook County,Apple,,,9228,-120.8750775,44.28941553,building,24300
+400540223,Colorado,CO,8,41,08041,El Paso County,Walmart,,Walmart Colorado Data Center,219542,-104.78727,38.98574621,building,722736
+405034574,Nebraska,NE,31,55,31055,Douglas County,,,Verizon,11836,-96.02777413,41.33832138,building,578771
+405034584,Nebraska,NE,31,55,31055,Douglas County,,,Verizon,87375,-96.02861433,41.33843615,building,578771
+408012357,Alabama,AL,1,89,01089,Madison County,Alabama Supercomputer Authority,,George C. Wallace Alabama Supercomputer Center,14919,-86.67309883,34.7365409,building,382149
+409296605,Illinois,IL,17,31,17031,Cook County,Digital Realty,ORD12,Digital Realty Chicago ORD12,90165,-87.85923594,41.92837829,building,5265398
+410408067,Washington,WA,53,25,53025,Grant County,,,,36918,-119.8644874,47.23763281,building,97874
+410408073,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft,151246,-119.8829979,47.23947855,building,97874
+410408074,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft,147922,-119.8830836,47.23857485,building,97874
+410408079,Washington,WA,53,25,53025,Grant County,,,,46835,-119.8594059,47.2394877,building,97874
+414055237,Wyoming,WY,56,21,56021,Laramie County,Microsoft,CYS,Microsoft CYS Datacenter,8353216,-104.9053017,41.12341445,campus,99905
+414055239,Wyoming,WY,56,21,56021,Laramie County,,,,140780,-104.901876,41.12623099,building,99905
+417682780,Washington,WA,53,33,53033,King County,,,KOMO Plaza East,45743,-122.3481529,47.61932493,building,2240876
+417682781,Washington,WA,53,33,53033,King County,,,KOMO Plaza West,20239,-122.3485963,47.61891976,building,2240876
+421273622,Nebraska,NE,31,153,31153,Sarpy County,Fidelity,,Fidelity,40714,-96.08338762,41.16546905,building,188464
+424945736,California,CA,6,37,06037,Los Angeles County,Centurylink,,,71500,-118.3863127,33.91772905,building,10019635
+424945845,California,CA,6,37,06037,Los Angeles County,Serverfarm LLC.,LAX1,Serverfarm - LAX1,119102,-118.3864361,33.92174168,building,10019635
+424945852,California,CA,6,37,06037,Los Angeles County,Digital Realty,LAX4,DRT LAX12,113310,-118.3846301,33.9156489,building,10019635
+426586135,Colorado,CO,8,1,08001,Adams County,Google,,Google - Thornton,86059,-104.9832447,39.92241856,building,514969
+428021796,California,CA,6,37,06037,Los Angeles County,,LAX6,DRT LAX10,66979,-118.2575143,34.04732575,building,10019635
+428021816,California,CA,6,37,06037,Los Angeles County,,,One Wilshire,43850,-118.2555459,34.04789231,building,10019635
+429782814,Florida,FL,12,1,12001,Alachua County,University of Florida,1635,UF Research Computing Center,36370,-82.29992999,29.67259113,building,276171
+435324552,Virginia,VA,51,107,51107,Loudoun County,CyrusOne,NVA1;NVA2;NVA3,"CyrusOne NVA1, NVA2 & NVA3",265601,-77.41452291,39.02594651,building,413574
+435518280,Florida,FL,12,86,12086,Miami-Dade County,,,NAP of the Americas,122625,-80.19307541,25.78237898,building,2690113
+435531451,Florida,FL,12,86,12086,Miami-Dade County,,,,15911,-80.23003372,25.7975444,building,2690113
+435817145,Virginia,VA,51,107,51107,Loudoun County,CyrusOne,NVA5,CyrusOne NVA5,506948,-77.43403366,39.0243271,building,413574
+438077632,Iowa,IA,19,49,19049,Dallas County,Microsoft,,Microsoft,39146,-93.82494907,41.54061596,building,96604
+438078069,Iowa,IA,19,153,19153,Polk County,Meta,,Facebook Altoona Data Center 1,315400,-93.51472776,41.66424113,building,488871
+438078070,Iowa,IA,19,153,19153,Polk County,Meta,,Facebook Altoona Data Center 2,307370,-93.50817041,41.66553719,building,488871
+441502816,California,CA,6,59,06059,Orange County,,,Lumen Technologies,85658,-117.8058009,33.71677791,building,3182923
+444683815,Washington,WA,53,63,53063,Spokane County,Lumen Technologies,,Lumen,25399,-117.4200026,47.65422558,building,531477
+447803368,Wisconsin,WI,55,25,55025,Dane County,,,,9176,-89.43673598,43.06728878,building,555474
+450078003,Virginia,VA,51,47,51047,Culpeper County,Equinix,,Equinix CU2,1299936,-77.97818715,38.45493689,campus,52021
+451413811,California,CA,6,85,06085,Santa Clara County,,,,102004,-121.8879754,37.33363769,building,1932022
+451491797,New Jersey,NJ,34,17,34017,Hudson County,,,,150951,-74.0655602,40.78413404,building,713264
+451497833,New Jersey,NJ,34,17,34017,Hudson County,Evocative,,Evocative Secaucus,101304,-74.06804835,40.78755019,building,713264
+452116337,New Jersey,NJ,34,13,34013,Essex County,bt,,BT Radianz: 492 River Road,107857,-74.13418575,40.82145355,building,852720
+453969917,Colorado,CO,8,5,08005,Arapahoe County,,,Time Warner Datacenter,33804,-104.8603775,39.59896009,building,651621
+453969923,Colorado,CO,8,5,08005,Arapahoe County,,,Time Warner Datacenter,61435,-104.8601823,39.5999308,building,651621
+455171103,Texas,TX,48,453,48453,Travis County,,AUS3,CyrusOne Austin Data Center III,189921,-97.70111428,30.20699374,building,1267795
+459188722,New Jersey,NJ,34,25,34025,Monmouth County,Apollo,,Apollo Cable Landing Station,25904,-74.10158205,40.15704355,building,642160
+459188725,New York,NY,36,103,36103,Suffolk County,,,Cable & Wireless Cable Landing Station,36746,-72.88334531,40.84365992,building,1522998
+460050155,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC10,Equinix Ashburn DC10,152397,-77.45151284,39.02101419,building,413574
+460053028,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services Datacenter Complex,1088049,-77.45106545,39.02657482,campus,413574
+460053030,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,1022344,-77.4586619,39.02886986,campus,413574
+460056017,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,Amazon IAD-61,Amazon IAD-61,152289,-77.49198695,38.91580513,building,413574
+460056018,Virginia,VA,51,107,51107,Loudoun County,,,,709715,-77.44219587,38.98650208,campus,413574
+460056019,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,Amazon IAD51,Amazon IAD51,64127,-77.43650684,38.99141381,building,413574
+460056020,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,Amazon IAD56,Amazon IAD56,78441,-77.43706177,38.99056761,building,413574
+460056023,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,Amazon IAD16,Amazon IAD16,75817,-77.44882479,38.990699,building,413574
+460056024,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,Amazon IAD15,Amazon IAD15,103452,-77.44857953,38.9916929,building,413574
+460059465,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD14,Amazon IAD14,118192,-77.54821679,38.78993178,building,477224
+460060340,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD59,Amazon IAD59,127281,-77.54844964,38.79222601,building,477224
+460060341,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD52,Amazon IAD52,126699,-77.54837196,38.79106882,building,477224
+460067220,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services Datacenter Complex,1106310,-82.75171093,40.09388274,campus,177454
+460067225,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services us-east-2 datacenter,,Amazon AWS: Hilliard Data Center,2578490,-83.13425799,40.05990219,campus,1313598
+460070135,Oregon,OR,41,59,41059,Umatilla County,,,,2605,-119.2663236,45.9158356,building,79509
+460070136,Oregon,OR,41,59,41059,Umatilla County,,,,2608,-119.2665274,45.9158356,building,79509
+460070137,Oregon,OR,41,59,41059,Umatilla County,,,,2605,-119.2667259,45.9158356,building,79509
+460070138,Oregon,OR,41,59,41059,Umatilla County,,,,2605,-119.2671121,45.9158356,building,79509
+460070139,Oregon,OR,41,59,41059,Umatilla County,,,,2605,-119.2673159,45.9158431,building,79509
+460070140,Oregon,OR,41,59,41059,Umatilla County,,,,2605,-119.2675118,45.9158319,building,79509
+460070141,Oregon,OR,41,59,41059,Umatilla County,,,,2605,-119.267717,45.9158356,building,79509
+460070143,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,PDX2,Amazon PDX2,133053,-119.2677758,45.91640356,building,79509
+460070144,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX4,Amazon Web Services us-west-2,127483,-119.6527687,45.84100319,building,11964
+460070145,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX50/53,Amazon Web Services us-west-2,267452,-119.6298882,45.85223534,building,11964
+460070147,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX1,Amazon Web Services us-west-2,103260,-119.6305237,45.85088075,building,11964
+460076753,California,CA,6,85,06085,Santa Clara County,Equinix,SV3,Equinix San Jose SV3,109684,-121.8884291,37.38826956,building,1932022
+460085343,California,CA,6,75,06075,San Francisco County,Digital Realty,,365 Main Street Data Center,39318,-122.390469,37.78873104,building,865933
+460089167,North Carolina,NC,37,161,37161,Rutherford County,Meta,FRC,Meta Forest City datacenter,241126,-81.82213878,35.31423126,building,64592
+460089168,North Carolina,NC,37,161,37161,Rutherford County,Meta,FRC,Meta Forest City datacenter,244176,-81.82632689,35.31737237,building,64592
+460159925,California,CA,6,85,06085,Santa Clara County,NTT Limited,,,75249,-121.8892969,37.40390424,building,1932022
+460159928,California,CA,6,85,06085,Santa Clara County,Csquare,,Csquare SFO1,83921,-121.9698295,37.37043804,building,1932022
+460159955,California,CA,6,85,06085,Santa Clara County,Vantage,,,75686,-121.9725052,37.3717787,building,1932022
+460167186,Washington,WA,53,17,53017,Douglas County,Sabey Data Centers,,Intergate Columbia B,192887,-120.1874902,47.40716363,building,42622
+460167187,Washington,WA,53,17,53017,Douglas County,Sabey Data Centers,,Intergate Columbia A,262378,-120.1892936,47.40871426,building,42622
+460167190,Washington,WA,53,17,53017,Douglas County,,,Intergate Columbia,2771098,-120.1917305,47.40758788,campus,42622
+460175664,Virginia,VA,51,107,51107,Loudoun County,,,,35740,-77.44818874,38.9942274,building,413574
+460175666,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD4-A,Centersquare IAD4-A,77749,-77.4527469,39.02173369,building,413574
+460175672,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,AWS Building E,153355,-77.48561243,39.00505159,building,413574
+460177088,New Jersey,NJ,34,31,34031,Passaic County,Digital Realty,EWR20,Digital Realty New Jersey EWR20,29614,-74.12674913,40.82992946,building,521067
+460182320,New Jersey,NJ,34,35,34035,Somerset County,CyrusOne,,CyrusOne Somerset,318583,-74.54565866,40.53798638,building,343950
+460182335,New Jersey,NJ,34,35,34035,Somerset County,,,BNY Mellon Somerset,121002,-74.55340897,40.53601965,building,343950
+460182337,New Jersey,NJ,34,35,34035,Somerset County,Digital Realty,,,125668,-74.5555404,40.53753835,building,343950
+460182351,New Jersey,NJ,34,31,34031,Passaic County,Digital Realty,EWR21,Digital Realty New Jersey EWR21,71645,-74.1245144,40.8305858,building,521067
+460212563,California,CA,6,37,06037,Los Angeles County,Centurylink,,,43140,-118.3437889,34.19986911,building,10019635
+463571875,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD78,Amazon IAD78,147979,-77.44952023,39.02636804,building,413574
+463571876,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD79,Amazon IAD79,148678,-77.45087035,39.02635737,building,413574
+464097467,Nevada,NV,32,31,32031,Washoe County,,,,276687,-119.5485735,39.56710538,building,479758
+464371693,California,CA,6,55,06055,Napa County,,,Kaiser Data Center,162791,-122.2730981,38.25408514,building,138795
+465032201,Texas,TX,48,113,48113,Dallas County,Lumen Technologies,,Lumen Dallas - 3180 Irving Blvd.,80859,-96.86858878,32.80695489,building,2604722
+465032380,Texas,TX,48,113,48113,Dallas County,Prime,DFW01-01,Prime DFW01-01,88881,-96.87839306,32.83796688,building,2604722
+465032484,Texas,TX,48,113,48113,Dallas County,Lumen Technologies,,Lumen Dallas 6,12977,-96.88438206,32.82799793,building,2604722
+465032487,Texas,TX,48,113,48113,Dallas County,Digital Realty,DFW36,Digital Realty DFW36,24499,-96.8737498,32.82754986,building,2604722
+465032631,Texas,TX,48,113,48113,Dallas County,DataBank,,DataBank Dallas Empire Central Data Center,67717,-96.87359763,32.8217382,building,2604722
+465042594,Texas,TX,48,113,48113,Dallas County,TierPoint,,TierPoint Dallas Data Center,71358,-96.85735462,32.80797268,building,2604722
+465062052,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD87,Amazon IAD87,147390,-77.44116774,38.99181367,building,413574
+465062053,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD88,Amazon IAD88,147468,-77.44187049,38.99096435,building,413574
+465530450,Colorado,CO,8,5,08005,Arapahoe County,Verizon,,Verizon,8059,-104.8779329,39.58924805,building,651621
+468707940,Arizona,AZ,4,13,04013,Maricopa County,,,Stream Data Centers PHX-1,413250,-112.3599884,33.41949069,building,4367186
+471658485,Texas,TX,48,113,48113,Dallas County,,,Live Oak Data Center,49853,-96.7945749,32.78371232,building,2604722
+471691760,Oregon,OR,41,67,41067,Washington County,Flexential,,Flexential Portland - Hillsboro 2,214259,-122.9170918,45.55828552,building,596969
+472761713,New Jersey,NJ,34,3,34003,Bergen County,nyse,,NYSE Data Center,200804,-74.15291808,41.07830234,building,952979
+472954201,California,CA,6,37,06037,Los Angeles County,,,AT&T,17388,-118.1140244,34.57998399,building,10019635
+476609221,Colorado,CO,8,41,08041,El Paso County,,600,,42627,-104.521966,38.80265971,building,722736
+480762078,Oregon,OR,41,5,41005,Clackamas County,,,Juniper,24854,-122.7658736,45.31873065,building,418577
+483286527,Texas,TX,48,85,48085,Collin County,,,,108401,-96.67654446,33.00929861,building,1039812
+483307714,Texas,TX,48,85,48085,Collin County,,,Tierpoint Dallas-Allen,30651,-96.65737559,33.13793422,building,1039812
+487170215,Texas,TX,48,201,48201,Harris County,DXC Technology,,,352246,-95.86367622,30.01869785,building,4697957
+490997243,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD73,Amazon IAD73,146162,-77.55909922,38.77797946,building,477224
+490997244,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD74,Amazon IAD74,147480,-77.55789123,38.77743693,building,477224
+491914767,Ohio,OH,39,35,39035,Cuyahoga County,,,H5 Data Center,71439,-81.68359848,41.50635749,building,1263667
+492699069,California,CA,6,59,06059,Orange County,TPx Communications,,TPx Colocation Datacenter,37065,-117.8441042,33.70750645,building,3182923
+495115494,California,CA,6,37,06037,Los Angeles County,,,,25505,-118.255569,34.04791495,campus,10019635
+497151852,Florida,FL,12,31,12031,Duval County,,,Cologix Jacksonville JAX1,30201,-81.66242567,30.33142982,building,983153
+499403180,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft,143439,-119.8874069,47.23948681,building,97874
+499403698,Washington,WA,53,25,53025,Grant County,,,,44446,-119.8644528,47.23856069,building,97874
+499403699,Washington,WA,53,25,53025,Grant County,,,,138534,-119.8254291,47.24760077,building,97874
+500820007,Texas,TX,48,439,48439,Tarrant County,Meta,,Facebook Fort Worth Datacenter,634395,-97.25934313,32.98378404,building,2091953
+502927599,Kansas,KS,20,91,20091,Johnson County,,,Data Center Lenexa,44552,-94.77028959,38.92517007,building,605154
+507673418,Texas,TX,48,121,48121,Denton County,,,CITIGROUP TECHNOLOGY INC,242536,-97.24529013,33.00638148,building,885012
+507673437,Texas,TX,48,439,48439,Tarrant County,Quality Technology Services,,QTS Data Center,277996,-97.25920173,32.98885536,building,2091953
+509611423,Texas,TX,48,29,48029,Bexar County,Lowe's,,Lowe's Data Center,55066,-98.68954665,29.47284604,building,1990522
+509611426,Texas,TX,48,29,48029,Bexar County,CHRISTUS Health,,,48815,-98.68620953,29.47034448,building,1990522
+509611429,Texas,TX,48,29,48029,Bexar County,Frost Bank,,,68591,-98.6876502,29.47022344,building,1990522
+509611432,Texas,TX,48,29,48029,Bexar County,CyrusOne,,CyrusOne San Antonio I,102327,-98.68811007,29.46655501,building,1990522
+509611436,Texas,TX,48,29,48029,Bexar County,Valero,,Valero Wiserman,58304,-98.68006448,29.47428541,building,1990522
+509611437,Texas,TX,48,29,48029,Bexar County,,,Stream San Antonio II,71324,-98.67173678,29.47201655,building,1990522
+509611438,Texas,TX,48,29,48029,Bexar County,CyrusOne,,CyrusOne San Antonio II,108554,-98.67299896,29.47084945,building,1990522
+509611439,Texas,TX,48,29,48029,Bexar County,CyrusOne,,CyrusOne San Antonio III,100537,-98.67219273,29.47004427,building,1990522
+516686211,North Carolina,NC,37,119,37119,Mecklenburg County,,,Spectrum Charlotte National Data Center,93604,-80.91620847,35.14278902,building,1100984
+517411076,Oregon,OR,41,13,41013,Crook County,,,,377457,-120.870125,44.28888249,building,24300
+523886201,Florida,FL,12,57,12057,Hillsborough County,Cyxtera,TPA1,Cyxtera Tampa TP1,97332,-82.35116157,27.94553184,building,1444359
+526806006,Texas,TX,48,113,48113,Dallas County,Quality Technology Services,DAL10,QTS Irving - Dallas Data Center Campus,306213,-96.98278763,32.8972832,building,2604722
+530024353,Illinois,IL,17,43,17043,DuPage County,Centersquare,ORD4,Centersquare Lisle ORD4 Data Center,361205,-88.09488559,41.80234063,building,934094
+530982335,Arizona,AZ,4,13,04013,Maricopa County,,,GoDaddy - Gilbert,91811,-111.839309,33.36191383,building,4367186
+531709017,California,CA,6,73,06073,San Diego County,American Telephone & Telegraph,,AT&T Center,88910,-117.158948,32.74757513,building,3296317
+533842335,Tennessee,TN,47,37,47037,Davidson County,,,,10355,-86.76414722,36.14048087,building,708490
+536784688,Georgia,GA,13,121,13121,Fulton County,,CenturyLink,CenturyLink,23046,-84.38373631,33.76514416,building,1054286
+537172525,Wyoming,WY,56,21,56021,Laramie County,,,,62914,-104.8980886,41.12403295,building,99905
+537172526,Wyoming,WY,56,21,56021,Laramie County,,,,67797,-104.8992687,41.1240368,building,99905
+537172527,Wyoming,WY,56,21,56021,Laramie County,,,,62555,-104.8992715,41.1252836,building,99905
+537172528,Wyoming,WY,56,21,56021,Laramie County,,,,63264,-104.8980833,41.12528676,building,99905
+537807168,Pennsylvania,PA,42,3,42003,Allegheny County,Expedient,,Expedient Pittsburgh South,27441,-80.04253151,40.42737728,building,1246116
+543117031,Arizona,AZ,4,13,04013,Maricopa County,Centersquare,,Centersquare: Phoenix - (PHX1 - Mesa),57992,-111.8589942,33.42128426,building,4367186
+543316327,Texas,TX,48,201,48201,Harris County,DXC Technology,,,264173,-95.56325379,29.99520065,building,4697957
+543404966,Texas,TX,48,201,48201,Harris County,DXC Technology,,,113970,-95.56398537,29.99730716,building,4697957
+544536822,Michigan,MI,26,45,26045,Eaton County,,,Liquid Web,23079,-84.64299464,42.68795132,building,108972
+544596573,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD63,Amazon IAD63,143980,-77.49325147,38.91688475,building,413574
+545060574,Michigan,MI,26,45,26045,Eaton County,,,"Liquid Web, Inc",72843,-84.6660891,42.7053904,building,108972
+545396372,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD62,Amazon IAD62,149941,-77.51987469,38.94932165,building,413574
+545704217,Georgia,GA,13,67,13067,Cobb County,,,,18558,-84.67590753,34.07070363,building,762500
+545730285,Iowa,IA,19,153,19153,Polk County,Meta,,Altoona Meta Data Center,26568553,-93.51143855,41.66969373,campus,488871
+545895086,South Dakota,SD,46,99,46099,Minnehaha County,,,ADP South Dakota,243125,-96.794707,43.59991457,building,194884
+547156394,Ohio,OH,39,49,39049,Franklin County,,,TJX Corporate Techno,102681,-82.81062585,40.10386011,building,1313598
+547156405,Ohio,OH,39,49,39049,Franklin County,,,Compugen New Albany,44250,-82.8049454,40.10455004,building,1313598
+547277699,Ohio,OH,39,49,39049,Franklin County,,,Compugen New Albany,32222,-82.80893932,40.1036772,building,1313598
+548184239,Texas,TX,48,85,48085,Collin County,Flexential,,Flexential Dallas - Richardson,68520,-96.7525016,32.99481332,building,1039812
+549418041,Texas,TX,48,85,48085,Collin County,,,Experian McKinney Data Center,76624,-96.725505,33.1717958,building,1039812
+551387747,Ohio,OH,39,49,39049,Franklin County,,,,56266,-83.00256546,40.11571702,building,1313598
+553223628,California,CA,6,85,06085,Santa Clara County,Stack Infrastructure,,Stack Infrastructure,78105,-121.893382,37.40255874,building,1932022
+553223629,California,CA,6,85,06085,Santa Clara County,Stack Infrastructure,,Stack Infrastructure,107993,-121.8923843,37.40221253,building,1932022
+553884511,Missouri,MO,29,19,29019,Boone County,,,Carfax,39487,-92.28862384,38.92351197,building,182170
+556564909,Iowa,IA,19,153,19153,Polk County,Meta,,Facebook Altoona Data Center 3,377755,-93.50646557,41.66707142,building,488871
+556599693,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD71,Amazon IAD71,121176,-77.45750288,39.02790807,building,413574
+556599694,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD50,Amazon IAD50,202194,-77.45968289,39.02956976,building,413574
+556599695,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD60,Amazon IAD60,110965,-77.4582461,39.0287737,building,413574
+562775657,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,CMH50,Amazon Web Services  CMH50,161683,-82.75133938,40.09462976,building,177454
+567575425,Arizona,AZ,4,13,04013,Maricopa County,,,,1263277,-111.6041389,33.34702102,building,4367186
+567575428,Arizona,AZ,4,13,04013,Maricopa County,Apple,,Apple Mesa Data Center,3983906,-111.6043181,33.34679828,campus,4367186
+570397131,Texas,TX,48,453,48453,Travis County,,,Thin-nology,9209,-97.59160304,30.42114123,building,1267795
+571010571,Connecticut,CT,9,190,09190,Western Connecticut Planning Region,CyrusOne,,CyrusOne Norwalk,77778,-73.38864945,41.11309235,building,#N/A
+577628941,Texas,TX,48,453,48453,Travis County,,,Data Foundry - Texas 2,104857,-97.71307642,30.19958814,building,1267795
+578412815,New Mexico,NM,35,61,35061,Valencia County,Meta,,Meta Los Lunas Data Center,21836553,-106.7798961,34.83022823,campus,75992
+578435601,Georgia,GA,13,97,13097,Douglas County,Google,,Google Datacenter - Douglas County,2608502,-84.58522344,33.75059024,campus,143520
+578438011,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,2304742,-95.86449775,41.22165805,campus,93571
+578443547,Illinois,IL,17,31,17031,Cook County,Microsoft,,Microsoft - Azure Datacenter,306766,-87.91824122,41.92300562,building,5265398
+581234765,Kansas,KS,20,51,20051,Ellis County,,,Cloud Storage Corp,11561,-99.30018745,38.8721322,building,28893
+585998677,Nevada,NV,32,3,32003,Clark County,Switch,,Switch Las Vegas 8,264412,-115.214258,36.05783394,building,2231147
+585998678,Nevada,NV,32,3,32003,Clark County,Switch,,Switch Las Vegas 9,286176,-115.2196279,36.05570755,building,2231147
+587103676,Texas,TX,48,201,48201,Harris County,,,,98195,-95.57078462,29.82150611,building,4697957
+589070714,New Hampshire,NH,33,15,33015,Rockingham County,Phillips Exeter Academy,,Information Technology Data Center,7733,-70.95059275,42.98209109,building,312771
+589360530,Washington,WA,53,61,53061,Snohomish County,,,Digital Fortress Lynnwood,24944,-122.289561,47.82242519,building,820024
+590213770,Texas,TX,48,85,48085,Collin County,,,,33064,-96.65592593,33.13780537,building,1039812
+590213771,Texas,TX,48,85,48085,Collin County,CyrusOne,,CyrusOne Allen,271378,-96.65995157,33.13852056,building,1039812
+592171280,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX52,Amazon Web Services us-west-2,151857,-119.6549794,45.84044354,building,11964
+592257327,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,PDX51/54,Amazon PDX51/54,260806,-119.2677339,45.91744776,building,79509
+596690174,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD80,Amazon IAD80,150443,-77.45282885,39.02710866,building,413574
+596690175,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC12,Equinix Ashburn DC12,96380,-77.44975814,39.02300664,building,413574
+597835788,Texas,TX,48,85,48085,Collin County,Stream,DFW IV,Stream DFW IV,19684,-96.66164644,33.00014418,building,1039812
+597876719,Texas,TX,48,113,48113,Dallas County,Rackspace,DFW3,Rackspace Richardson DFW3,112950,-96.71587662,32.96478869,building,2604722
+597876721,Texas,TX,48,113,48113,Dallas County,Digital Realty,DFW17,Digital Realty Dallas DFW17,83615,-96.71321201,32.96628118,building,2604722
+597876722,Texas,TX,48,113,48113,Dallas County,Digital Realty,DFW29,Digital Realty Dallas DFW29,122436,-96.71054642,32.96723268,building,2604722
+597876723,Texas,TX,48,113,48113,Dallas County,,,,62460,-96.71119611,32.96625357,building,2604722
+597876724,Texas,TX,48,113,48113,Dallas County,Digital Realty,DFW28,Digital Realty Dallas DFW28,122015,-96.71330816,32.96724066,building,2604722
+597876726,Texas,TX,48,113,48113,Dallas County,Digital Realty,DFW35,Digital Realty Dallas DFW35,116539,-96.71029113,32.96504621,building,2604722
+597876730,Texas,TX,48,113,48113,Dallas County,Digital Realty,DFW18,Digital Realty Dallas DFW18,222335,-96.71260862,32.9652038,building,2604722
+597876798,Texas,TX,48,113,48113,Dallas County,Digital Realty,DFW16,Digital Realty Dallas DFW16,109470,-96.7155872,32.96607651,building,2604722
+597970806,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD36,Digital Realty Northern Virginia IAD36,112516,-77.4793437,39.00155183,building,413574
+597970809,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD35,Digital Realty Northern Virginia IAD35,206225,-77.48059545,39.00051142,building,413574
+597970811,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD37,Digital Realty Northern Virginia IAD37,144298,-77.47806997,39.00000986,building,413574
+597970813,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD38,Digital Realty Northern Virginia IAD38,114543,-77.47718416,39.00110985,building,413574
+598261190,Kansas,KS,20,91,20091,Johnson County,,,State Farm Data Center,198601,-94.86768784,38.94011284,building,605154
+598263496,Kansas,KS,20,91,20091,Johnson County,,,U.S. Bank National Data Process Center,162098,-94.86447123,38.9356431,building,605154
+600806974,California,CA,6,85,06085,Santa Clara County,Equinix,SV10,Equinix SV10,86340,-121.7847627,37.24119853,building,1932022
+607483487,New Jersey,NJ,34,15,34015,Gloucester County,,,,41058,-75.19532327,39.83093011,building,300821
+607753694,Nebraska,NE,31,55,31055,Douglas County,Verizon Wireless,,,38873,-96.14761886,41.22040845,building,578771
+609126465,Florida,FL,12,95,12095,Orange County,,,,107548,-81.39343863,28.61746823,building,1409949
+610827836,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google,146623,-80.04145345,33.06427218,building,224806
+610845529,Maryland,MD,24,3,24003,Anne Arundel County,,,TierPoint Baltimore BWI,33372,-76.68284507,39.2134517,building,584064
+610977485,Virginia,VA,51,107,51107,Loudoun County,NTT,VA2,NTT Ashburn VA2 Data Center,74197,-77.45763924,39.02501032,building,413574
+611308188,Utah,UT,49,47,49047,Uintah County,,,Strata Networks,12971,-109.5289988,40.45659345,building,35488
+612045611,New Jersey,NJ,34,35,34035,Somerset County,,,Goldman Sachs,276729,-74.6703296,40.5703722,building,343950
+615593145,Georgia,GA,13,121,13121,Fulton County,,,Mapletree Industrial,116842,-84.23739137,34.09658361,building,1054286
+617194689,Nevada,NV,32,3,32003,Clark County,Switch,,Switch Las Vegas 11,230261,-115.2141368,36.0558852,building,2231147
+617511179,Missouri,MO,29,510,29510,St. Louis city,Washington University in St. Louis,,Genome Data Center,24519,-90.25539339,38.63656883,building,302787
+618339179,New Jersey,NJ,34,35,34035,Somerset County,,,365 Bridgewater NJ,28468,-74.57387794,40.58147447,building,343950
+626226408,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google Berkeley County Data Center,8310940,-80.04215854,33.06378014,campus,224806
+626281456,Alabama,AL,1,69,01069,Houston County,AngelTrax Mobile Video Surveillance Solutions,,AngelTrax Data Center,10736,-85.45584884,31.2319042,building,106355
+626785488,New Mexico,NM,35,61,35061,Valencia County,Meta,3,Meta,654433,-106.7838291,34.83024661,building,75992
+633034071,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX58/61,Amazon Web Services us-west-2,284033,-119.6579331,45.84141357,building,11964
+634635617,Washington,WA,53,53,53053,Pierce County,,,Centeris SH2 Build-to-Suit,93539,-122.2798615,47.1588438,building,910225
+634638463,Washington,WA,53,53,53053,Pierce County,,,Centeris SH1 Colocation,115786,-122.2793064,47.16085523,building,910225
+635022480,Georgia,GA,13,121,13121,Fulton County,Ascent,,Ascent - Atlanta Data Center,595317,-84.27302456,34.05713671,campus,1054286
+639176155,Texas,TX,48,29,48029,Bexar County,Microsoft,,Microsoft TRP2,169781,-98.8039852,29.41195433,building,1990522
+639176157,Texas,TX,48,29,48029,Bexar County,Microsoft,,Microsoft TRP1,177468,-98.80273023,29.41201232,building,1990522
+640148472,Washington,WA,53,25,53025,Grant County,CyrusOne,,CyrusOne Quincy,1779563,-119.869604,47.24369612,campus,97874
+649319778,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,ACC7,Digital Realty ACC7,409481,-77.46564264,39.01753209,building,413574
+649365745,Virginia,VA,51,107,51107,Loudoun County,,,NTT Ashburn Campus,2116133,-77.47198105,39.01773032,campus,413574
+649365751,Virginia,VA,51,107,51107,Loudoun County,NTT,VA3,NTT Ashburn VA3 Data Center,231924,-77.47037644,39.01718233,building,413574
+649365764,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,ACC9,Digital Realty ACC9,329257,-77.46731853,39.01546625,building,413574
+650412346,Texas,TX,48,85,48085,Collin County,Flexential,,Flexential Dallas - Plano,217850,-96.6663536,33.00705207,building,1039812
+652034566,North Carolina,NC,37,35,37035,Catawba County,,,,207083,-81.26027297,35.58705991,building,159852
+664938835,Wisconsin,WI,55,79,55079,Milwaukee County,,,Expedient Milwaukee,26099,-87.9778578,42.86317702,building,939123
+667573133,Virginia,VA,51,153,51153,Prince William County,Amazon IAD85,IAD85,Amazon Web Services,149064,-77.54172454,38.77938151,building,477224
+667796922,Maine,ME,23,5,23005,Cumberland County,FirstLight,,Oxford Networks,55383,-69.92315055,43.89507108,building,300776
+671301768,Ohio,OH,39,89,39089,Licking County,Meta,,Meta New Albany Data Center,663238,-82.75034084,40.06840826,building,177454
+671838900,Texas,TX,48,201,48201,Harris County,,,Rice Data Center,25487,-95.44332797,29.65814636,building,4697957
+673145182,Texas,TX,48,439,48439,Tarrant County,Meta,,Facebook Fort Worth Datacenter,435206,-97.25507515,32.98499366,building,2091953
+673532692,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,161809,-83.13517289,40.06115216,building,1313598
+675108684,Virginia,VA,51,117,51117,Mecklenburg County,Microsoft,,Microsoft Boydton Data Center,11273954,-78.37655327,36.68537331,campus,30347
+688722307,Virginia,VA,51,87,51087,Henrico County,,,Bank of America Data Center,2209960,-77.23828609,37.49580861,campus,331924
+693381106,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD68,Amazon IAD68,181794,-77.52095153,38.94868696,building,413574
+693381107,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD81,Amazon IAD81,184907,-77.52183102,38.94838582,building,413574
+693385812,Virginia,VA,51,107,51107,Loudoun County,Google,ARA1,Google,215928,-77.524369,38.94315394,building,413574
+693390022,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD120,Amazon IAD120,188334,-77.49806149,38.95792208,building,413574
+693390023,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD121,Amazon IAD121,154814,-77.49778688,38.95678305,building,413574
+694493125,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft,112036,-119.8875726,47.23765679,building,97874
+694493126,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft,116001,-119.8831981,47.23762824,building,97874
+694493127,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft,157191,-119.8832901,47.23672161,building,97874
+694493128,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft,162608,-119.8874759,47.2367371,building,97874
+694602725,Washington,WA,53,25,53025,Grant County,,,Vantage WA12,124695,-119.8137211,47.25394644,building,97874
+696978351,Virginia,VA,51,107,51107,Loudoun County,,,,48591,-77.47156053,39.01202683,building,413574
+696985482,Virginia,VA,51,107,51107,Loudoun County,,,,402308,-77.44987614,38.99945874,campus,413574
+696992451,Virginia,VA,51,153,51153,Prince William County,,,,989045,-77.54831685,38.79098152,campus,477224
+697020849,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD58,Amazon IAD58,136770,-77.44184183,38.98627874,building,413574
+697020850,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD57,Amazon IAD57,116533,-77.44263839,38.98699723,building,413574
+697021948,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD64,Amazon IAD64,147547,-77.65291934,38.81513241,building,477224
+697021949,Virginia,VA,51,153,51153,Prince William County,Amazon,,,1278242,-77.65269566,38.81581598,campus,477224
+697413741,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,PDX57/60,Amazon PDX57/60,271590,-119.2677138,45.91388319,building,79509
+697415321,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX55,Amazon Web Services us-west-2,123601,-119.655449,45.84117426,building,11964
+697415323,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX56/59,Amazon Web Services us-west-2,263671,-119.6300361,45.85378606,building,11964
+697417726,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX62,Amazon Web Services us-west-2,211981,-119.6037092,45.84665533,building,11964
+700001774,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft MWH Data Center,8381014,-119.8877102,47.23776926,campus,97874
+700431553,Oregon,OR,41,65,41065,Wasco County,Google,,Google Taylor Lake Data Center,1100932,-121.202404,45.63852892,campus,26603
+701923200,Virginia,VA,51,107,51107,Loudoun County,Quality Technology Services,,QTS Ashburn 1,164144,-77.4501711,38.99951535,building,413574
+701923202,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD40,Digital Realty Northern Virginia IAD40,244372,-77.46725432,39.00645434,building,413574
+701923203,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD39,Digital Realty Northern Virginia IAD39,549223,-77.46762345,39.00771796,building,413574
+701923204,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,ACC10,Digital Realty ACC10,289043,-77.46553607,39.01270664,building,413574
+701924664,Virginia,VA,51,107,51107,Loudoun County,GI Partners,,,224621,-77.43982021,39.00065497,building,413574
+701924665,Virginia,VA,51,107,51107,Loudoun County,Vantage Data Centers,VA11,Vantage VA11,127578,-77.43766057,39.00239461,building,413574
+701924667,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD90,Amazon IAD90,147749,-77.41165154,38.98860308,building,413574
+701924668,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD91,Amazon IAD91,149486,-77.41111917,38.98784716,building,413574
+701924669,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD92,Amazon IAD92,149857,-77.41047541,38.98694261,building,413574
+701929066,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD144,Amazon IAD144,150384,-77.42742183,38.98164292,building,413574
+701930919,Virginia,VA,51,107,51107,Loudoun County,CyrusOne,NVA8,CyrusOne NVA8,154011,-77.41322001,39.02116738,building,413574
+701930920,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD98,Amazon IAD98,150826,-77.43388566,39.02022493,building,413574
+701930921,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD99,Amazon IAD99,150804,-77.43402989,39.01916894,building,413574
+701930929,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD114,Amazon IAD114,148005,-77.45069857,39.03549408,building,413574
+701930930,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD115,Amazon IAD115,146333,-77.44979481,39.03629402,building,413574
+701931819,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD65,Amazon IAD65,151356,-77.49436645,38.91701072,building,413574
+701931820,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD150,Amazon IAD150,213595,-77.47725089,38.91607635,building,413574
+706081342,New Mexico,NM,35,1,35001,Bernalillo County,,725,,43011,-106.5421751,35.04834872,building,674919
+706726088,Virginia,VA,51,107,51107,Loudoun County,Google,,Stonewall Creek Business Park,1291753,-77.53939967,39.05143173,campus,413574
+706759844,Oregon,OR,41,13,41013,Crook County,,,,344665,-120.8702159,44.28727727,building,24300
+706759845,Oregon,OR,41,13,41013,Crook County,,,,328376,-120.8815189,44.29368316,building,24300
+706776322,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,PDX80,Amazon PDX80,215703,-119.3666162,45.7978088,building,79509
+708155014,Virginia,VA,51,87,51087,Henrico County,Quality Technology Services,,QTS Richmond Data Center,3801096,-77.24588647,37.48900065,campus,331924
+708916484,Virginia,VA,51,107,51107,Loudoun County,,,,144382,-77.47827344,39.01541717,building,413574
+708931343,Tennessee,TN,47,125,47125,Montgomery County,Google LLC,,Google Montgomery Data Center,26612163,-87.26001122,36.62857603,campus,216172
+710070925,Virginia,VA,51,107,51107,Loudoun County,Google,,Google Data Center,140634,-77.53957659,39.05264058,building,413574
+711811006,Wyoming,WY,56,21,56021,Laramie County,University Corporation for Atmospheric Research,,,571755,-104.8970316,41.12869984,campus,99905
+713410334,Georgia,GA,13,97,13097,Douglas County,,ATL1,Centersquare Atlanta ATL1,249314,-84.58121647,33.74422841,building,143520
+713428715,Illinois,IL,17,31,17031,Cook County,Digital Realty,CH3,Digital Realty CH3,348220,-87.96490377,41.99439647,building,5265398
+713433204,Illinois,IL,17,31,17031,Cook County,Digital Realty,CH2,Digital Realty CH2,302974,-87.95773561,41.99446382,building,5265398
+714120969,Texas,TX,48,85,48085,Collin County,,DFW3,DataBank Plano Data Center,375691,-96.8151307,33.08756902,campus,1039812
+714139864,New Jersey,NJ,34,17,34017,Hudson County,Equinix,,Equinix,535110,-74.06867699,40.7750679,campus,713264
+714139865,New Jersey,NJ,34,17,34017,Hudson County,Equinix,,Equinix Secaucus NY6,70938,-74.07270034,40.77751887,building,713264
+714622339,Virginia,VA,51,107,51107,Loudoun County,Google,,Google Data Center,2143143,-77.52625037,38.94277143,campus,413574
+714622340,Virginia,VA,51,107,51107,Loudoun County,,,Amazon Fadeley III,1654964,-77.52159916,38.94833223,campus,413574
+714776107,Texas,TX,48,201,48201,Harris County,Skybox,,Skybox Houston One,344540,-95.75545033,29.80286842,campus,4697957
+714889192,Alabama,AL,1,71,01071,Jackson County,Google LLC,,Google Jackson County Data Center,7582142,-85.74826082,34.91433371,campus,52548
+714941629,Nebraska,NE,31,153,31153,Sarpy County,Meta,,Sarpy Meta Data Center,5922319,-96.14372147,41.12175373,campus,188464
+714943309,New Jersey,NJ,34,35,34035,Somerset County,PSE&G,,PSE&G Delivery Emergency Response Center,85030,-74.51939326,40.57989413,building,343950
+715098032,North Carolina,NC,37,45,37045,Cleveland County,,,T5 Charlotte Campus,379990,-81.39500943,35.2504499,campus,98898
+718465287,Minnesota,MN,27,109,27109,Olmsted County,,,Epic / Mayo Data Center,48317,-92.52212055,44.07081644,building,160928
+723117951,Ohio,OH,39,49,39049,Franklin County,,NAL01,STACK New Albany,563283,-82.80074776,40.1063537,campus,1313598
+726150321,Oklahoma,OK,40,13,40013,Bryan County,Choctaw Nation of oklahoma,,Choctaw Nation of Oklahoma Data Center,13494,-96.4028549,33.97172145,building,45809
+729192992,Oregon,OR,41,67,41067,Washington County,Quality Technology Services,,QTS Data Center Bld 1,157854,-122.9278305,45.55876715,building,596969
+729376485,New Jersey,NJ,34,23,34023,Middlesex County,,,,159389,-74.2435073,40.58434314,building,858770
+729696933,Utah,UT,49,35,49035,Salt Lake County,Flexential,,Flexential Salt Lake City - Downtown,63362,-111.9548377,40.75630658,building,1173331
+733721782,Oregon,OR,41,47,41047,Marion County,State of Oregon,,Oregon State Data Center,46536,-123.0018614,44.92654909,building,344037
+734323663,Oregon,OR,41,67,41067,Washington County,Digital Realty,,Digital Realty PDX11 Data Center,283056,-122.9168527,45.56799343,building,596969
+741629998,Florida,FL,12,11,12011,Broward County,Flexential,,Flexential Fort Lauderdale,73580,-80.19329665,26.19008572,building,1934551
+744177375,Texas,TX,48,339,48339,Montgomery County,,,,126121,-95.48652635,30.17778285,building,607999
+744491691,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD145,Amazon IAD145,103663,-77.42462549,38.98255213,building,413574
+744496741,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD117,Amazon Web Services IAD117,102452,-77.41909467,39.02369831,building,413574
+744496750,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD116,Amazon Web Services IAD116,102629,-77.42043928,39.024346,building,413574
+746278786,Nevada,NV,32,3,32003,Clark County,Flexential,,Flexential Las Vegas - North,110728,-115.1012609,36.24816478,building,2231147
+747985149,Texas,TX,48,485,48485,Wichita County,,,,39127,-98.52473126,33.95337795,building,129419
+752001022,Oregon,OR,41,17,41017,Deschutes County,,,,11249,-121.3285496,44.0474074,building,194964
+755540694,Michigan,MI,26,49,26049,Genesee County,,,,36835,-83.77960217,42.96871317,building,406400
+756382879,New Jersey,NJ,34,35,34035,Somerset County,,,,19551,-74.70962308,40.5993451,building,343950
+756382880,New Jersey,NJ,34,35,34035,Somerset County,,,,54527,-74.71011199,40.59971851,building,343950
+756778306,New Mexico,NM,35,61,35061,Valencia County,Meta,2,Meta,543736,-106.7803471,34.83004001,building,75992
+758278314,North Carolina,NC,37,183,37183,Wake County,,,iGLASS Networks,8134,-78.78398578,35.76675058,building,1112883
+758306877,Wisconsin,WI,55,127,55127,Walworth County,AT&T,,Central Office,9001,-88.73398014,42.83365365,building,105945
+758426349,Montana,MT,30,39,30039,Granite County,,,,1510,-113.2926719,46.33213162,building,3333
+758580536,New Jersey,NJ,34,35,34035,Somerset County,,,Vital Records,7942,-74.68281625,40.5280718,building,343950
+761185667,New Jersey,NJ,34,35,34035,Somerset County,,,Verizon Wireless NE Headquarters,156691,-74.70559635,40.55569249,building,343950
+762116506,Virginia,VA,51,87,51087,Henrico County,Meta,,Meta Henrico Data Center,588189,-77.23731115,37.48392821,building,331924
+766768556,Wisconsin,WI,55,15,55015,Calumet County,Involta,,,60180,-88.34487612,44.20445478,building,52128
+772827597,Oregon,OR,41,13,41013,Crook County,,,,630160,-120.8794346,44.29909532,building,24300
+772827601,Oregon,OR,41,13,41013,Crook County,,,,622980,-120.8898839,44.30125484,building,24300
+773848531,Michigan,MI,26,163,26163,Wayne County,US Signal,,,24599,-83.4441406,42.23532662,building,1789781
+775412066,Nevada,NV,32,31,32031,Washoe County,,,,89831,-119.5423627,39.5677144,building,479758
+775412067,Nevada,NV,32,31,32031,Washoe County,,,,89571,-119.5432095,39.56750103,building,479758
+775412068,Nevada,NV,32,31,32031,Washoe County,,,,88594,-119.5443884,39.56716047,building,479758
+775412069,Nevada,NV,32,31,32031,Washoe County,,,,92133,-119.5452269,39.56692084,building,479758
+775412072,Nevada,NV,32,31,32031,Washoe County,,,,90711,-119.5479741,39.56575835,building,479758
+775412073,Nevada,NV,32,31,32031,Washoe County,,,,89076,-119.5476898,39.56510625,building,479758
+777196805,Pennsylvania,PA,42,77,42077,Lehigh County,,,Allentown-TekPark,146248,-75.65431291,40.54423619,building,372492
+777679751,New Mexico,NM,35,61,35061,Valencia County,Meta,1,Meta,654617,-106.7764706,34.83028297,building,75992
+778989332,Colorado,CO,8,35,08035,Douglas County,,,,28132,-104.8335876,39.5590717,building,351929
+780063735,California,CA,6,95,06095,Solano County,,,PG&E Datacenter,55270,-122.06721,38.24625878,building,451432
+781370600,Arizona,AZ,4,13,04013,Maricopa County,CyrusOne,PHX6,CyrusOne PHX6,98354,-111.8825318,33.26757618,building,4367186
+788027103,Iowa,IA,19,153,19153,Polk County,Meta,,Facebook Altoona Data Center 4,606958,-93.51639856,41.66773731,building,488871
+793087858,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD41,Digital Realty IAD41 (Building P),396985,-77.45822143,39.00867671,building,413574
+793087859,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD118,Amazon IAD118,105629,-77.43883923,39.01850734,building,413574
+793622740,Virginia,VA,51,107,51107,Loudoun County,Aligned,,Aligned Ashburn,140140,-77.47057791,39.01362014,building,413574
+793888408,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC15,Equinix Ashburn DC15,76665,-77.45025584,39.02250015,building,413574
+793888427,Virginia,VA,51,107,51107,Loudoun County,Sabey Data Centers,,Sabey Intergate.Ashburn (Building A),131966,-77.479988,39.01449812,building,413574
+793888429,Virginia,VA,51,107,51107,Loudoun County,NTT,VA5,NTT Ashburn VA5 Data Center,124046,-77.47261401,39.01829557,building,413574
+793888430,Virginia,VA,51,107,51107,Loudoun County,NTT,VA4,NTT Ashburn VA4 Data Center,160282,-77.47259496,39.01986885,building,413574
+794147654,Virginia,VA,51,107,51107,Loudoun County,CloudHQ,LC1,CloudHQ LC1,499194,-77.46278493,39.01015665,building,413574
+794147655,Virginia,VA,51,107,51107,Loudoun County,CloudHQ,LC2,CloudHQ LC2,252770,-77.46245654,39.0117642,building,413574
+794147657,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD146,Amazon IAD146,103076,-77.43559836,38.99672457,building,413574
+795384117,Arizona,AZ,4,13,04013,Maricopa County,Microsoft,PHX-10,PHX-10,246184,-112.3648298,33.40794624,building,4367186
+795853621,Nebraska,NE,31,153,31153,Sarpy County,Meta,,Sarpy Meta Data Center,6242843,-96.13364372,41.12194722,campus,188464
+796933516,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC21,Equinix Ashburn DC21,78961,-77.45455808,39.01182265,building,413574
+802054282,New York,NY,36,119,36119,Westchester County,,,,13426,-73.897901,40.95126975,building,999723
+802160675,Ohio,OH,39,89,39089,Licking County,Meta,,Meta New Albany Data Center,663286,-82.74890966,40.06527172,building,177454
+807374322,Washington,WA,53,25,53025,Grant County,,,,216848,-119.8951561,47.23709781,building,97874
+808979618,Arizona,AZ,4,13,04013,Maricopa County,,,EdgeCore,112901,-111.6195525,33.34413114,building,4367186
+812630939,Michigan,MI,26,163,26163,Wayne County,Comcast,,Comcast,953,-83.198214,42.213902,building,1789781
+813532303,Colorado,CO,8,41,08041,El Paso County,SAP,COS02,SAP COS02,47705,-104.7863814,38.98888836,building,722736
+813688319,Washington,WA,53,17,53017,Douglas County,,,,102013,-120.2139655,47.40724312,building,42622
+813688320,Washington,WA,53,17,53017,Douglas County,Actapio,,Actapio,362519,-120.2141343,47.40741706,campus,42622
+814061068,Washington,WA,53,17,53017,Douglas County,,,,13946,-120.2174624,47.39214943,building,42622
+814061069,Washington,WA,53,17,53017,Douglas County,,,,4004,-120.2178773,47.3917941,building,42622
+814061070,Washington,WA,53,17,53017,Douglas County,,,,4003,-120.2175144,47.3917569,building,42622
+814061071,Washington,WA,53,17,53017,Douglas County,,,,7706,-120.2169013,47.39175898,building,42622
+815057182,Texas,TX,48,439,48439,Tarrant County,Meta,,Facebook Fort Worth Datacenter,753193,-97.25546003,32.98829583,building,2091953
+815078625,Texas,TX,48,121,48121,Denton County,,,Charles Schwab Data Center,79688,-97.24615495,33.00450213,building,885012
+817338831,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD140,Amazon IAD140,215095,-77.41755004,38.98145515,building,413574
+817338832,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD141,Amazon IAD141,216850,-77.41678569,38.98238771,building,413574
+818167571,Nebraska,NE,31,55,31055,Douglas County,News-Press & Gazette Company,,1623 Farnam,35689,-95.93784939,41.25729103,building,578771
+818790301,New Jersey,NJ,34,31,34031,Passaic County,,,Credit Suisse: Clifton Data Center,140278,-74.14021869,40.83345,building,521067
+819981888,Tennessee,TN,47,37,47037,Davidson County,,,,93318,-86.63779794,36.03268134,building,708490
+819981908,Tennessee,TN,47,187,47187,Williamson County,,,TierPoint,285740,-86.85568727,35.92450968,campus,242386
+821081357,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,151703,-83.19969861,40.10257307,building,1313598
+821081358,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,159123,-83.19976375,40.10358663,building,1313598
+826001605,Tennessee,TN,47,187,47187,Williamson County,,,,1834566,-86.79153217,36.02321854,campus,242386
+827888890,Arizona,AZ,4,13,04013,Maricopa County,,,EdgeCore Digital,1602504,-111.6219643,33.34429782,campus,4367186
+828135845,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD84,Amazon IAD84,152692,-77.65249934,38.81610312,building,477224
+828228235,Arizona,AZ,4,13,04013,Maricopa County,,,StrongMind,20604,-111.8409739,33.34261625,building,4367186
+830138727,North Carolina,NC,37,183,37183,Wake County,,,BB&T Data Center,143011,-78.32812684,35.83932521,building,1112883
+830881731,Iowa,IA,19,153,19153,Polk County,Microsoft,,Microsoft,153956,-93.70254179,41.51674075,building,488871
+830881732,Iowa,IA,19,153,19153,Polk County,Microsoft,,Microsoft,149149,-93.70251347,41.51584274,building,488871
+830881733,Iowa,IA,19,153,19153,Polk County,Microsoft,,Microsoft,144428,-93.7063011,41.51581794,building,488871
+830881734,Iowa,IA,19,153,19153,Polk County,Microsoft,,Microsoft,146482,-93.70635082,41.51671171,building,488871
+830881742,Iowa,IA,19,153,19153,Polk County,Microsoft,,Microsoft,145134,-93.70633127,41.51850163,building,488871
+830881743,Iowa,IA,19,153,19153,Polk County,Microsoft,,Microsoft,143145,-93.7063125,41.51760661,building,488871
+830881744,Iowa,IA,19,153,19153,Polk County,Microsoft,,Microsoft,141016,-93.70249272,41.51764119,building,488871
+830881745,Iowa,IA,19,153,19153,Polk County,Microsoft,,Microsoft,141225,-93.70252495,41.51853823,building,488871
+830885773,Iowa,IA,19,181,19181,Warren County,Microsoft,,Microsoft,239270,-93.78703936,41.49787064,building,51862
+830885774,Iowa,IA,19,181,19181,Warren County,Microsoft,,Microsoft,243678,-93.78707464,41.49891303,building,51862
+830885779,Iowa,IA,19,121,19121,Madison County,Microsoft,,Project Osmium,3691114,-93.78856494,41.49821269,campus,16414
+830885779,Iowa,IA,19,181,19181,Warren County,Microsoft,,Project Osmium,3691114,-93.78856494,41.49821269,campus,51862
+830931210,Iowa,IA,19,153,19153,Polk County,Meta,,Facebook Altoona Data Center 5,628003,-93.51662855,41.67117312,building,488871
+832622369,New York,NY,36,63,36063,Niagara County,Blockfusion,,,16242,-78.94480168,43.07483784,building,212808
+835601088,Utah,UT,49,53,49053,Washington County,Lumen Technologies,,Lumen,1833,-113.5447487,37.0627992,building,176533
+836908998,Alabama,AL,1,73,01073,Jefferson County,,,Sungard Systems International,665569,-86.91145719,33.40471562,campus,672550
+836947535,Arizona,AZ,4,13,04013,Maricopa County,,,Myndshift Technologies,21279,-111.7191652,33.47542082,building,4367186
+837139011,Iowa,IA,19,103,19103,Johnson County,,,ForceAmp.com,2709,-91.5870781,41.70399842,building,151833
+838817907,North Carolina,NC,37,119,37119,Mecklenburg County,TierPoint,CL4,TierPoint - Charlotte Data Center,61578,-80.928121,35.1731955,building,1100984
+838817943,North Carolina,NC,37,119,37119,Mecklenburg County,,,SEGRA,18094,-80.92635689,35.18005343,building,1100984
+840582927,Virginia,VA,51,69,51069,Frederick County,,,Middletown Data Center,273198,-78.29095951,39.01764445,campus,90287
+841813139,Illinois,IL,17,31,17031,Cook County,CoreSite,,CoreSite Chicago Data Center (CH2),61773,-87.64130394,41.86279831,building,5265398
+842544718,Washington,WA,53,61,53061,Snohomish County,Unity Cable System,,Norma Beach Cable Landing Station,2369,-122.2841578,47.86469753,building,820024
+843314844,Arizona,AZ,4,19,04019,Pima County,DirecTV,,,14373,-110.7874237,32.09270648,building,1035063
+844359205,Nevada,NV,32,3,32003,Clark County,,,Google Data Center,2037873,-115.0090517,36.05779723,campus,2231147
+844359206,Nevada,NV,32,3,32003,Clark County,Google,,Google,143869,-115.0085768,36.05628838,building,2231147
+844359207,Nevada,NV,32,3,32003,Clark County,Google,,Google,141227,-115.0087972,36.05880161,building,2231147
+844371952,Alabama,AL,1,71,01071,Jackson County,Google,,Google,144996,-85.74742814,34.91369194,building,52548
+844371953,Alabama,AL,1,71,01071,Jackson County,Google,,Google,141947,-85.74593536,34.91367642,building,52548
+844374689,Virginia,VA,51,107,51107,Loudoun County,,,,140157,-77.5400259,39.05060777,building,413574
+844386860,Texas,TX,48,139,48139,Ellis County,Google,,Google,144574,-97.06248797,32.44212971,building,187984
+844386861,Texas,TX,48,139,48139,Ellis County,Google,,Google,138230,-97.06333284,32.44355545,building,187984
+844389014,Tennessee,TN,47,125,47125,Montgomery County,Google,SPC2A,Google,169736,-87.26129639,36.62458168,building,216172
+844391358,Ohio,OH,39,89,39089,Licking County,Google,,Google NBY-1,145177,-82.76429367,40.06114461,building,177454
+844394339,Nebraska,NE,31,153,31153,Sarpy County,Meta,,Meta Sarpy Data center,666382,-96.14419029,41.12354217,building,188464
+844394340,Nebraska,NE,31,153,31153,Sarpy County,Meta,,Meta Sarpy Data center,515084,-96.14485433,41.120732,building,188464
+844394357,Nebraska,NE,31,153,31153,Sarpy County,Google,,Google,152487,-96.14672977,41.13497469,building,188464
+845775548,Colorado,CO,8,14,08014,Broomfield County,JPMorgan Chase,,JPMorgan Chase,188160,-105.0207032,39.98908744,building,72697
+850342266,Wisconsin,WI,55,77,55077,Marquette County,,,Marquette-Adams Telephone Coop,8257,-89.5748085,43.78218427,building,15515
+850965775,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,41692,-96.80439626,32.53872185,building,187984
+852039781,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD119,Amazon IAD119,127104,-77.43938663,39.01693014,building,413574
+860433344,Oregon,OR,41,67,41067,Washington County,Flexential,,Flexential Portland - Hillsboro 4,97536,-122.939884,45.55520513,building,596969
+863162820,Illinois,IL,17,31,17031,Cook County,Stream,Chicago II,Stream Chicago II,215922,-87.95776458,41.99912438,building,5265398
+863162822,Illinois,IL,17,31,17031,Cook County,Stack Infrastructure,CHI01,STACK Chicago CHI01,298471,-87.96519019,42.00684388,building,5265398
+863162825,Illinois,IL,17,31,17031,Cook County,Stream,,Stream Chicago I,120616,-87.95113482,42.00260066,building,5265398
+871694597,New York,NY,36,1,36001,Albany County,,,Turnkey Internet,10465,-73.75919958,42.74544109,building,314679
+871745265,Iowa,IA,19,49,19049,Dallas County,Microsoft,,Microsoft,220735,-93.82789533,41.54070922,building,96604
+873137563,North Carolina,NC,37,35,37035,Catawba County,,,,203410,-81.26456965,35.59039236,building,159852
+874506250,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,161757,-83.13490723,40.06014719,building,1313598
+876020641,Washington,WA,53,63,53063,Spokane County,,,Iron Mountain,14085,-117.5371476,47.59461614,building,531477
+876120402,Virginia,VA,51,660,51660,Harrisonburg city,,,DBT Data - Harrisonburg Center,505755,-78.85679697,38.46254477,campus,52062
+878795698,Connecticut,CT,9,190,09190,Western Connecticut Planning Region,,,amnet Data Center,10526,-73.51671559,41.09183281,building,#N/A
+880052062,Kansas,KS,20,91,20091,Johnson County,TierPoint,,,58095,-94.75523184,38.94066935,building,605154
+882977350,Virginia,VA,51,153,51153,Prince William County,CloudHQ,MCC1,CloudHQ MCC1,399915,-77.49989682,38.71702838,building,477224
+883809860,North Carolina,NC,37,161,37161,Rutherford County,Meta,FRC,Meta Forest City datacenter,319829,-81.82513233,35.31655451,building,64592
+883809862,North Carolina,NC,37,161,37161,Rutherford County,Meta,,Facebook Forest City Data Center,4849510,-81.8247473,35.31569838,campus,64592
+886028872,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD128,Amazon IAD128,105735,-77.43838437,39.01608221,building,413574
+886330269,Virginia,VA,51,107,51107,Loudoun County,Microsoft,,Microsoft,155317,-77.56412899,39.07478688,building,413574
+888253616,California,CA,6,85,06085,Santa Clara County,NTT,SV1,NTT Silicon Valley SV1 Data Center,38759,-121.9553378,37.36905321,building,1932022
+891031651,Georgia,GA,13,121,13121,Fulton County,,,T5 Data Center,149055,-84.26431627,34.07592248,building,1054286
+894425613,Tennessee,TN,47,37,47037,Davidson County,BNYM,,,191585,-86.78368365,36.21535166,building,708490
+897226573,Virginia,VA,51,107,51107,Loudoun County,,,Arcola Tech Park,1735467,-77.55535616,38.9492821,campus,413574
+897226574,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD125,Amazon IAD125,104431,-77.56054492,38.94808954,building,413574
+897226575,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD124,Amazon IAD124,104434,-77.5604517,38.94989545,building,413574
+899634245,Oregon,OR,41,67,41067,Washington County,Stack Infrastructure,,Stack Infrastructure Portland 3 Data Center -Bld POR3a,94010,-122.9379122,45.5541971,building,596969
+903236619,Michigan,MI,26,163,26163,Wayne County,Quicken Loans,,,46220,-83.06975886,42.32617959,building,1789781
+903642490,Idaho,ID,16,7,16007,Bear Lake County,The Church of Jesus Christ of Latter-day Saints,,Family History Center,4081,-111.3042449,42.31729584,building,6327
+904453635,Tennessee,TN,47,57,47057,Grainger County,,,,1232,-83.37670352,36.32807395,building,23377
+909455922,Virginia,VA,51,107,51107,Loudoun County,True North Data Solutions,,42310 THUNDERBALL DR,78907,-77.53967443,39.04409911,building,413574
+909742340,Oregon,OR,41,67,41067,Washington County,Quality Technology Services,,QTS Data Center Bld 2,172698,-122.9296314,45.55876356,building,596969
+914613836,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX91,Amazon PDX91,210994,-119.6883548,45.83792395,building,11964
+914616809,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX92,Amazon PDX92,211026,-119.6931291,45.83754025,building,11964
+914616810,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX64,Amazon Web Services us-west-2,211938,-119.605645,45.84665461,building,11964
+916046040,Colorado,CO,8,5,08005,Arapahoe County,,,,184275,-104.7127543,39.72947807,building,651621
+916148870,New York,NY,36,29,36029,Erie County,,,,41938,-78.74920687,43.04498475,building,949715
+918871786,Oregon,OR,41,67,41067,Washington County,Quality Technology Services,,QTS Data Center Bld 3,171585,-122.9319059,45.55877963,building,596969
+918871787,Oregon,OR,41,67,41067,Washington County,Quality Technology Services,,QTS Data Center Bld 5,168921,-122.9352204,45.55880139,building,596969
+918871788,Oregon,OR,41,67,41067,Washington County,Quality Technology Services,,QTS Data Center Bld 4,173993,-122.9329463,45.55878122,building,596969
+918873142,Oregon,OR,41,67,41067,Washington County,Flexential,,Flexential Portland - Hillsboro 3,337274,-122.9382474,45.55946944,building,596969
+919948160,Wisconsin,WI,55,101,55101,Racine County,,,,9094,-87.91840525,42.67566517,building,197379
+923148801,Ohio,OH,39,35,39035,Cuyahoga County,,,Lumen Cleveland,29490,-81.6577753,41.50506588,building,1263667
+923167491,North Carolina,NC,37,179,37179,Union County,,,,608141,-80.57017464,35.1793832,campus,235699
+930043986,New York,NY,36,67,36067,Onondaga County,Syracuse University,,SU Green Data Center,12169,-76.11592529,43.01207617,building,474621
+930849744,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD163,Amazon IAD163,131936,-77.42970207,39.03230534,building,413574
+931369845,Maryland,MD,24,510,24510,Baltimore city,,,Johns Hopkins Data Center,3880,-76.55173791,39.2935588,building,592211
+931729011,Texas,TX,48,85,48085,Collin County,,,,605006,-96.67610355,33.00895262,campus,1039812
+931732650,Utah,UT,49,35,49035,Salt Lake County,,,Ebay,146408,-112.0506282,40.56409515,building,1173331
+933393863,California,CA,6,67,06067,Sacramento County,EdgeConneX,,Edgeconnex Data Center,29318,-121.2774372,38.59229736,building,1571767
+938592711,Arizona,AZ,4,13,04013,Maricopa County,,,,224651,-112.3770585,33.43946839,building,4367186
+940821791,Arizona,AZ,4,13,04013,Maricopa County,,,Omnis Network,16956,-111.952491,33.39440985,building,4367186
+942557184,Nebraska,NE,31,153,31153,Sarpy County,Travelers Insurance,,Travelers Insurance,182408,-96.14504543,41.12784314,building,188464
+942604537,Tennessee,TN,47,187,47187,Williamson County,Flexential,,Flexential Nashville - Franklin,74934,-86.8155737,35.9204593,building,242386
+943987942,Washington,WA,53,67,53067,Thurston County,,,Wave Broadband Tahoma Terra Facility,9139,-122.6250439,46.94142447,campus,290642
+944024849,Iowa,IA,19,153,19153,Polk County,,,,6991,-93.52766189,41.55808334,building,488871
+944024851,Iowa,IA,19,153,19153,Polk County,,,,16920,-93.52815685,41.55813064,building,488871
+946014659,Oklahoma,OK,40,143,40143,Tulsa County,,,,8589,-95.85414917,36.08125144,building,664084
+954433119,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD175,Amazon IAD175,86503,-77.42547992,38.97986799,building,413574
+958153769,Georgia,GA,13,215,13215,Muscogee County,DLI ONE,,DLI ONE,420795,-84.88357121,32.4980963,campus,204366
+958153770,Georgia,GA,13,215,13215,Muscogee County,,,,116660,-84.88357132,32.49826721,building,204366
+958662382,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD147,Amazon IAD147,102767,-77.43535922,38.995012,building,413574
+958728802,Florida,FL,12,95,12095,Orange County,,,E-Foam,8403,-81.56454529,28.5779433,building,1409949
+959969621,Connecticut,CT,9,170,09170,South Central Connecticut Planning Region,,,,53967,-72.80100588,41.47880658,building,#N/A
+961071564,Alabama,AL,1,89,01089,Madison County,,,SimpleHelix,16411,-86.691883,34.745431,building,382149
+965755845,Oregon,OR,41,47,41047,Marion County,CenturyLink,,CenturyLink,24529,-123.0336855,44.93802974,building,344037
+975064000,Georgia,GA,13,97,13097,Douglas County,Digital Realty,ATL11,Digital Realty Atlanta ATL11,313479,-84.57973805,33.7465616,building,143520
+975064000,Georgia,GA,13,67,13067,Cobb County,Digital Realty,ATL11,Digital Realty Atlanta ATL11,313479,-84.57973805,33.7465616,building,762500
+975064004,Georgia,GA,13,97,13097,Douglas County,Switch,,Switch Data Center,171499,-84.58726858,33.75502504,building,143520
+975484796,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,170922,-83.13460628,40.05932516,building,1313598
+975484797,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,133709,-83.13409056,40.05830889,building,1313598
+975484798,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,142297,-83.13275276,40.0607796,building,1313598
+977653854,Arizona,AZ,4,13,04013,Maricopa County,,,CyrusOne PHX7,138671,-111.8819087,33.26635804,building,4367186
+977653858,Arizona,AZ,4,13,04013,Maricopa County,CyrusOne,PHX4,CyrusOne PHX4,103008,-111.8825162,33.2687662,building,4367186
+977653859,Arizona,AZ,4,13,04013,Maricopa County,CyrusOne,PHX5,CyrusOne PHX5,102958,-111.881587,33.26974107,building,4367186
+978632013,California,CA,6,85,06085,Santa Clara County,,,Northwest Data Center and Communications Hub,10145,-122.1807385,37.43343706,building,1932022
+978934687,Indiana,IN,18,89,18089,Lake County,Digital Crossroad,,Digital Crossroad,116014,-87.52019308,41.70741845,building,495925
+983627455,Virginia,VA,51,107,51107,Loudoun County,CyrusOne,NVA7,CyrusOne NVA7,60930,-77.43402771,39.02630118,building,413574
+984796364,Nevada,NV,32,3,32003,Clark County,,,Switch Las Vegas 10,206411,-115.2230609,36.05558583,building,2231147
+984953813,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD174,Amazon IAD174,132388,-77.42747328,39.02891563,building,413574
+984953814,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD164,Amazon IAD164,132374,-77.42894228,39.030473,building,413574
+985207884,Virginia,VA,51,107,51107,Loudoun County,Vantage Data Centers,VA12,Vantage VA12,115613,-77.43807112,39.00177882,building,413574
+986829280,Virginia,VA,51,107,51107,Loudoun County,Microsoft,,Microsoft,97581,-77.56303535,39.07550787,building,413574
+989325195,Texas,TX,48,439,48439,Tarrant County,,,Verizon Wireless Mew Building,176383,-97.15661083,32.97215494,building,2091953
+989735623,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD152,Amazon IAD152,156644,-77.47974227,38.91657562,building,413574
+989735624,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD151,Amazon IAD151,155542,-77.47870522,38.91615091,building,413574
+990537813,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD83,Amazon IAD83,156166,-77.52310751,38.94794606,building,413574
+990537821,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD93,Amazon Web Services,16739,-77.52218796,38.94653922,building,413574
+990537857,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD122,Amazon IAD122,153273,-77.49717993,38.95586323,building,413574
+990537858,Virginia,VA,51,107,51107,Loudoun County,CyrusOne,,CyrusOne Sterling IX,266078,-77.50575021,38.95830777,building,413574
+996723585,Virginia,VA,51,153,51153,Prince William County,,VA-2,Iron Mountain VA-2,158664,-77.54596524,38.77724872,building,477224
+996723586,Virginia,VA,51,153,51153,Prince William County,,VA-1,Iron Mountain VA-1,163790,-77.5470732,38.77791725,building,477224
+996723587,Virginia,VA,51,153,51153,Prince William County,Amazon IAD96,IAD96,Amazon Web Services,149064,-77.53988382,38.78015147,building,477224
+996723588,Virginia,VA,51,153,51153,Prince William County,Amazon IAD95,IAD95,Amazon Web Services,214748,-77.53942706,38.77845091,building,477224
+996723589,Virginia,VA,51,153,51153,Prince William County,Amazon IAD75,IAD75,Amazon Web Services,214662,-77.54289591,38.7793425,building,477224
+996899486,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD102,Amazon IAD102,214338,-77.50490133,38.7359701,building,477224
+996899487,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD101,Amazon IAD101,214330,-77.50569512,38.73544015,building,477224
+996899488,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD100,Amazon IAD100,214611,-77.5066424,38.73459785,building,477224
+996899489,Virginia,VA,51,153,51153,Prince William County,CloudHQ,MCC2,CloudHQ MCC2,351091,-77.49900909,38.72318195,building,477224
+998245264,Illinois,IL,17,31,17031,Cook County,,,Microsoft Data Center - Hoffman Estates,2105271,-88.13389076,42.07695198,campus,5265398
+998933381,New Jersey,NJ,34,35,34035,Somerset County,,,Rackspace Somerset NYC1,18407,-74.53775799,40.54452567,building,343950
+998933389,New Jersey,NJ,34,35,34035,Somerset County,,,Rackspace Belmont NYC2,57471,-74.53749197,40.54083887,building,343950
+1000784035,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,112502,-77.53338365,38.74305258,building,477224
+1003348567,Virginia,VA,51,107,51107,Loudoun County,Quality Technology Services,,QTS Ashburn-Shellhorn DC1,156810,-77.47557114,38.99807915,building,413574
+1007825570,Georgia,GA,13,121,13121,Fulton County,Quality Technology Services,,QTS Atlanta Data Center 2,283307,-84.41955232,33.77750522,building,1054286
+1010260674,Texas,TX,48,29,48029,Bexar County,,,,109489,-98.787471,29.41898804,building,1990522
+1010260675,Texas,TX,48,325,48325,Medina County,Microsoft,,Microsoft TRP3 (SAT46),228897,-98.80637445,29.41297699,building,50458
+1010260676,Texas,TX,48,29,48029,Bexar County,Microsoft,,Microsoft,228882,-98.80331595,29.41579676,building,1990522
+1010260677,Texas,TX,48,29,48029,Bexar County,Microsoft,,Microsoft,228885,-98.8045148,29.41579564,building,1990522
+1011125238,Wisconsin,WI,55,133,55133,Waukesha County,WE Energies,,Pewaukee Data Center,47298,-88.21666504,43.0513886,building,405332
+1013396352,Nevada,NV,32,3,32003,Clark County,,,CenturyLink,11601,-115.0626695,36.18299775,building,2231147
+1015704066,Arizona,AZ,4,13,04013,Maricopa County,EdgeConneX,,EdgeConneX PHX02 Data Center,654105,-111.6475299,33.35201068,building,4367186
+1015995259,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD601,Amazon IAD601,14469,-77.55711533,38.77885736,building,477224
+1017048670,Nevada,NV,32,3,32003,Clark County,,,Switch Edge 1,27670,-115.2136821,36.0591489,building,2231147
+1017460713,Nevada,NV,32,3,32003,Clark County,Switch,,Switch Las Vegas 4,27777,-115.0767788,36.14364614,building,2231147
+1017460715,Nevada,NV,32,3,32003,Clark County,Switch,,Switch Las Vegas 5,15026,-115.0766965,36.1427635,building,2231147
+1017518460,Florida,FL,12,11,12011,Broward County,,,T-Mobile Everglades MSO Data Center,49233,-80.28691594,26.18499694,building,1934551
+1019770124,Illinois,IL,17,37,17037,DeKalb County,Meta Platforms,,DeKalb Meta Data Center,12793294,-88.72856898,41.88904035,campus,100922
+1019812125,Oregon,OR,41,67,41067,Washington County,EdgeConneX,,EdgeConneX Data Center,111564,-122.9122128,45.5566213,building,596969
+1020374277,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,CMH53,Amazon Web Services  CMH53,154029,-82.75145548,40.09361644,building,177454
+1020374278,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,CMH56,Amazon Web Services CMH56,154677,-82.75205115,40.09653435,building,177454
+1020374279,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,CMH59,Amazon Web Services  CMH59,161123,-82.74749105,40.09404616,building,177454
+1020721870,Arkansas,AR,5,145,05145,White County,City of Searcy,,Searcy Information Technologies,4580,-91.74090586,35.24921584,building,77075
+1020877488,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD162,Amazon Web Services,131476,-77.47129119,38.99584762,building,413574
+1020877489,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD161,Amazon Web Services,131482,-77.47326248,38.99660796,building,413574
+1020953454,Virginia,VA,51,107,51107,Loudoun County,,,Digital Loudoun Plaza,686547,-77.48497952,39.00467915,campus,413574
+1020953461,Virginia,VA,51,107,51107,Loudoun County,,,Digital Loudoun Plaza,2859895,-77.48159549,39.001698,campus,413574
+1022744244,Virginia,VA,51,107,51107,Loudoun County,,,AWS,1789925,-77.41779461,38.98103412,campus,413574
+1022744248,Virginia,VA,51,107,51107,Loudoun County,,,AWS,1069380,-77.41110853,38.98782989,campus,413574
+1022757169,Virginia,VA,51,107,51107,Loudoun County,,,AWS,1128056,-77.42605829,38.98161933,campus,413574
+1022757170,Virginia,VA,51,107,51107,Loudoun County,,,,384105,-77.42578369,38.98473223,campus,413574
+1024051963,Utah,UT,49,49,49049,Utah County,Meta,,Meta Eagle Mountain Data Center,344790,-112.0150768,40.26828851,building,648265
+1024051997,Utah,UT,49,49,49049,Utah County,Meta,,Meta Eagle Mountain Data Center,626371,-112.0151274,40.26556399,building,648265
+1024384322,Kansas,KS,20,91,20091,Johnson County,,,,4912,-94.76837277,38.92680599,building,605154
+1025002889,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD42,Digital Realty IAD42,218174,-77.44944907,39.00571934,building,413574
+1027471509,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX66,Amazon Web Services us-west-2,211938,-119.6070385,45.84666781,building,11964
+1027471510,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX68,Amazon Web Services us-west-2,221562,-119.6090625,45.84675378,building,11964
+1030970564,Virginia,VA,51,87,51087,Henrico County,Meta,,Meta Henrico Data Center,327920,-77.23380499,37.48196326,building,331924
+1034230196,Florida,FL,12,105,12105,Polk County,,,,22578,-81.83484809,28.2940769,building,713148
+1034475557,Nevada,NV,32,3,32003,Clark County,,,DataBank Las Vegas LAS1,58547,-115.1472114,36.05972751,building,2231147
+1035123473,Utah,UT,49,49,49049,Utah County,Meta,,Meta Eagle Mountain Data Center,628165,-112.0150547,40.27233431,building,648265
+1035123482,Utah,UT,49,49,49049,Utah County,,,Meta Eagle Mountain Data Center,22734233,-112.0177194,40.2681907,campus,648265
+1037871048,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD601,Amazon IAD601,14384,-77.43777002,39.01526293,building,413574
+1038780426,Nebraska,NE,31,153,31153,Sarpy County,,,Sarpy Meta Data Center,7817408,-96.14365637,41.11410707,campus,188464
+1042260902,Arizona,AZ,4,3,04003,Cochise County,DirecTV,,,7539,-110.3047517,31.97267475,building,125092
+1054387470,Georgia,GA,13,217,13217,Newton County,Meta,,Meta Stanton Springs Data Center,9032398,-83.70034219,33.60076108,campus,111262
+1054387471,Georgia,GA,13,217,13217,Newton County,Meta,,,660258,-83.70541734,33.60137099,building,111262
+1056658555,Utah,UT,49,35,49035,Salt Lake County,Flexential,,Flexential Salt Lake City - Millcreek,28092,-111.8850441,40.68552518,building,1173331
+1057230915,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX93,Amazon PDX93,213828,-119.6898664,45.83654229,building,11964
+1059030596,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,111697,-77.53332239,38.74428601,building,477224
+1059036248,Virginia,VA,51,153,51153,Prince William County,,,,257960,-77.53750922,38.74595859,building,477224
+1059037050,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD132,COPT Innovation Park Data Center,149206,-77.53062488,38.74388635,building,477224
+1059037051,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD133,COPT Data Center Bldg 2,104114,-77.5291961,38.74405495,building,477224
+1065780801,California,CA,6,85,06085,Santa Clara County,Amazon Web Services,,Amazon,98142,-121.9659898,37.38993272,building,1932022
+1069388067,South Carolina,SC,45,15,45015,Berkeley County,Google,,,182645,-80.03831641,33.06202195,building,224806
+1069388075,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google,181261,-80.03966008,33.06217399,building,224806
+1069388095,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google,206252,-80.04115448,33.06205323,building,224806
+1069388141,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google,181645,-80.03845635,33.06431196,building,224806
+1069388147,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google,131216,-80.03842822,33.06643644,building,224806
+1069388156,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google,249320,-80.04357513,33.06415661,building,224806
+1069388186,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google,697831,-80.04505686,33.06200059,building,224806
+1069388211,South Carolina,SC,45,15,45015,Berkeley County,Google,,Google,145533,-80.04606755,33.0644348,building,224806
+1070895993,Georgia,GA,13,217,13217,Newton County,Meta,,,763506,-83.69683908,33.60009368,building,111262
+1070895994,Georgia,GA,13,217,13217,Newton County,Meta,,,342886,-83.69501281,33.59802145,building,111262
+1071772119,Washington,WA,53,17,53017,Douglas County,Microsoft,,Microsoft EAT02,246129,-120.2076878,47.41686802,building,42622
+1071774674,Washington,WA,53,17,53017,Douglas County,Sabey Data Centers,,Intergate Columbia D,135020,-120.1916011,47.40758548,building,42622
+1073720208,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,76005,-95.80485695,41.17734373,building,93571
+1073720209,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,318940,-95.80637969,41.17727415,building,93571
+1073720210,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,258223,-95.80321466,41.17745636,building,93571
+1073720211,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,211543,-95.80096717,41.17748291,building,93571
+1073720212,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,131491,-95.80676285,41.17554012,building,93571
+1073720213,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,129827,-95.8056524,41.17554006,building,93571
+1073720214,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,132118,-95.8044933,41.17554283,building,93571
+1073720215,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,132254,-95.80338954,41.17554365,building,93571
+1073720216,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,130820,-95.80222393,41.17554739,building,93571
+1073720217,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,129628,-95.80111945,41.1755453,building,93571
+1073720218,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,134444,-95.79994803,41.17555376,building,93571
+1073720219,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,174264,-95.80402364,41.17263472,building,93571
+1073720220,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,174583,-95.80252144,41.17264008,building,93571
+1073720221,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,158241,-95.80114772,41.17261143,building,93571
+1075278060,Iowa,IA,19,181,19181,Warren County,Microsoft,,Microsoft,242270,-93.78699632,41.49683039,building,51862
+1075278061,Iowa,IA,19,49,19049,Dallas County,Microsoft,,Microsoft,90065,-93.82631358,41.53981389,building,96604
+1075278062,Iowa,IA,19,49,19049,Dallas County,Microsoft,,Microsoft,80538,-93.8286654,41.53967045,building,96604
+1075445245,California,CA,6,85,06085,Santa Clara County,,,,108346,-121.9423062,37.36113991,building,1932022
+1077131079,Mississippi,MS,28,33,28033,DeSoto County,xAI,,xAI Macrohardrr,812955,-90.03416996,34.99348804,building,183220
+1080170579,Oregon,OR,41,67,41067,Washington County,Flexential,,Flexential Portland - Hillsboro 4 Expansion,20041,-122.9410872,45.55539063,building,596969
+1080170580,Oregon,OR,41,67,41067,Washington County,Flexential,,Flexential Portland - Hillsboro 5,180357,-122.9392962,45.5564241,building,596969
+1081973944,Texas,TX,48,29,48029,Bexar County,Quality Technology Services,,QTS San Antonio II,140321,-98.65314491,29.44915639,building,1990522
+1083297858,Arizona,AZ,4,13,04013,Maricopa County,Meta,,Meta Data Center,14850970,-111.6303055,33.34359228,campus,4367186
+1083841125,Colorado,CO,8,41,08041,El Paso County,,,T5@Colorado Springs,74307,-104.7885349,38.78617187,building,722736
+1085608797,Florida,FL,12,57,12057,Hillsborough County,Flexential,,Flexential Tampa - North,30643,-82.36833791,28.07385599,building,1444359
+1088203906,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,96372,-77.45200064,39.01674415,building,413574
+1088203907,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,96367,-77.45314512,39.01588595,building,413574
+1088241977,Virginia,VA,51,107,51107,Loudoun County,Aligned,,Aligned IAD02,208188,-77.47518884,39.01041104,building,413574
+1090837713,Virginia,VA,51,153,51153,Prince William County,Quality Technology Services,,QTS Manassas DC5,153531,-77.51744671,38.75469274,building,477224
+1091128478,Arizona,AZ,4,13,04013,Maricopa County,Microsoft,PHX-11,PHX-11,248866,-112.3648034,33.40903089,building,4367186
+1092283612,New York,NY,36,87,36087,Rockland County,,,,262772,-73.97183916,41.05233001,building,336485
+1097502168,Georgia,GA,13,97,13097,Douglas County,Flexential,,Flexential Atlanta - Douglasville 1,213895,-84.61608085,33.73105743,building,143520
+1103333136,Tennessee,TN,47,125,47125,Montgomery County,Google,SPC1A,Google,169733,-87.26351478,36.62483034,building,216172
+1103333137,Tennessee,TN,47,125,47125,Montgomery County,Google,Building 3,SPC3A,169748,-87.25902653,36.62430276,building,216172
+1106454555,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD143,Amazon Web Services,132491,-77.41749033,38.9795574,building,413574
+1109643936,New York,NY,36,63,36063,Niagara County,US Bitcoin,,,61559,-79.03072272,43.08205627,building,212808
+1109881281,Pennsylvania,PA,42,91,42091,Montgomery County,TierPoint,,TierPoint Valley Forge,62375,-75.42087694,40.12187904,building,850890
+1114969101,Oregon,OR,41,67,41067,Washington County,Aligned Data Centers,,,155423,-122.9493117,45.55406423,building,596969
+1116775094,Nevada,NV,32,29,32029,Storey County,,,,628883,-119.4755138,39.51406783,building,4047
+1116775095,Nevada,NV,32,29,32029,Storey County,,,,296544,-119.4848528,39.51387049,building,4047
+1121188409,Utah,UT,49,35,49035,Salt Lake County,Flexential,,Flexential Salt Lake City - Fair Park,12565,-111.9202924,40.76678609,building,1173331
+1121592786,Texas,TX,48,29,48029,Bexar County,,,CyrusOne San Antonio IV,92543,-98.67062972,29.47067924,building,1990522
+1123249721,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC16,Equinix Ashburn DC16,87843,-77.45232686,39.02425729,building,413574
+1124864831,Virginia,VA,51,107,51107,Loudoun County,Microsoft,,Microsoft IAD11,242344,-77.55591095,38.94825819,building,413574
+1126159710,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,PDX63,Amazon PDX63,227376,-119.3205224,45.90144985,building,79509
+1126159711,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,PDX65,Amazon PDX65,217425,-119.3204976,45.90276332,building,79509
+1126159714,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,PDX67,Amazon PDX67,219900,-119.320487,45.90385105,building,79509
+1126159715,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,PDX69,Amazon PDX69,219735,-119.3201666,45.90509437,building,79509
+1126774147,Missouri,MO,29,47,29047,Clay County,Meta,,Meta Kansas City Data Center,13516765,-94.59555838,39.3223524,campus,250134
+1126774147,Missouri,MO,29,165,29165,Platte County,Meta,,Meta Kansas City Data Center,13516765,-94.59555838,39.3223524,campus,105189
+1127951468,Oregon,OR,41,59,41059,Umatilla County,,,,15313,-119.2699806,45.91570985,building,79509
+1128589933,Virginia,VA,51,107,51107,Loudoun County,,,,242639,-77.56077132,39.06964742,building,413574
+1128589934,Virginia,VA,51,107,51107,Loudoun County,,,,247061,-77.55943345,39.06965445,building,413574
+1132541700,Virginia,VA,51,87,51087,Henrico County,Meta,,Meta Henrico Data Center,604696,-77.226455,37.47784538,building,331924
+1132632705,Arizona,AZ,4,13,04013,Maricopa County,Quality Technology Services,,QTS,156513,-111.997122,33.46080638,building,4367186
+1133944585,Illinois,IL,17,119,17119,Madison County,,,,204,-89.94870328,38.81056014,building,266112
+1134104431,Virginia,VA,51,59,51059,Fairfax County,CoreSite,,CoreSite Reston Campus VA2,40517,-77.36400407,38.95145144,building,1146825
+1134911640,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD105,AWS IAD105,214270,-77.5194753,38.74759587,building,477224
+1134911641,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD104,AWS IAD104,214258,-77.5207048,38.74837384,building,477224
+1134911642,Virginia,VA,51,153,51153,Prince William County,Quality Technology Services,,QTS Manassas DC1,123471,-77.5131107,38.75251711,building,477224
+1143804764,Maryland,MD,24,27,24027,Howard County,,,,112205,-76.85140715,39.13368479,building,329248
+1152747559,Oregon,OR,41,13,41013,Crook County,,,,455401,-120.8945961,44.30167224,building,24300
+1152748037,Oregon,OR,41,13,41013,Crook County,,,,241183,-120.8945947,44.29928795,building,24300
+1153935548,Oregon,OR,41,67,41067,Washington County,Digital Realty,,Digital Realty PDX11 Data Center,287848,-122.9199689,45.56845929,building,596969
+1154349280,Illinois,IL,17,43,17043,DuPage County,UChicago Argonne LLC,386,Datacenter (386),12413,-87.97595598,41.70713417,building,934094
+1154503131,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,150776,-83.19958258,40.10176652,building,1313598
+1154503132,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,150211,-83.19947534,40.10076813,building,1313598
+1154503133,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,131786,-83.19926048,40.0997865,building,1313598
+1154636644,Illinois,IL,17,43,17043,DuPage County,NTT,CH1,NTT Chicago CH1,113535,-88.00726495,41.98791938,building,934094
+1157356188,Wisconsin,WI,55,33,55033,Dunn County,West Wisconsin Telcom,,,3368,-91.91999887,44.87716527,building,45254
+1160688107,California,CA,6,85,06085,Santa Clara County,CoreSite,SV7,CoreSite SV7,60989,-121.9730567,37.37607877,building,1932022
+1160814413,Alabama,AL,1,89,01089,Madison County,Meta,,Meta Huntsville Data center,578342,-86.6269186,34.84733379,building,382149
+1160814415,Alabama,AL,1,89,01089,Madison County,Meta,,Meta Huntsville Data center,352651,-86.62886566,34.84318223,building,382149
+1160814416,Alabama,AL,1,89,01089,Madison County,Meta,,Meta Huntsville Data center,857148,-86.62884124,34.84043161,building,382149
+1161094246,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD142,Amazon Web Services,129566,-77.41990459,38.97914745,building,413574
+1161730862,Virginia,VA,51,107,51107,Loudoun County,,,,1524370,-77.49759322,38.95733457,campus,413574
+1173537116,Washington,WA,53,17,53017,Douglas County,Microsoft,,Microsoft EAT03,235418,-120.20771,47.41832392,building,42622
+1173537117,Washington,WA,53,17,53017,Douglas County,Microsoft,,Microsoft EAT04,234834,-120.2138207,47.41963659,building,42622
+1173569101,Iowa,IA,19,49,19049,Dallas County,Microsoft,,Microsoft,250486,-93.86344404,41.5349903,building,96604
+1173770902,Virginia,VA,51,107,51107,Loudoun County,Google,ARA2,Google: Arcola 2,289889,-77.52742942,38.94182146,building,413574
+1173822721,Washington,WA,53,7,53007,Chelan County,,,EAT14,241836,-120.1600908,47.35949692,building,78508
+1173822722,Washington,WA,53,7,53007,Chelan County,,,EAT13,232237,-120.1599759,47.35842572,building,78508
+1173822723,Washington,WA,53,7,53007,Chelan County,,,EAT12,248918,-120.1595462,47.35743301,building,78508
+1177794153,Texas,TX,48,113,48113,Dallas County,,,,141788,-96.98194594,32.8947623,building,2604722
+1177893426,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD603,Amazon IAD603,14733,-77.41935735,38.98154602,building,413574
+1177975782,Wyoming,WY,56,21,56021,Laramie County,,,,29178,-104.9075161,41.12539869,building,99905
+1177975783,Wyoming,WY,56,21,56021,Laramie County,,,,33657,-104.8995375,41.12645974,building,99905
+1177975784,Wyoming,WY,56,21,56021,Laramie County,,,,51590,-104.9019777,41.12541098,building,99905
+1177975788,Wyoming,WY,56,21,56021,Laramie County,,,,218419,-104.9081423,41.12226601,building,99905
+1177975789,Wyoming,WY,56,21,56021,Laramie County,,,,216879,-104.909517,41.12224618,building,99905
+1178609569,Pennsylvania,PA,42,91,42091,Montgomery County,Flexential,,Flexential Philadelphia - Collegeville,110941,-75.477629,40.15222045,building,850890
+1178649864,Idaho,ID,16,1,16001,Ada County,Meta,,Meta Kuna Data Center,15951730,-116.2675073,43.46314126,campus,485246
+1181391920,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD86,Amazon IAD86,150112,-77.49567435,38.9172562,building,413574
+1181391921,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD130,Amazon IAD130,103128,-77.51930185,38.7603606,building,477224
+1181391922,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD131,Amazon IAD131,104697,-77.518221,38.76110475,building,477224
+1184066765,Missouri,MO,29,47,29047,Clay County,Meta,,Meta Data Center,615937,-94.59806357,39.32265087,building,250134
+1188680247,Virginia,VA,51,107,51107,Loudoun County,Quality Technology Services,,QTS Ashburn-Shellhorn DC2,152471,-77.47426403,38.99877155,building,413574
+1188680253,Virginia,VA,51,107,51107,Loudoun County,Quality Technology Services,,QTS Ashburn Lockridge,153253,-77.45518313,38.99535529,building,413574
+1188680254,Virginia,VA,51,107,51107,Loudoun County,Quality Technology Services,,QTS Ashburn Lockridge,135570,-77.4568879,38.99519863,building,413574
+1188680255,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD192,Amazon IAD192,132942,-77.43480131,38.98955354,building,413574
+1188691867,Virginia,VA,51,107,51107,Loudoun County,,,,91264,-77.47326656,39.01710249,building,413574
+1188691868,Virginia,VA,51,107,51107,Loudoun County,NTT,VA8,NTT Ashburn VA8 Data Centre,111241,-77.47553126,39.02019008,building,413574
+1188691869,Virginia,VA,51,107,51107,Loudoun County,Databank,IAD3,DataBank Ashburn IAD3,146234,-77.48182767,39.01787845,building,413574
+1188715508,Virginia,VA,51,107,51107,Loudoun County,PowerHouse,ABX-1,PowerHouse ABX-1,131309,-77.4504655,39.01957793,building,413574
+1188715510,Virginia,VA,51,107,51107,Loudoun County,,,,158127,-77.45947387,39.01794777,building,413574
+1191496040,New Mexico,NM,35,61,35061,Valencia County,Meta,4,Meta,588490,-106.7788891,34.82583964,building,75992
+1193914601,Washington,WA,53,25,53025,Grant County,,,,280235,-119.8179835,47.24481075,building,97874
+1193914602,Washington,WA,53,25,53025,Grant County,,,,147278,-119.8148125,47.24427569,building,97874
+1202051225,Iowa,IA,19,153,19153,Polk County,,,Lightedge Des Moines 2,56626,-93.45595524,41.66679863,building,488871
+1207052719,Georgia,GA,13,135,13135,Gwinnett County,Quality Technology Services,,QTS Suwanee,1452037,-84.05926627,34.03623058,campus,948505
+1210199365,Nevada,NV,32,31,32031,Washoe County,,,,89816,-119.5378594,39.5697106,building,479758
+1210199366,Nevada,NV,32,31,32031,Washoe County,,,,89816,-119.5370917,39.5700526,building,479758
+1210199367,Nevada,NV,32,31,32031,Washoe County,,,,89821,-119.536034,39.57059171,building,479758
+1210199368,Nevada,NV,32,31,32031,Washoe County,,,,89824,-119.5353176,39.5709862,building,479758
+1210421871,Ohio,OH,39,99,39099,Mahoning County,,,Carrier Services Group,75379,-80.63309049,41.04105973,building,229044
+1210515186,Tennessee,TN,47,187,47187,Williamson County,Flexential,,Flexential Nashville - Cool Springs,69261,-86.833381,35.95104066,building,242386
+1211362828,Wisconsin,WI,55,21,55021,Columbia County,,,,361,-89.72140294,43.63833311,building,58219
+1213758201,Tennessee,TN,47,165,47165,Sumner County,Meta,,Gallatin Data Center,17045005,-86.37031412,36.40865377,campus,193036
+1217649348,Illinois,IL,17,31,17031,Cook County,Aligned,ORD-01,Aligned Data Center - Chicago ORD-01,194551,-87.91746546,41.91398309,building,5265398
+1217649350,Illinois,IL,17,31,17031,Cook County,Aligned,ORD-02,Aligned Data Center - Chicago ORD-02,111422,-87.91749235,41.91296223,building,5265398
+1219083552,Illinois,IL,17,31,17031,Cook County,,,,110471,-87.97218622,42.02314333,building,5265398
+1219083554,Illinois,IL,17,31,17031,Cook County,T5 Data Centers,Chicago II,T5 Chicago II,163237,-87.97555688,42.02304233,building,5265398
+1221574918,Texas,TX,48,453,48453,Travis County,,,Cortex supercomputer,427833,-97.61896046,30.21539944,building,1267795
+1221862807,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD106,AWS IAD106,205206,-77.51852813,38.74697498,building,477224
+1222007663,Ohio,OH,39,89,39089,Licking County,Google,,Google NBY-2,138878,-82.76452658,40.05963281,building,177454
+1222134968,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD609,Amazon Web Services,14235,-77.52358043,38.94913487,building,413574
+1226436454,Iowa,IA,19,155,19155,Pottawattamie County,,,,117949,-95.87791366,41.21209899,building,93571
+1226439731,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,PDX93,Amazon Web Services,213843,-119.6940477,45.83618446,building,11964
+1227539675,Virginia,VA,51,153,51153,Prince William County,Equinix,DC14,Equinix DC14,222846,-77.51061643,38.80334503,campus,477224
+1227550179,Texas,TX,48,439,48439,Tarrant County,,,Novartis,42691,-97.31970941,32.65123418,building,2091953
+1227604493,California,CA,6,85,06085,Santa Clara County,Equinix,SV11,Equinix SV11,76977,-121.7839986,37.24260507,building,1932022
+1227612684,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,IAD103,Amazon IAD103,141914,-77.50407511,38.73698427,building,477224
+1227614670,Virginia,VA,51,153,51153,Prince William County,CloudHQ,MCC3,CloudHQ MCC3,122891,-77.49512778,38.71497031,building,477224
+1227682824,Arizona,AZ,4,13,04013,Maricopa County,,,CyrusOne PHX8,138766,-111.8832897,33.2663436,building,4367186
+1227684019,Arizona,AZ,4,13,04013,Maricopa County,,,CyrusOne PHX3,107618,-111.8816271,33.27196806,building,4367186
+1227684020,Arizona,AZ,4,13,04013,Maricopa County,,,CyrusOne PHX4,108957,-111.8832821,33.2719371,building,4367186
+1227777116,Virginia,VA,51,107,51107,Loudoun County,Vantage Data Centers,VA13,Vantage VA13,261859,-77.4398508,39.00310829,building,413574
+1227883682,Iowa,IA,19,153,19153,Polk County,,,Lightedge Des Moines 1,30078,-93.45548176,41.66765686,building,488871
+1235150788,Nebraska,NE,31,153,31153,Sarpy County,Yahoo,,Yahoo,237691,-96.08489875,41.18049999,building,188464
+1235255415,New Mexico,NM,35,13,35013,Doña Ana County,CenturyLink,,,31837,-106.7291711,32.30965548,building,218157
+1235846520,Nevada,NV,32,3,32003,Clark County,Verizon,,Verizon North Las Vegas,25096,-115.1470555,36.22189343,building,2231147
+1237493975,Nebraska,NE,31,153,31153,Sarpy County,Google,,Google,292941,-96.1440729,41.13491996,building,188464
+1237494981,Nebraska,NE,31,153,31153,Sarpy County,Google,,Google,297438,-96.15590607,41.13439328,building,188464
+1238705019,Ohio,OH,39,35,39035,Cuyahoga County,,,Involta Independence,26393,-81.63280479,41.36106237,building,1263667
+1238955720,New York,NY,36,87,36087,Rockland County,Bloomberg,,Bloomberg Data Center,182539,-73.9874937,41.03627035,building,336485
+1238955733,New York,NY,36,87,36087,Rockland County,fifteenfortyseven Critical Systems Realty,,fifteenfortyseven CSR ORNY1,151516,-73.9757645,41.0344845,building,336485
+1243089554,Oregon,OR,41,67,41067,Washington County,Stack Infrastructure,,Stack Infrastructure Portland 3 Data Center -Bld POR3b,91092,-122.9394275,45.5542156,building,596969
+1243089555,Oregon,OR,41,67,41067,Washington County,Stack Infrastructure,,Stack Infrastructure Portland 3 Data Center -Bld POR3c,93274,-122.940939,45.55421716,building,596969
+1252196797,Virginia,VA,51,59,51059,Fairfax County,Amazon Web Services,,Amazon Web Services,120946,-77.45247339,38.90434587,building,1146825
+1252196798,Virginia,VA,51,59,51059,Fairfax County,Amazon Web Services,,Amazon Web Services,118988,-77.45475997,38.90483706,building,1146825
+1252196799,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,87645,-77.49055175,38.91590467,building,413574
+1252196800,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,13879,-77.49097635,38.91498996,building,413574
+1252196801,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,CMH62,Amazon Web Services CMH62,136329,-82.74763713,40.09298279,building,177454
+1252196802,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services,214329,-82.73215983,40.09344044,building,177454
+1252196803,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services,214261,-82.7275512,40.09215828,building,177454
+1252196804,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services,14223,-82.72649054,40.09296535,building,177454
+1252196805,Ohio,OH,39,159,39159,Union County,Amazon Web Services,,Amazon Web Services,218032,-83.20139114,40.11625888,building,61769
+1252196806,Ohio,OH,39,159,39159,Union County,Amazon Web Services,,,213349,-83.20208182,40.11739966,building,61769
+1252196807,Ohio,OH,39,159,39159,Union County,Amazon Web Services,,Amazon Web Services,13652,-83.20025963,40.11904802,building,61769
+1252196808,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,220580,-83.17546026,40.04935754,building,1313598
+1252196809,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,,217845,-83.17528385,40.0481309,building,1313598
+1252196810,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,14456,-83.17754692,40.04790974,building,1313598
+1252196811,Ohio,OH,39,89,39089,Licking County,Google,,Google NBY-3,284807,-82.76528496,40.05795741,building,177454
+1252196812,Ohio,OH,39,49,39049,Franklin County,Google,,Google NBY-4,294201,-82.77177556,40.05934213,building,1313598
+1252196813,Ohio,OH,39,89,39089,Licking County,Meta,,Meta New Albany Data Center,608761,-82.75098832,40.0603797,building,177454
+1252196814,Ohio,OH,39,49,39049,Franklin County,Google,,Google,289874,-82.99487523,39.85209795,building,1313598
+1252196815,Virginia,VA,51,153,51153,Prince William County,Google,,Google,289731,-77.58252358,38.77612295,building,477224
+1252196816,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,210570,-119.6050963,45.85874996,building,11964
+1252196817,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,211904,-119.6051336,45.86008348,building,11964
+1252196818,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,216528,-119.6051531,45.86096943,building,11964
+1252196819,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,13765,-119.6517768,45.84148103,building,11964
+1252196820,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,216430,-119.2318308,45.92063694,building,79509
+1252196821,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,211240,-119.2299811,45.92064708,building,79509
+1252196822,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,216777,-119.3619587,45.79777489,building,79509
+1252196823,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,216903,-119.366658,45.79916504,building,79509
+1252196824,Ohio,OH,39,45,39045,Fairfield County,Google,,Google,289253,-82.69112739,39.72401017,building,157622
+1252196825,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,212702,-77.51721534,38.74614582,building,477224
+1252196826,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,133944,-77.48579977,38.92131351,building,413574
+1253282099,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,14683,-77.47107161,38.99509407,building,413574
+1253282100,Nebraska,NE,31,153,31153,Sarpy County,Meta,,Meta Sarpy Data center,628560,-96.13289444,41.12357298,building,188464
+1253282101,Nebraska,NE,31,153,31153,Sarpy County,Meta,,Meta Sarpy Data center,625288,-96.14283652,41.11432924,building,188464
+1253282102,Nebraska,NE,31,153,31153,Sarpy County,Meta,,Meta Sarpy Data center,286253,-96.14155463,41.11216327,building,188464
+1253282103,Iowa,IA,19,153,19153,Polk County,Meta,,Meta,493366,-93.50965655,41.6755715,building,488871
+1253282104,Iowa,IA,19,153,19153,Polk County,Meta,,Meta,601076,-93.50603124,41.67582284,building,488871
+1254161871,Kentucky,KY,21,107,21107,Hopkins County,,,Dynamics Mining,442423,-87.54712131,37.3629909,campus,45432
+1258702591,Georgia,GA,13,97,13097,Douglas County,Flexential,,Flexential Atlanta - Douglasville 2,311176,-84.6112397,33.73070272,building,143520
+1263819877,Nevada,NV,32,3,32003,Clark County,Switch,,,241776,-115.2211121,36.06402201,building,2231147
+1268789798,Wyoming,WY,56,21,56021,Laramie County,,,Windbreak Cable,1114,-104.0684983,41.1826012,building,99905
+1269259655,Virginia,VA,51,683,51683,Manassas city,,,,95987,-77.50398436,38.74043587,building,42596
+1271571726,Illinois,IL,17,43,17043,DuPage County,NTT,CH2,NTT Chicago CH2,115555,-88.00725703,41.98896681,building,934094
+1276373853,Oregon,OR,41,13,41013,Crook County,,,,275217,-120.869921,44.28575426,building,24300
+1276518679,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD214,Amazon IAD214,113421,-77.43517574,38.98652601,building,413574
+1276518684,Virginia,VA,51,107,51107,Loudoun County,Aligned,IAD03,Aligned IAD03,79844,-77.4407519,38.98862095,building,413574
+1276518687,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD55,Digital Realty IAD55,85319,-77.43393216,38.99226912,building,413574
+1278541792,Ohio,OH,39,153,39153,Summit County,,,Involta-Akron,59427,-81.52197151,41.05743107,building,540567
+1280340212,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,13569,-77.52022616,38.94736148,building,413574
+1280340213,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,,Amazon Web Services,14079,-77.41752673,38.98357495,building,413574
+1280340214,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,129225,-77.6221272,38.80289735,building,477224
+1280340215,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,14507,-77.53309395,38.74511981,building,477224
+1280340216,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,14389,-77.65433143,38.8145976,building,477224
+1280340217,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,149332,-77.65215913,38.81696824,building,477224
+1280344148,Ohio,OH,39,159,39159,Union County,Amazon Web Services,,Amazon Web Services,233609,-83.21583366,40.13418977,building,61769
+1280344149,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,225421,-119.2288046,45.92059672,building,79509
+1280344150,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,217375,-119.2270043,45.92056001,building,79509
+1280344151,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,16064,-119.2260903,45.91951529,building,79509
+1280344153,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,218698,-119.3416518,45.8825175,building,79509
+1280344154,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,211930,-119.6051117,45.86225296,building,11964
+1280344155,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,12811,-119.6048716,45.85803761,building,11964
+1280344156,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,13923,-119.6513021,45.8406703,building,11964
+1280344157,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,212775,-119.6320859,45.81993096,building,11964
+1281982556,Ohio,OH,39,49,39049,Franklin County,Google,,"Google Lockbourne, OH",11463730,-82.99616096,39.84875268,campus,1313598
+1281982572,Ohio,OH,39,89,39089,Licking County,,,Amazon New Albany: Jug and Beach Road,1524640,-82.75147402,40.09907371,campus,177454
+1282332209,Georgia,GA,13,117,13117,Forsyth County,,,UPS Data Center,173693,-84.21497393,34.10338318,building,245754
+1282875386,Wyoming,WY,56,21,56021,Laramie County,MineOne,,MineOne Wyoming Data Center,306030,-104.8949838,41.12512444,campus,99905
+1283698132,Virginia,VA,51,153,51153,Prince William County,,VA-3,Iron Mountain VA-3,181174,-77.54520013,38.77550688,building,477224
+1283734104,Arizona,AZ,4,13,04013,Maricopa County,Microsoft,,Microsoft,238581,-112.3739195,33.44634015,building,4367186
+1287260553,Virginia,VA,51,153,51153,Prince William County,Google,,Google,289621,-77.58562712,38.77441653,building,477224
+1287260554,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,127010,-77.62121028,38.80185736,building,477224
+1287260555,Virginia,VA,51,153,51153,Prince William County,Amazon Web Services,,Amazon Web Services,130170,-77.62048062,38.80125679,building,477224
+1287260556,Virginia,VA,51,153,51153,Prince William County,,,Iron Mountain VA-4,89044,-77.542221,38.77442331,building,477224
+1287260557,Virginia,VA,51,153,51153,Prince William County,,,Iron Mountain VA-5,106629,-77.54116864,38.77304295,building,477224
+1287260558,Virginia,VA,51,153,51153,Prince William County,Quality Technology Services,,QTS Manassas DC2,137971,-77.51079702,38.75319464,building,477224
+1287260559,Virginia,VA,51,153,51153,Prince William County,,,,139592,-77.51665239,38.75887522,building,477224
+1287260560,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,294718,-95.79220329,41.17359489,building,93571
+1287260561,Iowa,IA,19,155,19155,Pottawattamie County,Google,,Google,296835,-95.78867837,41.1735975,building,93571
+1292169104,Ohio,OH,39,35,39035,Cuyahoga County,T5 Data Centers,,T5@Cleveland,974789,-81.80285199,41.44249497,campus,1263667
+1292897241,Virginia,VA,51,107,51107,Loudoun County,True North Data Solutions,,42311 THUNDERBALL DR,40683,-77.53829966,39.04255254,building,413574
+1292897242,Virginia,VA,51,107,51107,Loudoun County,True North Data Solutions,,42255 THUNDERBALL DR,60458,-77.53922374,39.04162316,building,413574
+1292897243,Virginia,VA,51,107,51107,Loudoun County,True North Data Solutions,,42254 THUNDERBALL DR,77498,-77.5408743,39.04350174,building,413574
+1294595615,Tennessee,TN,47,165,47165,Sumner County,Meta,,Meta Gallatin Data Center,626571,-86.3696614,36.41186545,building,193036
+1296163129,California,CA,6,99,06099,Stanislaus County,Yosemite Community College District,,Modesto Junior College West Data Center,6017,-121.0400375,37.66514737,building,550842
+1296723872,Texas,TX,48,29,48029,Bexar County,GVTC,,GVTC,445,-98.4626475,29.68640302,building,1990522
+1300765126,Texas,TX,48,113,48113,Dallas County,,,Stream Data Centers,280635,-96.65427329,32.98366816,building,2604722
+1301559332,Texas,TX,48,221,48221,Hood County,Marathon Digital Holdings,,MARA Data Center,1768886,-97.73122803,32.34174517,campus,60521
+1301654223,Virginia,VA,51,107,51107,Loudoun County,,,,130181,-77.55898683,38.94801699,building,413574
+1301654224,Virginia,VA,51,107,51107,Loudoun County,,,,130174,-77.55887032,38.95006467,building,413574
+1304357577,Virginia,VA,51,153,51153,Prince William County,,,Iron Mountain VA-6,181918,-77.53864813,38.76814289,building,477224
+1307072785,Minnesota,MN,27,137,27137,St. Louis County,,,Ark Duluth Data Center,27162,-92.13043071,46.82746659,building,200311
+1307920829,North Carolina,NC,37,119,37119,Mecklenburg County,Flexential,,Flexential Charlotte - North,62809,-80.76578189,35.32975387,building,1100984
+1309123033,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC6,Equinix Ashburn DC6,70526,-77.45953797,39.01519835,building,413574
+1309123034,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC4,Equinix Ashburn DC4,101052,-77.46188736,39.01640762,building,413574
+1310628998,Texas,TX,48,29,48029,Bexar County,HEB,,,36241,-98.54132737,29.58014146,building,1990522
+1312295357,South Carolina,SC,45,3,45003,Aiken County,Meta,,Meta Aiken Data Center,3608146,-81.84262698,33.64227315,campus,168045
+1312792611,Illinois,IL,17,37,17037,DeKalb County,Meta,,,568454,-88.72185807,41.88853041,building,100922
+1312792612,Illinois,IL,17,37,17037,DeKalb County,Meta,,,568442,-88.73105377,41.88928382,building,100922
+1312792613,Illinois,IL,17,37,17037,DeKalb County,Meta,,,320184,-88.7263552,41.89027497,building,100922
+1312795639,Tennessee,TN,47,165,47165,Sumner County,Meta,,Meta Gallatin Data Center,626568,-86.3660125,36.41135065,building,193036
+1312795640,Tennessee,TN,47,165,47165,Sumner County,Meta,,Meta Gallatin Data Center,626683,-86.36660784,36.40604868,building,193036
+1312801354,Nebraska,NE,31,153,31153,Sarpy County,Google,,Google,297414,-96.15143115,41.13790993,building,188464
+1313995085,California,CA,6,85,06085,Santa Clara County,,,,124069,-121.9745072,37.37064295,building,1932022
+1314010354,California,CA,6,85,06085,Santa Clara County,Vantage Data Centers,,Vantage Santa Clara CA2,132031,-121.9468449,37.36403183,building,1932022
+1314012931,California,CA,6,85,06085,Santa Clara County,Digital Realty,SJC37,Digital Realty Silicon Valley SJC37,155689,-121.9472164,37.37093637,building,1932022
+1314355599,Nevada,NV,32,3,32003,Clark County,,,Switch Las Vegas 12,484037,-115.2103885,36.05813029,campus,2231147
+1315636714,Arizona,AZ,4,13,04013,Maricopa County,Quality Technology Services,,QTS,162484,-111.9975343,33.46474692,building,4367186
+1317733642,Virginia,VA,51,107,51107,Loudoun County,Digital Realty,IAD44,Digital Realty Northern Virginia IAD44,399540,-77.49143163,38.96085555,building,413574
+1318322071,Iowa,IA,19,181,19181,Warren County,Microsoft,,Microsoft,247197,-93.7870554,41.4958062,building,51862
+1318322073,Iowa,IA,19,181,19181,Warren County,Microsoft,,Microsoft,247201,-93.7870206,41.4947499,building,51862
+1318322780,Iowa,IA,19,49,19049,Dallas County,Apple,,Apple,313804,-93.92440196,41.61685113,building,96604
+1319637945,Virginia,VA,51,107,51107,Loudoun County,,,,172204,-77.549509,38.94986181,building,413574
+1319724559,Ohio,OH,39,41,39041,Delaware County,,,,307645,-83.04586008,40.22452425,building,211121
+1320038649,South Carolina,SC,45,51,45051,Horry County,,,DC BLOX Myrtle Beach Cable Landing Station,91946,-78.94369603,33.67458322,building,344865
+1320683840,Nevada,NV,32,29,32029,Storey County,,,,390893,-119.4833053,39.5115196,building,4047
+1333205262,Virginia,VA,51,107,51107,Loudoun County,,,,200169,-77.54975704,39.05842725,building,413574
+1333205263,Virginia,VA,51,107,51107,Loudoun County,,,,153155,-77.55856949,39.06601533,building,413574
+1333289545,Minnesota,MN,27,37,27037,Dakota County,Meta,,Meta Rosemount Data Center,10334558,-93.06262672,44.73502984,campus,435863
+1340746574,New Mexico,NM,35,61,35061,Valencia County,Meta,5,Meta,588461,-106.7824683,34.8258232,building,75992
+1343100173,Minnesota,MN,27,53,27053,Hennepin County,,MSP3,DataBank,114648,-93.38712829,45.14371137,building,1270283
+1343760339,Washington,WA,53,25,53025,Grant County,,,Vantage WA13,252025,-119.8136225,47.25252755,building,97874
+1343761104,Washington,WA,53,25,53025,Grant County,,,,119147,-119.8690512,47.24364491,building,97874
+1343764880,Virginia,VA,51,59,51059,Fairfax County,,,,135479,-77.42787142,38.9227728,building,1146825
+1343764881,Virginia,VA,51,59,51059,Fairfax County,,,,130413,-77.42655352,38.92112457,building,1146825
+1343764882,Virginia,VA,51,59,51059,Fairfax County,,,,132753,-77.42630676,38.92269158,building,1146825
+1343769701,Virginia,VA,51,107,51107,Loudoun County,,,QTS Ashburn-Shellhorn,829536,-77.47494238,38.99853677,campus,413574
+1343774537,Virginia,VA,51,107,51107,Loudoun County,,,CloudHQ Ashburn Campus,1553192,-77.46211285,39.01071824,campus,413574
+1344366214,Texas,TX,48,29,48029,Bexar County,CyrusOne,,CyrusOne SAT10 & SAT11,934177,-98.78780547,29.41834865,campus,1990522
+1344369104,Texas,TX,48,29,48029,Bexar County,,,Amazon,104910,-98.6387138,29.45073624,building,1990522
+1344369111,Texas,TX,48,29,48029,Bexar County,,,,64212,-98.78880785,29.41845384,building,1990522
+1344376231,California,CA,6,85,06085,Santa Clara County,Csquare,SFO4,Csquare SFO4,32249,-121.9562691,37.37575523,building,1932022
+1344376232,California,CA,6,85,06085,Santa Clara County,,,NTT Silicon Valley data center campus,143246,-121.9553645,37.36897449,campus,1932022
+1344901567,Virginia,VA,51,107,51107,Loudoun County,,,,128835,-77.46077417,39.00044577,building,413574
+1344901568,Virginia,VA,51,107,51107,Loudoun County,,,,130571,-77.46086692,38.99911305,building,413574
+1344901575,Virginia,VA,51,107,51107,Loudoun County,,,Vantage VA2,187488,-77.43025352,38.99795881,building,413574
+1346610234,Ohio,OH,39,17,39017,Butler County,CyrusOne,CIN4,CyrusOne Cincinnati-Hamilton CIN4,1543625,-84.56613129,39.38523875,campus,387830
+1351049826,California,CA,6,85,06085,Santa Clara County,DataBank,SFO1,DataBank Santa Clara SFO1,26781,-121.9659564,37.40729868,building,1932022
+1365213539,Oregon,OR,41,43,41043,Linn County,Stayton Cooperative Telephone Company,,PTC,2521,-122.6159312,44.77521879,building,127200
+1368776076,Iowa,IA,19,153,19153,Polk County,,,,263940,-93.72031238,41.51586407,building,488871
+1368776077,Iowa,IA,19,153,19153,Polk County,,,,248069,-93.71976722,41.51686367,building,488871
+1371348227,Missouri,MO,29,25,29025,Caldwell County,,,CenturyLink,1433,-93.99737602,39.74404824,building,8856
+1372772726,Arizona,AZ,4,13,04013,Maricopa County,,,,241211,-111.6780897,33.35323015,building,4367186
+1374895921,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,218723,-119.3416356,45.87953254,building,79509
+1374895922,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,218708,-119.3396901,45.88252484,building,79509
+1375443893,Ohio,OH,39,89,39089,Licking County,,,,95190,-82.76269812,40.05924762,building,177454
+1375475071,Iowa,IA,19,49,19049,Dallas County,Microsoft,,Microsoft,250490,-93.86343864,41.5339163,building,96604
+1375475072,Iowa,IA,19,49,19049,Dallas County,Microsoft,,Microsoft,250494,-93.86346169,41.53283774,building,96604
+1375475073,Iowa,IA,19,49,19049,Dallas County,Microsoft,,Microsoft,250498,-93.86344214,41.53181414,building,96604
+1377162298,Ohio,OH,39,173,39173,Wood County,,,Meta Bowling Green Data Center,21498189,-83.63835553,41.46529826,campus,131930
+1379421123,Nevada,NV,32,3,32003,Clark County,Flexential,,Flexential Las Vegas - Downtown,439,-115.1431446,36.1686438,building,2231147
+1380114462,Virginia,VA,51,61,51061,Fauquier County,,,,59703,-77.82624892,38.73721263,building,72416
+1380114463,Virginia,VA,51,61,51061,Fauquier County,,,,107125,-77.82580619,38.73822201,building,72416
+1381264361,Tennessee,TN,47,157,47157,Shelby County,,,xAI Colossus,776966,-90.15645222,35.05996022,building,929178
+1381994242,Virginia,VA,51,107,51107,Loudoun County,CloudHQ,LC4,,460596,-77.47199252,39.00235751,building,413574
+1382205749,Ohio,OH,39,35,39035,Cuyahoga County,T5 Data Centers,,T5@Cleveland,244723,-81.8021543,41.44246938,building,1263667
+1383913490,New York,NY,36,87,36087,Rockland County,Databank,,Databank LGA3,197452,-73.98965093,41.03994324,building,336485
+1383916144,New Jersey,NJ,34,17,34017,Hudson County,CoreSite,NY3,CoreSite NY3,39679,-74.06535726,40.78490383,building,713264
+1386016627,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services,213519,-82.75012924,40.10242869,building,177454
+1386016628,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services,125656,-82.75191229,40.10197817,building,177454
+1386016629,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services,213118,-82.7321115,40.09421859,building,177454
+1386016630,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services,72426,-82.72928127,40.09437826,building,177454
+1386016631,Ohio,OH,39,89,39089,Licking County,Amazon Web Services,,Amazon Web Services,211441,-82.73200435,40.09550173,building,177454
+1386016632,Ohio,OH,39,49,39049,Franklin County,Google,,Google NBY-5,287008,-82.77204858,40.05652001,building,1313598
+1386016633,Ohio,OH,39,49,39049,Franklin County,Google,,Google NBY-6,287583,-82.76761079,40.05392735,building,1313598
+1386016633,Ohio,OH,39,89,39089,Licking County,Google,,Google NBY-6,287583,-82.76761079,40.05392735,building,177454
+1386016634,Ohio,OH,39,89,39089,Licking County,Meta,,Meta,365548,-82.74054461,40.06149628,building,177454
+1386016635,Ohio,OH,39,89,39089,Licking County,Meta,,Meta,304109,-82.74114939,40.0652394,building,177454
+1386016636,Ohio,OH,39,159,39159,Union County,Amazon Web Services,,Amazon Web Services,210421,-83.21264448,40.13579696,building,61769
+1386016637,Ohio,OH,39,159,39159,Union County,Amazon Web Services,,Amazon Web Services,156855,-83.19930886,40.12007223,building,61769
+1386016638,Ohio,OH,39,159,39159,Union County,Amazon Web Services,,Amazon Web Services,211969,-83.20321748,40.11930148,building,61769
+1386016639,Ohio,OH,39,159,39159,Union County,Amazon Web Services,,Amazon Web Services,216190,-83.20252284,40.1181121,building,61769
+1386016640,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,214085,-83.17552395,40.05017566,building,1313598
+1386016641,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,211155,-83.17571627,40.05152799,building,1313598
+1386016642,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,212842,-83.12585831,40.01641808,building,1313598
+1386016643,Ohio,OH,39,49,39049,Franklin County,Amazon Web Services,,Amazon Web Services,217920,-83.12602357,40.02101729,building,1313598
+1386017490,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,214042,-119.619663,45.85173142,building,11964
+1386017491,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,210337,-119.619685,45.85310039,building,11964
+1386017492,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,210662,-119.6320054,45.81870682,building,11964
+1386017493,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,215555,-119.6362687,45.81869632,building,11964
+1386017494,Oregon,OR,41,49,41049,Morrow County,Amazon Web Services,,Amazon Web Services,209033,-119.636287,45.81995658,building,11964
+1386017495,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,211502,-119.2686151,45.80963737,building,79509
+1386017496,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,212806,-119.2686131,45.80827345,building,79509
+1386017497,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,215405,-119.3617327,45.79902106,building,79509
+1386017498,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,13837,-119.3584445,45.7996868,building,79509
+1386017499,Oregon,OR,41,59,41059,Umatilla County,Amazon Web Services,,Amazon Web Services,13867,-119.3589196,45.79773908,building,79509
+1386017500,Wyoming,WY,56,21,56021,Laramie County,Microsoft,,CYS41 Datacenter,46211,-104.8970128,41.12439346,building,99905
+1386017501,Wyoming,WY,56,21,56021,Laramie County,Microsoft,,CYS42 Datacenter,60368,-104.9089101,41.12538272,building,99905
+1386926534,Tennessee,TN,47,157,47157,Shelby County,xAI,,xAI Macrohard Colossus 2,961601,-90.03486738,34.99798305,building,929178
+1387080629,Oklahoma,OK,40,101,40101,Muskogee County,,,,112466,-95.51241664,35.56813485,building,66881
+1387391200,Virginia,VA,51,107,51107,Loudoun County,True North Data Solutions,,True North Data Centers,4583218,-77.53741192,39.04372564,campus,413574
+1387391201,Virginia,VA,51,107,51107,Loudoun County,True North Data Solutions,,TikTok Data Center,169768,-77.53799756,39.04424692,building,413574
+1391966326,Minnesota,MN,27,3,27003,Anoka County,Encompass,,Encompass Minneapolis Facility,74101,-93.09562182,45.13219705,building,360773
+1392657385,Kansas,KS,20,91,20091,Johnson County,,,,86525,-94.8601851,38.93919969,building,605154
+1411056682,Ohio,OH,39,49,39049,Franklin County,Oppidan,,,89315,-83.12742345,40.05267288,building,1313598
+1414729942,Wyoming,WY,56,5,56005,Campbell County,,,,5975,-105.6104802,44.18923687,building,46758
+1417637306,Montana,MT,30,17,30017,Custer County,State of Montana,,State of Montana Data Center,8493,-105.8206447,46.40689746,building,11968
+1421212901,Nevada,NV,32,3,32003,Clark County,Switch,,Switch Las Vegas 14,223997,-115.222045,36.06520756,building,2231147
+1422101108,Nebraska,NE,31,55,31055,Douglas County,Google,,Google,290161,-96.08466909,41.33914158,building,578771
+1422101112,Nebraska,NE,31,55,31055,Douglas County,Google,,Google,290130,-96.08771931,41.3419388,building,578771
+1422101116,Nebraska,NE,31,55,31055,Douglas County,Google,,Google,290105,-96.09353331,41.34516239,building,578771
+1422191450,North Dakota,ND,38,21,38021,Dickey County,Applied Digital,,Applied Digital / Ellendale Data Center,2706037,-98.57244092,46.01354946,campus,5013
+1425043212,Ohio,OH,39,89,39089,Licking County,Quality Technology Services,,QTS NAL 2 DC1,163319,-82.75637526,40.05568366,building,177454
+1425043213,Ohio,OH,39,89,39089,Licking County,Quality Technology Services,,QTS NAL 2 DC2,147657,-82.75657723,40.05311989,building,177454
+1425043214,Ohio,OH,39,89,39089,Licking County,Quality Technology Services,,QTS NAL1 DC2,226711,-82.75816917,40.06356214,building,177454
+1425043215,Ohio,OH,39,89,39089,Licking County,Quality Technology Services,,QTS NAL1 DC1,225116,-82.75805608,40.06510848,building,177454
+1426146790,Illinois,IL,17,43,17043,DuPage County,,,,169253,-88.24692281,41.79538429,building,934094
+1426525184,Texas,TX,48,139,48139,Ellis County,Google,,Google,288830,-96.7931689,32.53899429,building,187984
+1426525212,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,248978,-96.80209872,32.54551791,building,187984
+1426525213,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,248985,-96.80208059,32.54420541,building,187984
+1426525214,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,248988,-96.80208539,32.54291261,building,187984
+1426525215,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,248989,-96.80209902,32.54160201,building,187984
+1426525216,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,247998,-96.80210588,32.54029016,building,187984
+1426525217,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,251939,-96.79361042,32.54267431,building,187984
+1426525218,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,251912,-96.79361085,32.54399254,building,187984
+1426525219,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,251911,-96.79364757,32.54529699,building,187984
+1426525220,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,251923,-96.78850694,32.54396529,building,187984
+1426525221,Texas,TX,48,139,48139,Ellis County,,,Compass Data Center,251941,-96.78849058,32.54529665,building,187984
+1426663252,Virginia,VA,51,59,51059,Fairfax County,,,,113584,-77.42497942,38.92310083,building,1146825
+1426663253,Virginia,VA,51,59,51059,Fairfax County,,,,131768,-77.42469054,38.93647914,building,1146825
+1427613543,Ohio,OH,39,89,39089,Licking County,Google,,Google NBY-7,175532,-82.76444724,40.05393985,building,177454
+1427613544,Ohio,OH,39,89,39089,Licking County,Vantage,,Vantage Building 1,245446,-82.74695374,40.10249753,building,177454
+1427613545,Ohio,OH,39,89,39089,Licking County,Vantage,,Vantage Building 2,237734,-82.74711627,40.10053147,building,177454
+1427613546,Ohio,OH,39,89,39089,Licking County,Vantage,,Vantage Building 3,222450,-82.74724323,40.09876528,building,177454
+1429883881,Washington,WA,53,25,53025,Grant County,Microsoft,,Microsoft,143441,-119.8874118,47.23859241,building,97874
+1432637060,Texas,TX,48,29,48029,Bexar County,,,,154443,-98.71438662,29.44968029,building,1990522
+1432637061,Texas,TX,48,29,48029,Bexar County,,,,154441,-98.71389142,29.45093084,building,1990522
+1432637062,Texas,TX,48,29,48029,Bexar County,,,,154439,-98.71404702,29.45223054,building,1990522
+1433936352,Missouri,MO,29,47,29047,Clay County,,,,307414,-94.59492398,39.32263663,building,250134
+1443187163,Virginia,VA,51,107,51107,Loudoun County,,,CloudHQ LC3,241208,-77.46040492,39.0112118,building,413574
+1443620406,Texas,TX,48,439,48439,Tarrant County,"Aligned Data Centers, LLC",,Alinged Data Center,188257,-97.07485525,32.54982271,building,2091953
+1443922527,Virginia,VA,51,107,51107,Loudoun County,,,,149008,-77.54733847,39.05599416,building,413574
+1443922528,Virginia,VA,51,107,51107,Loudoun County,,,,106352,-77.54673255,39.05781905,building,413574
+1443922535,Virginia,VA,51,107,51107,Loudoun County,,,,200733,-77.56511221,39.08219103,building,413574
+1446350367,Illinois,IL,17,43,17043,DuPage County,NTT,CH3,NTT Chicago CH3,83897,-88.00800375,41.98691359,building,934094
+1446350370,Illinois,IL,17,43,17043,DuPage County,NTT,CH4,NTT Chicago CH4,101346,-88.00476483,41.98909513,building,934094
+1447029365,Virginia,VA,51,153,51153,Prince William County,Microsoft,2,Microsoft Data Center 2,247070,-77.58337971,38.79995611,building,477224
+1447049070,Ohio,OH,39,49,39049,Franklin County,,,,261665,-83.12417578,40.02076086,building,1313598
+1447049071,Ohio,OH,39,49,39049,Franklin County,,,,130027,-83.12318764,40.02120158,building,1313598
+1450418654,Texas,TX,48,331,48331,Milam County,,,Riot Rockdale,4357993,-97.08018499,30.57331452,campus,24895
+1450422488,Texas,TX,48,349,48349,Navarro County,,,Riot Corsiana,11717820,-96.51328904,31.96985924,campus,51908
+1450788161,Kentucky,KY,21,145,21145,McCracken County,,,Riot Kentucky,223516,-88.70305756,37.0892391,campus,67394
+1453996659,Wisconsin,WI,55,27,55027,Dodge County,Meta,,Meta Beaver Dam Data Center,18261491,-88.81652213,43.51037424,campus,89274
+1454573842,Minnesota,MN,27,37,27037,Dakota County,,,,328419,-93.06186048,44.73475893,building,435863
+1454573843,Minnesota,MN,27,37,27037,Dakota County,,,,273743,-93.06488083,44.73450831,building,435863
+1454813845,Iowa,IA,19,153,19153,Polk County,,,,263944,-93.72088558,41.51485307,building,488871
+1454813846,Iowa,IA,19,153,19153,Polk County,,,,263950,-93.72140958,41.51388772,building,488871
+1455361421,Texas,TX,48,475,48475,Ward County,IONIC Digital,,IONIC Digital Cedarvale,2238928,-103.4486208,31.51347361,building,11375
+1455907959,Wyoming,WY,56,21,56021,Laramie County,Meta,,Meta Cheyenne Data Center,11352010,-104.8254976,41.07790353,campus,99905
+1455915217,Idaho,ID,16,1,16001,Ada County,,,,311564,-116.2682278,43.46314907,building,485246
+1455915218,Idaho,ID,16,1,16001,Ada County,,,,374271,-116.2720849,43.46334884,building,485246
+1456953254,Kentucky,KY,21,71,21071,Floyd County,,,East Kentucky Network Datacenter,15594,-82.67876277,37.60017672,building,36127
+1456975947,Arizona,AZ,4,13,04013,Maricopa County,,,,652528,-111.6324625,33.34718733,building,4367186
+1456975948,Arizona,AZ,4,13,04013,Maricopa County,,,,652573,-111.6289166,33.34632251,building,4367186
+1456975949,Arizona,AZ,4,13,04013,Maricopa County,,,,337459,-111.6259678,33.34716881,building,4367186
+1457383500,Texas,TX,48,5,48005,Angelina County,,,,12987,-94.79677176,31.19417566,building,86584
+1458626323,Texas,TX,48,139,48139,Ellis County,Google,,Google,282284,-97.06091511,32.44011677,building,187984
+1459680304,Tennessee,TN,47,79,47079,Henry County,,,Newrays Two LLC Mining,85491,-88.32007315,36.3270316,campus,32298
+1459880367,Mississippi,MS,28,89,28089,Madison County,,,Amazon Canton Data Center,16581378,-90.09185243,32.59799307,campus,108248
+1460776170,Virginia,VA,51,107,51107,Loudoun County,,,,139936,-77.54482173,39.0552615,building,413574
+1460776171,Virginia,VA,51,107,51107,Loudoun County,,,,116829,-77.54599489,39.05412169,building,413574
+1460776174,Virginia,VA,51,107,51107,Loudoun County,,,,303500,-77.5347491,39.05102051,building,413574
+1460847458,California,CA,6,85,06085,Santa Clara County,,,EdgeCore Silicon Valley,80443,-121.9653882,37.38371827,building,1932022
+1460855151,California,CA,6,85,06085,Santa Clara County,Stack Infrastructure,SVY02,STACK SVY02,136083,-121.9537443,37.36193156,building,1932022
+1460861317,Texas,TX,48,29,48029,Bexar County,Amazon Web Services,,Amazon AWS SAT - 12807 Donop,110391,-98.39162547,29.29300518,building,1990522
+1461896928,Texas,TX,48,113,48113,Dallas County,Prime,DFW01-01,Prime DFW01-01,49683,-96.87984574,32.83781408,building,2604722
+1462886682,Ohio,OH,39,49,39049,Franklin County,,,,100131,-83.00154873,40.11581597,building,1313598
+1464257783,Virginia,VA,51,153,51153,Prince William County,Google,,Google,289592,-77.58633953,38.77929309,building,477224
+1464257784,Virginia,VA,51,153,51153,Prince William County,Quality Technology Services,,QTS Manassas DC1,128120,-77.51252254,38.75255127,building,477224
+1465196735,Oregon,OR,41,67,41067,Washington County,Quality Technology Services,,QTS North HIL3 North Building,176342,-122.9184893,45.57202758,campus,596969
+1465196736,Oregon,OR,41,67,41067,Washington County,Quality Technology Services,,QTS North HIL3 South Building,215922,-122.9198979,45.57007708,campus,596969
+1470108469,Washington,WA,53,25,53025,Grant County,,,,504350,-119.8632067,47.24017869,building,97874
+1470261550,Tennessee,TN,47,125,47125,Montgomery County,Google,Building 3,SPC4A,169749,-87.25691733,36.62405506,building,216172
+1472128597,Georgia,GA,13,113,13113,Fayette County,Quality Technology Services,,QTS,227238,-84.52265192,33.44836061,building,117828
+1472128598,Georgia,GA,13,113,13113,Fayette County,Quality Technology Services,,QTS,340589,-84.52361886,33.4509318,building,117828
+1473440674,Utah,UT,49,49,49049,Utah County,,,,378788,-112.0194203,40.26585617,building,648265
+1473440676,Utah,UT,49,49,49049,Utah County,,,,310201,-112.0194526,40.2698756,building,648265
+254756938,Nevada,NV,32,3,32003,Clark County,Lumen Technologies,,CenturyLink,49212,-115.0833859,36.14371621,campus,2231147
+509611414,Texas,TX,48,29,48029,Bexar County,National Security Agency,,Texas Cryptologic Center,465165,-98.64068795,29.44740841,campus,1990522
+518921099,Arizona,AZ,4,13,04013,Maricopa County,Google,,Google Data Center,7905597,-111.6759112,33.35397594,campus,4367186
+680666647,Washington,WA,53,53,53053,Pierce County,,,Centeris,1848925,-122.2796841,47.15959195,campus,910225
+685011021,Arizona,AZ,4,13,04013,Maricopa County,Iron Mountain,AZP-2,Iron Mountain AZP-2,463636,-111.9773049,33.45214088,campus,4367186
+713411278,Texas,TX,48,453,48453,Travis County,,,,505061,-97.70066952,30.20713756,campus,1267795
+713411279,Texas,TX,48,453,48453,Travis County,,,,249430,-97.69793315,30.2059506,campus,1267795
+714139868,New Jersey,NJ,34,17,34017,Hudson County,CoreSite,,CoreSite Secaucus Campus,438062,-74.06526821,40.78433425,campus,713264
+844391357,Ohio,OH,39,49,39049,Franklin County,Google,,Google Data Center,22688090,-82.76621083,40.05820688,campus,1313598
+844391357,Ohio,OH,39,89,39089,Licking County,Google,,Google Data Center,22688090,-82.76621083,40.05820688,campus,177454
+897226569,Virginia,VA,51,107,51107,Loudoun County,Microsoft,,Microsoft Data Center,1575278,-77.55948543,38.94931205,campus,413574
+930540164,California,CA,6,73,06073,San Diego County,,,,13597,-117.2388463,33.1536001,campus,3296317
+936368014,New Jersey,NJ,34,35,34035,Somerset County,,,,284322,-74.54801971,40.52421442,campus,343950
+989352911,New Jersey,NJ,34,35,34035,Somerset County,,,,259234,-74.53843497,40.54333908,campus,343950
+1012918195,Georgia,GA,13,121,13121,Fulton County,,,,174649,-84.27398204,34.06098519,campus,1054286
+1052182309,Arizona,AZ,4,13,04013,Maricopa County,,,,365629,-112.0706151,33.49340637,campus,4367186
+1092757323,Nebraska,NE,31,19,31019,Buffalo County,,,Compute North,356125,-99.03832882,40.72592347,campus,49840
+1226436457,Iowa,IA,19,155,19155,Pottawattamie County,CyrusOne,OCB1,CyrusOne OCB1 Council Bluffs,382799,-95.87801936,41.21221398,campus,93571
+1317915930,Virginia,VA,51,107,51107,Loudoun County,Centersquare,IAD4,Centersquare Ashburn IAD4 Data Center,287687,-77.45319382,39.02194771,campus,413574
+1339825480,Nebraska,NE,31,55,31055,Douglas County,,,,21448981,-96.09132616,41.34257575,campus,578771
+1356594646,Arizona,AZ,4,13,04013,Maricopa County,NTT,,NTT PH1 Datacenter,3498780,-111.6123432,33.35382097,campus,4367186
+1357825755,Arizona,AZ,4,13,04013,Maricopa County,Iron Mountain,AZP-1,Iron Mountain AZP-1,1290579,-111.9764551,33.45448755,campus,4367186
+751881301,District of Columbia,DC,11,1,11001,District of Columbia,CoreSite,,CoreSite DC1,,-77.0291491,38.9028879,point,683154
+1825907839,New Mexico,NM,35,1,35001,Bernalillo County,,,Southwest Cyberport,,-106.5893487,35.1032925,point,674919
+2590601520,Oregon,OR,41,33,41033,Josephine County,,,FCR,,-123.3286299,42.4378824,point,87686
+2607827436,California,CA,6,73,06073,San Diego County,,,SDSU Computer Room,,-117.070888,32.7750252,point,3296317
+3406467087,Florida,FL,12,86,12086,Miami-Dade County,,,NocRoom Miami IT Services,,-80.3177484,25.7915453,point,2690113
+3406476814,Florida,FL,12,86,12086,Miami-Dade County,,,NocRoom Miami IT Services,,-80.4234346,25.6465617,point,2690113
+3468203102,Louisiana,LA,22,33,22033,East Baton Rouge Parish,,,Center for Computation & Technology (CCT),,-91.1725454,30.407446,point,455447
+3732415309,Oregon,OR,41,51,41051,Multnomah County,Alco Properties,,The Pittock Internet Exchange,,-122.680562,45.5214248,point,810011
+4879481820,Georgia,GA,13,121,13121,Fulton County,Google,,Google Fiber,,-84.3668585,33.7715677,point,1054286
+5146323411,California,CA,6,1,06001,Alameda County,,,Open Computing Facility,,-122.2598231,37.8698521,point,1673133
+5225685660,Virginia,VA,51,680,51680,Lynchburg city,,,Lumos Networks,,-79.1427063,37.415688,point,78973
+6401035673,Oklahoma,OK,40,109,40109,Oklahoma County,,,Rack59 Data Center,,-97.6497453,35.4672049,point,790938
+6625492701,New Mexico,NM,35,1,35001,Bernalillo County,Oso Grande,OSO,Oso Grande,,-106.6536712,35.0925015,point,674919
+6685432442,Nevada,NV,32,29,32029,Storey County,Switch,,Switch Tahoe Reno - The Citadel Campus,,-119.4795921,39.5140963,point,4047
+6793837329,West Virginia,WV,54,65,54065,Morgan County,,,Morgan Wireless,,-78.2253196,39.6309851,point,17144
+6856057098,Texas,TX,48,113,48113,Dallas County,,,VIRTBIZ,,-96.7828145,32.7825463,point,2604722
+7171975407,Maine,ME,23,5,23005,Cumberland County,FirstLight,,FirstLight Data Center,,-70.2613785,43.6578388,point,300776
+7264976228,Indiana,IN,18,157,18157,Tippecanoe County,,,Learning GIS!,,-86.9141546,40.42179,point,185961
+7264976991,Indiana,IN,18,157,18157,Tippecanoe County,,,Agricultural and Biological Engineering,,-86.9165454,40.4218543,point,185961
+7324132050,North Carolina,NC,37,63,37063,Durham County,,,Windstream Communications,,-78.851552,35.881397,point,320146
+7324132051,North Carolina,NC,37,63,37063,Durham County,,,Level 3 Communications,,-78.8515726,35.881364,point,320146
+7557854384,Arizona,AZ,4,13,04013,Maricopa County,,,OptimumHQ,,-111.7526684,33.3804149,point,4367186
+7557868585,Arizona,AZ,4,13,04013,Maricopa County,,,The Chatfield Group,,-111.7528888,33.380601,point,4367186
+7578821329,Arizona,AZ,4,13,04013,Maricopa County,,,All About Serving Process Server,,-111.809686,33.3199157,point,4367186
+7737996606,Arizona,AZ,4,13,04013,Maricopa County,,,Emailage,,-111.8405386,33.302965,point,4367186
+7821940847,Arizona,AZ,4,13,04013,Maricopa County,,,Alliance Technology,,-111.728405,33.3799862,point,4367186
+7985753364,Virginia,VA,51,59,51059,Fairfax County,Digital Realty,,8100 Boone Boulevard,,-77.2258825,38.9137236,point,1146825
+8017899486,Florida,FL,12,1,12001,Alachua County,University of Florida,Version 3.0,HiPerGator,,-82.2997617,29.6728187,point,276171
+8109664813,Georgia,GA,13,121,13121,Fulton County,Digital Realty,ATL13,Atlanta ATL13,,-84.3914814,33.7555186,point,1054286
+8165754026,Wisconsin,WI,55,79,55079,Milwaukee County,,,Data Holdings Data Center,,-87.9539794,43.0439408,point,939123
+8238715059,California,CA,6,85,06085,Santa Clara County,"Stack Infrastructure, Incorporated",,STACK Infrastructure,,-121.891051,37.4027449,point,1932022
+8238715061,California,CA,6,85,06085,Santa Clara County,"Stack Infrastructure, Incorporated",,STACK Infrastructure,,-121.891057,37.4026341,point,1932022
+8477460442,California,CA,6,79,06079,San Luis Obispo County,,,Digital West Data Center,,-120.6415128,35.2553162,point,282771
+8641856300,Michigan,MI,26,99,26099,Macomb County,Dennis Sampier,,Chick-fil-A Hiring Center,,-82.9883939,42.6279424,point,879123
+8767284091,Connecticut,CT,9,110,09110,Capitol Planning Region,,,Ergonomic Group,,-72.5898636,41.7070776,point,#N/A
+8897151054,California,CA,6,85,06085,Santa Clara County,CoreSite,SV1,San Jose Colocation Center,,-121.891646,37.3341181,point,1932022
+9092482804,Virginia,VA,51,107,51107,Loudoun County,Amazon Web Services,IAD69,Amazon Web Services IAD69,,-77.4146998,39.0254851,point,413574
+9190480200,Texas,TX,48,339,48339,Montgomery County,,,Stream Data Centers Houston,,-95.4860464,30.1781365,point,607999
+9669340912,Maryland,MD,24,510,24510,Baltimore city,Crown Castle Fiber,Baltimore,Crown Castle Baltimore,,-76.6064893,39.2877017,point,592211
+9669405859,Maryland,MD,24,510,24510,Baltimore city,AiNET,BW1,AiNET One Market Center,,-76.6203737,39.2917583,point,592211
+9669639033,Virginia,VA,51,59,51059,Fairfax County,Lumen Technologies,,Lumen McLean,,-77.2115713,38.9208538,point,1146825
+9721703993,Wisconsin,WI,55,79,55079,Milwaukee County,,,TierPoint Milwaukee,,-87.9610618,43.0093779,point,939123
+9736262934,New York,NY,36,29,36029,Erie County,,,Frontier Science,,-78.8123836,42.9902011,point,949715
+9808044830,New Mexico,NM,35,1,35001,Bernalillo County,,,505 Marquette,,-106.6526456,35.0886289,point,674919
+9808044840,New Mexico,NM,35,1,35001,Bernalillo County,bigbyte.cc,,123 Central,,-106.6489853,35.0844494,point,674919
+9861806598,Missouri,MO,29,95,29095,Jackson County,,,,,-94.5788209,39.1011816,point,713229
+9922928085,Missouri,MO,29,95,29095,Jackson County,,,Netrality Data Centers,,-94.5811452,39.1009071,point,713229
+10014176940,Puerto Rico,PR,72,61,72061,Guaynabo Municipio,Microsoft,,Microsoft,,-66.1089895,18.4174359,point,90014
+10537283366,Illinois,IL,17,31,17031,Cook County,Netrality,,Netrality,,-87.63344,41.8728811,point,5265398
+10567817971,North Carolina,NC,37,63,37063,Durham County,Duke Libraries,,Brandaleone Lab for Data and Visualization,,-78.9385323,36.0030993,point,320146
+10648552506,Tennessee,TN,47,145,47145,Roane County,Oak Ridge National Laboratory,,Frontier (supercomputer),,-84.310567,35.9295133,point,53313
+10780794741,California,CA,6,75,06075,San Francisco County,Ntirety,,,,-122.3940005,37.7796531,point,865933
+10796113031,Arizona,AZ,4,13,04013,Maricopa County,,,VaultLogix,,-111.9017033,33.627367,point,4367186
+10796113033,Arizona,AZ,4,13,04013,Maricopa County,,,Profit Finder Pro Software,,-111.9020476,33.6272477,point,4367186
+10798644674,Arizona,AZ,4,13,04013,Maricopa County,,,DataPro USA Web Development,,-111.9139825,33.6116624,point,4367186
+10880725408,California,CA,6,13,06013,Contra Costa County,,,e360,,-122.0437382,37.9710809,point,1161643
+10910879064,Illinois,IL,17,31,17031,Cook County,Digital Realty,ORD10,Digital Realty ORD10,,-87.6183067,41.8533507,point,5265398
+10910879065,Illinois,IL,17,31,17031,Cook County,Centersquare,ORD1,Centersquare Chicago Data Center - ORD1,,-87.6186071,41.8533827,point,5265398
+10938672218,Arizona,AZ,4,13,04013,Maricopa County,,,K-Motion Interactive,,-111.8843457,33.6344843,point,4367186
+10945121336,Illinois,IL,17,31,17031,Cook County,,,West Monroe,,-87.6359383,41.8805271,point,5265398
+11018926315,Arizona,AZ,4,13,04013,Maricopa County,,,Iron Mountain Data Centers AZS-1,,-111.8960985,33.6446663,point,4367186
+11098469355,Illinois,IL,17,31,17031,Cook County,CoreSite,CH1,CoreSite Chicago Data Center (CH1),,-87.6314655,41.8759405,point,5265398
+11113161710,Arizona,AZ,4,13,04013,Maricopa County,,,Accelera Data Systems,,-112.1117142,33.6647455,point,4367186
+11167641842,Maryland,MD,24,5,24005,Baltimore County,Expedient,,Expedient Owings Mills,,-76.8115503,39.4273178,point,850702
+11168593074,Maryland,MD,24,510,24510,Baltimore city,Lumen Technologies,,Lumen Baltimore,,-76.6204024,39.2917592,point,592211
+11168593094,Maryland,MD,24,510,24510,Baltimore city,Expedient,,Expedient Tidepoint,,-76.5916709,39.2746554,point,592211
+11400893880,Colorado,CO,8,5,08005,Arapahoe County,Flexential,,Flexential - Denver - Centennial Data Center,,-104.8431597,39.5938733,point,651621
+11526819452,Oregon,OR,41,39,41039,Lane County,,,EarthClick.net LLC,,-123.0559456,43.7971554,point,380532
+11666916913,Arizona,AZ,4,13,04013,Maricopa County,EdgeConneX,,EdgeConneX Data Center,,-111.9700762,33.3955855,point,4367186
+11815482844,Michigan,MI,26,115,26115,Monroe County,,,,,-83.6276287,41.8072817,point,154068
+11924506303,California,CA,6,65,06065,Riverside County,,,IT,,-117.5030207,33.9102899,point,2409331
+11938614120,Arizona,AZ,4,13,04013,Maricopa County,,,"Alembic Computer Services, Inc.",,-111.9773353,33.4051307,point,4367186
+11938631189,Arizona,AZ,4,13,04013,Maricopa County,,,J-Curve Technologies,,-111.9711539,33.4131856,point,4367186
+12112201416,Ohio,OH,39,17,39017,Butler County,Flexential,,Flexential Cincinnati,,-84.4494638,39.3159313,point,387830
+12112236372,Colorado,CO,8,31,08031,Denver County,Flexential,,Flexential Denver - Downtown,,-104.9941589,39.7459702,point,706799
+12112238944,Texas,TX,48,113,48113,Dallas County,Flexential,,Flexential Dallas - Downtown Dallas,,-96.8193707,32.8004101,point,2604722
+12112266917,Florida,FL,12,31,12031,Duval County,Flexential,,Flexential Jacksonville,,-81.5817226,30.2457482,point,983153
+12112270180,Colorado,CO,8,5,08005,Arapahoe County,Flexential,,Flexential - Denver - Aurora,,-104.8488321,39.6610488,point,651621
+12112295055,Tennessee,TN,47,187,47187,Williamson County,Flexential,,Flexential Nashville - Brentwood,,-86.8084949,35.9727294,point,242386
+12112361725,North Carolina,NC,37,183,37183,Wake County,Flexential,,Flexential Raleigh,,-78.8291431,35.8505281,point,1112883
+12112380995,Florida,FL,12,57,12057,Hillsborough County,Flexential,,Flexential Tampa - West,,-82.5399781,28.0372991,point,1444359
+12112382397,Utah,UT,49,49,49049,Utah County,Flexential,,Flexential Salt Lake City - Lindon,,-111.7278754,40.332648,point,648265
+12221811811,New York,NY,36,61,36061,New York County,Digital Realty,JFK13,Digital Realty New York JFK13,,-74.0044583,40.719928,point,1669127
+12221880448,New York,NY,36,61,36061,New York County,Digital Realty,JFK12,Digital Realty New York JFK12,,-74.0084414,40.7176766,point,1669127
+12331366645,Georgia,GA,13,121,13121,Fulton County,CoreSite,AT1,CoreSite AT1,,-84.3911712,33.7559857,point,1054286
+12387534800,New Mexico,NM,35,1,35001,Bernalillo County,UNM,UNM,UNM Data Center,,-106.6153476,35.0867385,point,674919
+12437277166,California,CA,6,85,06085,Santa Clara County,Prime,,Prime Santa Clara,,-121.9628653,37.3666621,point,1932022
+12452254071,New Jersey,NJ,34,23,34023,Middlesex County,,,Open Data Centers Piscataway,,-74.4568563,40.5503501,point,858770
+12471740457,New Jersey,NJ,34,17,34017,Hudson County,H5,,H5 Secaucus,,-74.0750122,40.7853948,point,713264
+12550746951,California,CA,6,85,06085,Santa Clara County,,,"Forescout Technologies, Inc.",,-121.9474176,37.3228675,point,1932022
+12682482760,New York,NY,36,1,36001,Albany County,Lumen Technologies,,Lumen Albany 4,,-73.818665,42.7356308,point,314679
+12695496267,Illinois,IL,17,31,17031,Cook County,Equinix,CH1,Equinix Chicago Data Center - CH1,,-87.6180475,41.8535578,point,5265398
+12708029111,New Jersey,NJ,34,21,34021,Mercer County,,,501 West,,-74.6688514,40.315558,point,384951
+12766117170,New York,NY,36,47,36047,Kings County,Dataverge,,Dataverge,,-74.0048163,40.6576957,point,2712360
+12793428582,Oklahoma,OK,40,143,40143,Tulsa County,,,TulsaConnect DC3,,-95.8382826,36.0994735,point,664084
+13019681063,Arizona,AZ,4,13,04013,Maricopa County,,,Comarch,,-111.6352356,33.3566787,point,4367186
+13042311881,California,CA,6,37,06037,Los Angeles County,CoreSite,LA2,CoreSite - LA2,,-118.2359144,34.0584789,point,10019635
+13154826377,Virginia,VA,51,107,51107,Loudoun County,Equinix,DC22,Equinix,,-77.4537977,39.0137917,point,413574
+13154826378,Virginia,VA,51,107,51107,Loudoun County,NTT,VA7,NTT Ashburn VA7 Data Center,,-77.471954,39.0160142,point,413574
+13154826379,Virginia,VA,51,153,51153,Prince William County,NTT,VA11,NTT VA11 Data Center,,-77.6099636,38.7999731,point,477224
+13226718075,Wisconsin,WI,55,25,55025,Dane County,Lumen Technologies,,Lumen Madison 1 Data Center,,-89.3922794,43.0677161,point,555474
+13311012216,Nevada,NV,32,3,32003,Clark County,Fiberhub,LAS1,Fiberhub LAS1,,-115.1398835,36.0659405,point,2231147
+13409186015,Pennsylvania,PA,42,91,42091,Montgomery County,,,DāStor: 3400 Horizon Drive,,-75.3397205,40.0879189,point,850890
+13465438761,Texas,TX,48,113,48113,Dallas County,,,Rad Web Hosting,,-96.798496,32.7784469,point,2604722
+13527396782,Washington,WA,53,61,53061,Snohomish County,,,,,-122.1915316,47.9587441,point,820024
